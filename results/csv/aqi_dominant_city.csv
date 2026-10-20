@@ -1,0 +1,1116 @@
+state_name,city_name,dominant,n_station_days
+Delhi,Delhi,PM10,5988
+Rajasthan,Jodhpur,PM10,1151
+Rajasthan,Alwar,CO,55
+Rajasthan,Bhiwadi,PM10,306
+Rajasthan,Udaipur,PM2.5,91
+Andhra Pradesh,Rajamahendravaram,PM2.5,39
+Unknown,Unknown,PM2.5,1954
+Unknown,Unknown,Ozone,986
+Madhya Pradesh,Singrauli,Ozone,29
+Madhya Pradesh,Pithampur,PM10,242
+Odisha,Talcher,PM2.5,160
+West Bengal,Siliguri,PM2.5,55
+Punjab,Jalandhar,PM2.5,87
+Uttar Pradesh,Greater Noida,PM10,426
+Bihar,Muzaffarpur,PM2.5,605
+Bihar,Gaya,CO,134
+Maharashtra,Aurangabad,PM10,473
+Kerala,Thiruvananthapuram,PM2.5,25
+Punjab,Mandi Gobindgarh,PM10,93
+Punjab,Amritsar,NO2,2
+Punjab,Amritsar,Ozone,11
+Uttar Pradesh,Lucknow,CO,112
+Uttar Pradesh,Kanpur,CO,108
+TamilNadu,Chennai,Ozone,138
+West Bengal,Kolkata,Ozone,385
+Maharashtra,Nagpur,CO,321
+Maharashtra,Nagpur,PM10,534
+Uttar Pradesh,Hapur,CO,68
+Haryana,Gurugram,Ozone,7
+Madhya Pradesh,Ratlam,PM10,314
+Madhya Pradesh,Ratlam,PM2.5,13
+Haryana,Kurukshetra,PM2.5,136
+Haryana,Bahadurgarh,PM2.5,152
+Haryana,Yamuna Nagar,CO,36
+Haryana,Karnal,CO,47
+Haryana,Sirsa,Ozone,113
+Haryana,Hisar,Ozone,88
+Haryana,Hisar,CO,18
+Gujarat,Ankleshwar,CO,178
+Gujarat,Vatva,NO2,23
+Assam,Guwahati,PM2.5,505
+Maharashtra,Mumbai,CO,724
+Kerala,Eloor,PM2.5,54
+Maharashtra,Mumbai,NO2,350
+Madhya Pradesh,Indore,CO,109
+Karnataka,Bagalkot,PM10,330
+Karnataka,Shivamogga,Ozone,190
+Madhya Pradesh,Gwalior,CO,86
+Kerala,Kannur,PM2.5,15
+Kerala,Kollam,PM10,96
+Haryana,Charkhi Dadri,CO,15
+TamilNadu,Thoothukudi,CO,67
+Bihar,Muzaffarpur,PM10,102
+Kerala,Thrissur,CO,51
+Puducherry,Puducherry,Ozone,211
+Arunachal Pradesh,Naharlagun,PM10,110
+Uttar Pradesh,Prayagraj,Ozone,31
+Uttar Pradesh,Firozabad,SO2,5
+Uttar Pradesh,Vrindavan,PM2.5,3
+Bihar,Rajgir,PM10,172
+Uttar Pradesh,Moradabad,PM2.5,435
+Bihar,Bhagalpur,PM10,201
+Bihar,Kishanganj,PM2.5,7
+Bihar,Purnia,PM10,85
+Uttar Pradesh,Jhansi,PM10,211
+Uttar Pradesh,Baghpat,PM10,232
+Himachal Pradesh,Baddi,Ozone,124
+Uttarakhand,Dehradun,Ozone,95
+TamilNadu,Madurai,CO,12
+TamilNadu,Ramanathapuram,PM10,277
+Andhra Pradesh,Anantapur,CO,24
+Andhra Pradesh,Anantapur,Ozone,10
+Karnataka,Dharwad,Ozone,4
+Chhattisgarh,Korba,PM2.5,31
+Andhra Pradesh,Tirupati,PM2.5,97
+Andhra Pradesh,Tirupati,PM10,93
+Odisha,Baripada,PM2.5,117
+Odisha,Baripada,CO,22
+Odisha,Tensa,PM2.5,46
+Andhra Pradesh,Kadapa,Ozone,96
+Rajasthan,Bikaner,PM10,276
+Rajasthan,Churu,Ozone,111
+Rajasthan,Dholpur,CO,7
+Jharkhand,Dhanbad,CO,39
+Jharkhand,Dhanbad,PM10,44
+Rajasthan,Banswara,PM10,180
+Rajasthan,Sawai Madhopur,PM2.5,33
+Rajasthan,Jhunjhunu,Ozone,36
+Rajasthan,Rajsamand,PM10,88
+Rajasthan,Pratapgarh,CO,10
+Rajasthan,Karauli,CO,10
+Rajasthan,Karauli,Ozone,128
+Rajasthan,Karauli,NO2,3
+Rajasthan,Jhalawar,PM10,191
+Maharashtra,Kolhapur,PM2.5,137
+Maharashtra,Kolhapur,PM10,366
+Rajasthan,Bhilwara,Ozone,99
+Rajasthan,Bundi,PM2.5,72
+Rajasthan,Jaisalmer,PM2.5,52
+Maharashtra,Sangli,PM10,139
+Rajasthan,Nagaur,PM10,271
+Rajasthan,Nagaur,Ozone,38
+Maharashtra,Mahad,PM10,188
+Maharashtra,Mahad,SO2,7
+Maharashtra,Jalgaon,PM2.5,74
+Maharashtra,Jalna,PM10,128
+Maharashtra,Thane,PM10,362
+Maharashtra,Badlapur,CO,26
+Maharashtra,Navi Mumbai,SO2,2
+Maharashtra,Belapur,Ozone,56
+Maharashtra,Virar,CO,23
+Andhra Pradesh,Vijayawada,Ozone,123
+Rajasthan,Dungarpur,PM10,175
+Rajasthan,Dungarpur,CO,30
+Odisha,Barbil,Ozone,77
+Odisha,Barbil,CO,17
+Odisha,Angul,Ozone,38
+Odisha,Bhubaneswar,Ozone,201
+Odisha,Cuttack,PM2.5,92
+Odisha,Byasanagar,PM10,63
+West Bengal,Durgapur,CO,5
+West Bengal,Asansol,NO2,3
+Rajasthan,Alwar,Ozone,6
+Rajasthan,Ajmer,PM2.5,39
+Rajasthan,Udaipur,CO,46
+Andhra Pradesh,Amaravati,PM10,128
+Andhra Pradesh,Amaravati,PM2.5,24
+Odisha,Talcher,PM10,58
+Odisha,Brajrajnagar,NO2,1
+West Bengal,Asansol,PM2.5,471
+Punjab,Jalandhar,Ozone,24
+Punjab,Rupnagar,PM10,240
+Uttar Pradesh,Greater Noida,Ozone,27
+Karnataka,Chikkaballapur,PM2.5,54
+Bihar,Patna,PM2.5,881
+Bihar,Patna,Ozone,122
+Maharashtra,Aurangabad,CO,151
+Telangana,Hyderabad,PM2.5,465
+Kerala,Thiruvananthapuram,NO2,45
+Punjab,Mandi Gobindgarh,CO,15
+Punjab,Amritsar,PM10,203
+Haryana,Faridabad,CO,109
+Uttar Pradesh,Varanasi,CO,356
+TamilNadu,Chennai,PM10,1077
+Maharashtra,Chandrapur,CO,19
+West Bengal,Kolkata,PM2.5,708
+West Bengal,Haldia,PM2.5,74
+Maharashtra,Nashik,PM10,630
+Uttar Pradesh,Agra,PM10,1115
+Uttar Pradesh,Hapur,PM10,130
+Uttar Pradesh,Hapur,Ozone,19
+Uttar Pradesh,Hapur,NO2,2
+Haryana,Manesar,PM2.5,249
+Haryana,Manesar,Ozone,37
+Haryana,Sonipat,PM2.5,98
+Madhya Pradesh,Ratlam,SO2,26
+Haryana,Bhiwani,PM10,107
+Haryana,Bhiwani,Ozone,3
+Haryana,Panipat,PM10,79
+Haryana,Narnaul,SO2,26
+Haryana,Fatehabad,PM2.5,96
+Haryana,Fatehabad,PM10,115
+Haryana,Jind,PM10,153
+Gujarat,Gandhinagar,Ozone,15
+Gujarat,Vatva,PM10,252
+Gujarat,Vatva,CO,16
+Haryana,Kaithal,SO2,9
+TamilNadu,Coimbatore,PM10,139
+Maharashtra,Navi Mumbai,Ozone,143
+Uttar Pradesh,Meerut,PM10,460
+Meghalaya,Shillong,SO2,37
+Madhya Pradesh,Jabalpur,PM2.5,316
+Madhya Pradesh,Jabalpur,PM10,249
+Madhya Pradesh,Katni,PM2.5,33
+Madhya Pradesh,Katni,CO,25
+Karnataka,Yadgir,CO,16
+Karnataka,Vijayapura,SO2,24
+Bihar,Hajipur,PM2.5,127
+Mizoram,Aizawl,PM10,281
+Mizoram,Aizawl,Ozone,61
+Maharashtra,Pune,PM2.5,248
+Maharashtra,Pune,CO,708
+Karnataka,Mangalore,Ozone,19
+Gujarat,Ahmedabad,NO2,81
+Uttar Pradesh,Gorakhpur,PM2.5,109
+Uttar Pradesh,Firozabad,PM2.5,279
+Uttar Pradesh,Firozabad,PM10,323
+Bihar,Bihar Sharif,PM2.5,87
+Bihar,Munger,PM10,68
+Bihar,Munger,CO,52
+Chandigarh,Chandigarh,CO,93
+Uttar Pradesh,Moradabad,Ozone,197
+Bihar,Chhapra,PM2.5,178
+Bihar,Katihar,PM10,145
+Bihar,Manguraha,PM10,153
+Bihar,Saharsa,PM10,140
+Bihar,Siwan,PM2.5,74
+Uttar Pradesh,Bareilly,CO,208
+Andhra Pradesh,Anantapur,PM2.5,24
+Chhattisgarh,Korba,CO,101
+Chhattisgarh,Korba,Ozone,10
+Assam,Sivasagar,CO,23
+Madhya Pradesh,Sagar,Ozone,155
+Gujarat,Surat,PM10,20
+Andhra Pradesh,Chittoor,PM10,115
+Assam,Byrnihat,PM10,47
+Odisha,Baripada,Ozone,115
+Odisha,Bileipada,SO2,1
+Odisha,Rourkela,Ozone,17
+Karnataka,Tumakuru,PM2.5,20
+Assam,Silchar,CO,25
+Andhra Pradesh,Vijayawada,PM2.5,240
+Andhra Pradesh,Vijayawada,CO,27
+Andhra Pradesh,Vijayawada,NO2,16
+Chhattisgarh,Chhal,CO,59
+Chhattisgarh,Chhal,Ozone,130
+Rajasthan,Chittorgarh,Ozone,48
+Rajasthan,Barmer,Ozone,101
+Rajasthan,Sri Ganganagar,PM2.5,110
+Rajasthan,Sikar,PM2.5,83
+Maharashtra,Pimpri-Chinchwad,Ozone,222
+Rajasthan,Bhilwara,PM2.5,98
+Rajasthan,Bundi,Ozone,83
+Maharashtra,Ahmednagar,Ozone,104
+Maharashtra,Amravati,PM10,232
+Maharashtra,Jalna,PM2.5,133
+Maharashtra,Badlapur,PM10,199
+Maharashtra,Badlapur,Ozone,31
+Maharashtra,Malegaon,PM10,243
+Maharashtra,Malegaon,Ozone,11
+Maharashtra,Belapur,PM10,218
+Maharashtra,Virar,Ozone,52
+Maharashtra,Boisar,Ozone,17
+Maharashtra,Bhiwandi,Ozone,34
+Maharashtra,Bhiwandi,CO,33
+Rajasthan,Dungarpur,Ozone,77
+Odisha,Byasanagar,CO,54
+West Bengal,Barrackpore,PM2.5,129
+Uttar Pradesh,Noida,PM2.5,496
+Rajasthan,Jaipur,CO,202
+Rajasthan,Jodhpur,Ozone,362
+Rajasthan,Alwar,PM10,261
+Rajasthan,Alwar,PM2.5,37
+Rajasthan,Bhiwadi,PM2.5,264
+Rajasthan,Ajmer,Ozone,76
+Rajasthan,Kota,PM2.5,359
+Rajasthan,Pali,Ozone,6
+Andhra Pradesh,Rajamahendravaram,CO,113
+Madhya Pradesh,Singrauli,PM2.5,125
+Madhya Pradesh,Mandideep,PM10,188
+Madhya Pradesh,Mandideep,SO2,3
+Odisha,Talcher,CO,116
+Odisha,Brajrajnagar,PM10,138
+Madhya Pradesh,Satna,PM10,108
+Punjab,Patiala,PM2.5,80
+Punjab,Patiala,PM10,197
+Punjab,Jalandhar,PM10,224
+Punjab,Khanna,Ozone,19
+Haryana,Rohtak,NO2,9
+Uttar Pradesh,Greater Noida,PM2.5,228
+Unknown,Unknown,SO2,628
+Karnataka,Chikkaballapur,Ozone,56
+Bihar,Muzaffarpur,CO,81
+Bihar,Gaya,Ozone,149
+Telangana,Hyderabad,PM10,2587
+Kerala,Thiruvananthapuram,PM10,520
+Punjab,Ludhiana,PM10,184
+Telangana,Hyderabad,NO2,79
+Uttar Pradesh,Varanasi,NO2,54
+Uttar Pradesh,Kanpur,Ozone,155
+Maharashtra,Nagpur,Ozone,112
+Maharashtra,Nashik,PM2.5,283
+Uttar Pradesh,Agra,SO2,62
+Gujarat,Ahmedabad,PM10,1099
+Gujarat,Ahmedabad,CO,165
+Madhya Pradesh,Damoh,PM10,88
+Madhya Pradesh,Damoh,SO2,66
+Haryana,Kurukshetra,SO2,6
+Haryana,Yamuna Nagar,PM10,164
+Haryana,Yamuna Nagar,Ozone,5
+Haryana,Karnal,Ozone,19
+Haryana,Palwal,PM2.5,20
+Haryana,Sirsa,PM2.5,75
+Haryana,Jind,PM2.5,88
+Haryana,Jind,Ozone,31
+Haryana,Ballabgarh,PM10,153
+Haryana,Ballabgarh,CO,3
+Gujarat,Ankleshwar,PM10,54
+Gujarat,Vapi,PM2.5,149
+Gujarat,Vapi,PM10,88
+Uttar Pradesh,Ghaziabad,PM10,565
+Uttar Pradesh,Ghaziabad,NO2,2
+TamilNadu,Coimbatore,Ozone,8
+Kerala,Eloor,CO,224
+Chandigarh,Chandigarh,PM10,409
+Madhya Pradesh,Bhopal,PM2.5,208
+Madhya Pradesh,Katni,Ozone,58
+Karnataka,Ramanagara,SO2,28
+Bihar,Patna,PM10,929
+Karnataka,Chikkamagaluru,PM10,88
+Bihar,Gaya,NO2,7
+Haryana,Charkhi Dadri,PM10,27
+Karnataka,Madikeri,PM10,125
+Maharashtra,Pune,NO2,128
+Arunachal Pradesh,Naharlagun,CO,8
+Uttar Pradesh,Lucknow,SO2,26
+Bihar,Motihari,CO,38
+Uttar Pradesh,Firozabad,Ozone,24
+Bihar,Bihar Sharif,CO,16
+Chhattisgarh,Bhilai,PM2.5,114
+Uttar Pradesh,Moradabad,CO,115
+Bihar,Bhagalpur,NO2,3
+Bihar,Purnia,CO,67
+Bihar,Saharsa,PM2.5,132
+Bihar,Samastipur,PM10,71
+Bihar,Siwan,NO2,36
+Uttar Pradesh,Firozabad,CO,18
+Himachal Pradesh,Baddi,PM10,124
+Sikkim,Gangtok,Ozone,232
+Uttarakhand,Dehradun,CO,52
+Uttar Pradesh,Bareilly,PM10,303
+Uttar Pradesh,Bareilly,SO2,107
+Chhattisgarh,Raipur,CO,162
+Assam,Sivasagar,PM10,321
+Madhya Pradesh,Sagar,PM2.5,60
+Andhra Pradesh,Chittoor,PM2.5,55
+Odisha,Rairangpur,PM2.5,109
+Odisha,Bileipada,PM2.5,45
+Karnataka,Kalaburagi,PM10,73
+Karnataka,Hubballi,PM10,255
+Odisha,Rourkela,NO2,12
+Chhattisgarh,Chhal,PM10,94
+Rajasthan,Bharatpur,PM10,128
+Rajasthan,Bikaner,Ozone,4
+Uttarakhand,Rishikesh,Ozone,148
+Rajasthan,Sirohi,Ozone,191
+Assam,Nagaon,Ozone,34
+Rajasthan,Banswara,Ozone,89
+Rajasthan,Dausa,CO,40
+Rajasthan,Hanumangarh,PM2.5,147
+Rajasthan,Jhunjhunu,PM2.5,88
+Rajasthan,Sri Ganganagar,CO,10
+Rajasthan,Jhalawar,PM2.5,89
+Rajasthan,Jhalawar,CO,25
+Rajasthan,Bhilwara,PM10,130
+Rajasthan,Baran,Ozone,161
+Maharashtra,Solapur,PM2.5,140
+Maharashtra,Akola,Ozone,13
+Maharashtra,Jalgaon,Ozone,42
+Maharashtra,Parbhani,Ozone,40
+Maharashtra,Thane,PM2.5,122
+Maharashtra,Boisar,PM10,200
+Maharashtra,Ulhasnagar,PM2.5,117
+Odisha,Angul,PM2.5,158
+Odisha,Bhubaneswar,PM2.5,179
+Odisha,Byasanagar,PM2.5,97
+West Bengal,Barrackpore,PM10,166
+TamilNadu,Perundurai,CO,4
+Delhi,Delhi,PM2.5,5797
+Rajasthan,Jaipur,PM2.5,625
+Rajasthan,Ajmer,PM10,243
+Rajasthan,Kota,PM10,460
+Rajasthan,Kota,CO,72
+Rajasthan,Pali,PM2.5,92
+Unknown,Unknown,PM10,4938
+Unknown,Unknown,NO2,249
+Madhya Pradesh,Singrauli,PM10,121
+Madhya Pradesh,Mandideep,PM2.5,114
+Madhya Pradesh,Dewas,PM10,202
+Andhra Pradesh,Amaravati,Ozone,36
+Andhra Pradesh,Amaravati,CO,161
+West Bengal,Howrah,NO2,59
+West Bengal,Asansol,PM10,316
+Madhya Pradesh,Satna,CO,154
+Uttar Pradesh,Bulandshahr,CO,21
+Uttar Pradesh,Muzaffarnagar,PM2.5,206
+Uttar Pradesh,Muzaffarnagar,PM10,137
+Bihar,Muzaffarpur,Ozone,214
+Haryana,Panchkula,CO,10
+Haryana,Panchkula,Ozone,34
+Punjab,Ludhiana,CO,44
+Maharashtra,Chandrapur,PM2.5,147
+Maharashtra,Chandrapur,PM10,189
+Uttar Pradesh,Varanasi,PM10,749
+Uttar Pradesh,Varanasi,PM2.5,98
+West Bengal,Kolkata,PM10,1095
+West Bengal,Haldia,Ozone,27
+West Bengal,Haldia,CO,48
+Maharashtra,Solapur,PM10,652
+Maharashtra,Solapur,SO2,10
+Uttar Pradesh,Agra,CO,116
+Uttar Pradesh,Agra,Ozone,140
+Haryana,Kurukshetra,PM10,135
+Haryana,Dharuhera,PM10,114
+Haryana,Dharuhera,NO2,8
+Haryana,Yamuna Nagar,PM2.5,98
+Haryana,Karnal,PM2.5,135
+Haryana,Sirsa,PM10,68
+Haryana,Narnaul,Ozone,82
+Haryana,Fatehabad,CO,38
+Haryana,Ballabgarh,Ozone,2
+Gujarat,Gandhinagar,PM10,464
+Gujarat,Vapi,CO,27
+Maharashtra,Mumbai,PM2.5,1273
+Kerala,Eloor,Ozone,6
+Uttar Pradesh,Meerut,CO,108
+Maharashtra,Kalyan,PM10,337
+Maharashtra,Kalyan,NO2,8
+Karnataka,Chamarajanagar,PM10,328
+Madhya Pradesh,Jabalpur,CO,328
+Karnataka,Yadgir,PM10,193
+Karnataka,Ramanagara,CO,44
+Karnataka,Vijayapura,PM10,283
+Madhya Pradesh,Gwalior,Ozone,260
+Mizoram,Aizawl,CO,13
+Assam,Guwahati,SO2,65
+Karnataka,Mangalore,CO,20
+Bihar,Bettiah,PM10,103
+Bihar,Motihari,PM2.5,98
+Bihar,Motihari,Ozone,44
+Bihar,Motihari,NO2,14
+Bihar,Sasaram,PM2.5,79
+Bihar,Munger,SO2,7
+Chhattisgarh,Bilaspur,CO,111
+Chhattisgarh,Bhilai,CO,172
+Chhattisgarh,Bhilai,Ozone,106
+Bihar,Bhagalpur,PM2.5,387
+Bihar,Bhagalpur,Ozone,8
+Bihar,Katihar,PM2.5,116
+Uttar Pradesh,Jhansi,CO,29
+Tripura,Agartala,PM10,150
+Tripura,Agartala,PM2.5,136
+Tripura,Agartala,CO,2
+Sikkim,Gangtok,PM2.5,19
+Telangana,Hyderabad,SO2,2
+Uttar Pradesh,Khurja,SO2,15
+TamilNadu,Madurai,PM10,63
+Uttar Pradesh,Moradabad,SO2,15
+TamilNadu,Ramanathapuram,Ozone,10
+Chhattisgarh,Korba,NO2,105
+Assam,Nalbari,CO,48
+Assam,Byrnihat,SO2,3
+Odisha,Keonjhar,PM10,139
+Odisha,Keonjhar,CO,44
+Odisha,Keonjhar,Ozone,33
+Odisha,Rourkela,PM2.5,340
+Andhra Pradesh,Vijayawada,PM10,837
+Rajasthan,Churu,CO,5
+Rajasthan,Dholpur,PM10,146
+Rajasthan,Kota,Ozone,196
+Rajasthan,Tonk,PM2.5,82
+Rajasthan,Tonk,PM10,173
+Uttarakhand,Kashipur,Ozone,8
+Assam,Nagaon,PM2.5,106
+Rajasthan,Kota,NO2,3
+Rajasthan,Dausa,PM10,232
+Rajasthan,Jhunjhunu,PM10,220
+Rajasthan,Rajsamand,PM2.5,64
+Rajasthan,Rajsamand,CO,53
+Rajasthan,Pratapgarh,PM10,152
+Rajasthan,Karauli,PM2.5,89
+Maharashtra,Pimpri-Chinchwad,CO,167
+Maharashtra,Kolhapur,Ozone,145
+Maharashtra,Sangli,Ozone,129
+Maharashtra,Sangli,CO,12
+Maharashtra,Nashik,NO2,16
+Maharashtra,Latur,PM2.5,83
+Maharashtra,Mahad,PM2.5,98
+Maharashtra,Mahad,CO,9
+Maharashtra,Akola,CO,50
+Maharashtra,Jalgaon,PM10,227
+Maharashtra,Parbhani,PM2.5,68
+Maharashtra,Dhule,PM10,246
+Maharashtra,Ulhasnagar,Ozone,44
+Rajasthan,Jalore,PM2.5,41
+Rajasthan,Jalore,Ozone,45
+Odisha,Balasore,PM10,91
+Odisha,Byasanagar,Ozone,145
+Rajasthan,Bhiwadi,Ozone,30
+TamilNadu,Perundurai,PM10,52
+Rajasthan,Jaipur,PM10,978
+Rajasthan,Jodhpur,CO,73
+Rajasthan,Udaipur,PM10,208
+Andhra Pradesh,Rajamahendravaram,PM10,150
+Madhya Pradesh,Singrauli,CO,49
+Madhya Pradesh,Pithampur,Ozone,29
+Madhya Pradesh,Dewas,SO2,13
+West Bengal,Howrah,PM10,521
+West Bengal,Siliguri,PM10,276
+West Bengal,Siliguri,CO,22
+Haryana,Gurugram,PM2.5,740
+Haryana,Rohtak,PM2.5,294
+Punjab,Rupnagar,PM2.5,76
+Uttar Pradesh,Bulandshahr,PM2.5,114
+Punjab,Bathinda,CO,98
+Karnataka,Bengaluru,PM2.5,416
+Karnataka,Bengaluru,NO2,79
+Andhra Pradesh,Visakhapatnam,PM10,262
+Uttar Pradesh,Varanasi,Ozone,40
+TamilNadu,Chennai,PM2.5,253
+Gujarat,Ahmedabad,PM2.5,964
+Haryana,Bahadurgarh,PM10,157
+Haryana,Panipat,PM2.5,232
+Haryana,Karnal,PM10,146
+Haryana,Narnaul,PM2.5,89
+Haryana,Jind,CO,61
+Haryana,Hisar,PM2.5,110
+Haryana,Ballabgarh,PM2.5,177
+Gujarat,Vapi,SO2,80
+Karnataka,Mysuru,Ozone,280
+Madhya Pradesh,Bhopal,CO,59
+Madhya Pradesh,Indore,NO2,39
+Madhya Pradesh,Jabalpur,Ozone,449
+Karnataka,Yadgir,Ozone,5
+Karnataka,Ramanagara,PM10,27
+Karnataka,Shivamogga,PM10,162
+Madhya Pradesh,Sagar,NO2,4
+Bihar,Hajipur,Ozone,45
+Arunachal Pradesh,Naharlagun,PM2.5,97
+Uttar Pradesh,Prayagraj,PM2.5,150
+Uttar Pradesh,Prayagraj,SO2,127
+Uttar Pradesh,Kanpur,PM10,540
+Bihar,Bettiah,PM2.5,71
+Uttar Pradesh,Vrindavan,PM10,321
+Bihar,Araria,PM10,147
+Bihar,Aurangabad,PM2.5,67
+Bihar,Aurangabad,PM10,142
+Bihar,Kishanganj,PM10,235
+Bihar,Purnia,PM2.5,129
+Bihar,Manguraha,PM2.5,18
+Bihar,Saharsa,CO,44
+Bihar,Samastipur,CO,120
+Himachal Pradesh,Baddi,PM2.5,108
+Sikkim,Gangtok,SO2,11
+Uttar Pradesh,Bareilly,PM2.5,41
+Uttar Pradesh,Khurja,PM2.5,158
+Uttar Pradesh,Khurja,PM10,148
+TamilNadu,Thanjavur,PM10,70
+Karnataka,Dharwad,PM10,150
+Chhattisgarh,Raipur,PM10,984
+Chhattisgarh,Raipur,PM2.5,62
+Chhattisgarh,Raipur,NO2,52
+Gujarat,Surat,PM2.5,43
+Assam,Byrnihat,NO2,2
+Odisha,Nayagarh,PM2.5,114
+Odisha,Tensa,Ozone,44
+Odisha,Tensa,NO2,39
+Karnataka,Tumakuru,PM10,213
+Chhattisgarh,Chhal,PM2.5,58
+Chhattisgarh,Kunjemura,PM10,285
+Chhattisgarh,Kunjemura,NO2,5
+Andhra Pradesh,Kadapa,PM2.5,39
+Andhra Pradesh,Kadapa,PM10,106
+Rajasthan,Bharatpur,PM2.5,82
+Rajasthan,Bikaner,PM2.5,70
+Rajasthan,Churu,PM10,141
+Rajasthan,Dholpur,PM2.5,109
+Rajasthan,Dholpur,Ozone,74
+Rajasthan,Tonk,Ozone,65
+Uttarakhand,Rishikesh,PM2.5,64
+Uttarakhand,Kashipur,PM2.5,93
+Uttarakhand,Kashipur,CO,42
+Assam,Nagaon,PM10,46
+Assam,Nagaon,CO,156
+Rajasthan,Chittorgarh,PM10,234
+Rajasthan,Sawai Madhopur,Ozone,112
+Rajasthan,Sawai Madhopur,CO,13
+Rajasthan,Jhunjhunu,CO,20
+Rajasthan,Sikar,Ozone,86
+Rajasthan,Jhalawar,Ozone,52
+Maharashtra,Pimpri-Chinchwad,NO2,21
+Rajasthan,Bundi,PM10,186
+Rajasthan,Baran,PM10,126
+Rajasthan,Baran,CO,9
+Maharashtra,Akola,PM10,289
+Maharashtra,Ahmednagar,PM2.5,9
+Maharashtra,Aurangabad,PM2.5,133
+Maharashtra,Belapur,PM2.5,32
+Maharashtra,Belapur,NO2,49
+Rajasthan,Dungarpur,PM2.5,65
+Odisha,Bhubaneswar,CO,139
+Odisha,Cuttack,PM10,132
+Odisha,Cuttack,Ozone,92
+Odisha,Cuttack,CO,45
+TamilNadu,Pudukottai,PM10,60
+West Bengal,Durgapur,PM10,132
+West Bengal,Asansol,SO2,5
+TamilNadu,Perundurai,PM2.5,13
+West Bengal,Durgapur,Ozone,25
+Delhi,Delhi,CO,873
+Uttar Pradesh,Noida,PM10,702
+Delhi,Delhi,SO2,15
+Rajasthan,Jodhpur,PM2.5,218
+Rajasthan,Pali,PM10,231
+Rajasthan,Udaipur,NO2,20
+Madhya Pradesh,Pithampur,PM2.5,77
+Odisha,Brajrajnagar,Ozone,36
+West Bengal,Asansol,Ozone,33
+Punjab,Khanna,PM10,248
+Uttar Pradesh,Noida,Ozone,103
+Uttar Pradesh,Bulandshahr,PM10,206
+Karnataka,Bengaluru,PM10,2625
+Bihar,Gaya,PM2.5,406
+Haryana,Panchkula,PM2.5,256
+Maharashtra,Aurangabad,Ozone,202
+Telangana,Hyderabad,Ozone,296
+Haryana,Faridabad,PM2.5,673
+Uttar Pradesh,Kanpur,PM2.5,229
+TamilNadu,Chennai,NO2,8
+West Bengal,Haldia,PM10,210
+Maharashtra,Nashik,CO,158
+West Bengal,Kolkata,CO,165
+Haryana,Manesar,PM10,39
+Madhya Pradesh,Damoh,PM2.5,25
+Haryana,Sonipat,NO2,25
+Haryana,Bhiwani,PM2.5,196
+Haryana,Palwal,PM10,305
+Haryana,Narnaul,PM10,114
+Haryana,Fatehabad,Ozone,34
+Gujarat,Vatva,Ozone,8
+Haryana,Kaithal,Ozone,29
+Assam,Guwahati,CO,155
+Assam,Guwahati,Ozone,7
+Uttar Pradesh,Ghaziabad,PM2.5,430
+Maharashtra,Mumbai,PM10,5345
+Maharashtra,Mumbai,SO2,22
+Maharashtra,Navi Mumbai,CO,46
+Karnataka,Chamarajanagar,CO,20
+Karnataka,Chamarajanagar,Ozone,8
+Meghalaya,Shillong,Ozone,91
+Meghalaya,Shillong,PM2.5,59
+Madhya Pradesh,Bhopal,NO2,9
+Madhya Pradesh,Katni,PM10,237
+Karnataka,Ramanagara,Ozone,106
+Karnataka,Vijayapura,CO,47
+Madhya Pradesh,Sagar,CO,159
+Bihar,Hajipur,PM10,174
+Haryana,Faridabad,NO2,6
+TamilNadu,Gummidipoondi,PM2.5,115
+TamilNadu,Gummidipoondi,PM10,239
+TamilNadu,Thoothukudi,PM10,234
+TamilNadu,Thoothukudi,Ozone,54
+TamilNadu,Thoothukudi,NO2,6
+Karnataka,Madikeri,CO,94
+Maharashtra,Pune,Ozone,151
+Puducherry,Puducherry,PM10,51
+Uttar Pradesh,Prayagraj,PM10,655
+Uttar Pradesh,Varanasi,SO2,122
+Uttar Pradesh,Gorakhpur,PM10,234
+Bihar,Bihar Sharif,PM10,180
+Bihar,Bihar Sharif,Ozone,14
+Uttar Pradesh,Vrindavan,CO,23
+Bihar,Sasaram,CO,162
+Bihar,Sasaram,PM10,64
+Bihar,Sasaram,Ozone,26
+Bihar,Arrah,PM10,151
+Bihar,Chhapra,PM10,98
+Bihar,Chhapra,CO,10
+Uttar Pradesh,Jhansi,PM2.5,49
+Uttar Pradesh,Jhansi,SO2,6
+Tripura,Agartala,SO2,21
+Sikkim,Gangtok,PM10,16
+Sikkim,Gangtok,CO,3
+TamilNadu,Coimbatore,SO2,38
+TamilNadu,Ramanathapuram,PM2.5,26
+Andhra Pradesh,Anantapur,PM10,217
+Chhattisgarh,Korba,PM10,355
+Assam,Sivasagar,PM2.5,19
+Gujarat,Surat,CO,191
+Gujarat,Surat,NO2,37
+Andhra Pradesh,Chittoor,Ozone,79
+Andhra Pradesh,Tirupati,Ozone,41
+Assam,Nalbari,Ozone,20
+Odisha,Rairangpur,PM10,196
+Karnataka,Kalaburagi,CO,256
+Assam,Silchar,PM10,299
+Chhattisgarh,Milupara,Ozone,32
+Chhattisgarh,Milupara,PM10,140
+Chhattisgarh,Tumidih,CO,4
+Chhattisgarh,Tumidih,Ozone,14
+Rajasthan,Churu,PM2.5,74
+Uttarakhand,Rishikesh,PM10,92
+Rajasthan,Sirohi,PM10,126
+Jharkhand,Dhanbad,NO2,20
+Rajasthan,Banswara,PM2.5,67
+Rajasthan,Chittorgarh,PM2.5,75
+Rajasthan,Barmer,PM10,229
+Rajasthan,Barmer,CO,10
+Rajasthan,Hanumangarh,PM10,173
+Rajasthan,Pratapgarh,PM2.5,40
+Maharashtra,Sangli,PM2.5,49
+Maharashtra,Solapur,Ozone,138
+Rajasthan,Nagaur,CO,6
+Maharashtra,Latur,PM10,132
+Maharashtra,Ahmednagar,PM10,150
+Maharashtra,Amravati,Ozone,103
+Maharashtra,Jalna,Ozone,71
+Maharashtra,Parbhani,CO,17
+Maharashtra,Nanded,PM2.5,48
+Maharashtra,Nanded,Ozone,132
+Maharashtra,Dhule,Ozone,6
+Maharashtra,Mira-Bhayandar,PM2.5,62
+Maharashtra,Ulhasnagar,CO,16
+Odisha,Angul,PM10,91
+Odisha,Angul,CO,67
+Delhi,Delhi,NO2,243
+Rajasthan,Jaipur,Ozone,322
+Rajasthan,Bhiwadi,CO,38
+Andhra Pradesh,Rajamahendravaram,Ozone,41
+Madhya Pradesh,Mandideep,Ozone,26
+Madhya Pradesh,Dewas,PM2.5,68
+Madhya Pradesh,Dewas,Ozone,20
+Odisha,Talcher,Ozone,11
+West Bengal,Howrah,PM2.5,327
+West Bengal,Howrah,Ozone,26
+Madhya Pradesh,Satna,Ozone,82
+Unknown,Unknown,CO,2068
+Punjab,Khanna,PM2.5,86
+Haryana,Rohtak,CO,19
+Haryana,Rohtak,Ozone,33
+Uttar Pradesh,Greater Noida,CO,18
+Uttar Pradesh,Bulandshahr,Ozone,22
+Punjab,Bathinda,PM2.5,49
+Karnataka,Bengaluru,CO,705
+Karnataka,Bengaluru,Ozone,334
+Karnataka,Chikkaballapur,PM10,222
+Karnataka,Chikkaballapur,CO,18
+Telangana,Hyderabad,CO,519
+Kerala,Thiruvananthapuram,CO,94
+Kerala,Thiruvananthapuram,Ozone,21
+Punjab,Ludhiana,PM2.5,136
+Punjab,Mandi Gobindgarh,PM2.5,220
+Punjab,Amritsar,PM2.5,123
+Punjab,Amritsar,CO,16
+Andhra Pradesh,Visakhapatnam,PM2.5,72
+Maharashtra,Chandrapur,Ozone,92
+Uttar Pradesh,Lucknow,PM2.5,902
+Uttar Pradesh,Lucknow,Ozone,159
+TamilNadu,Chennai,CO,711
+Uttar Pradesh,Hapur,PM2.5,133
+Haryana,Gurugram,PM10,244
+Haryana,Sonipat,PM10,179
+Haryana,Dharuhera,PM2.5,155
+Haryana,Bahadurgarh,CO,10
+Haryana,Hisar,PM10,92
+Gujarat,Gandhinagar,PM2.5,201
+Gujarat,Vatva,PM2.5,47
+Assam,Guwahati,PM10,284
+Maharashtra,Navi Mumbai,PM2.5,241
+Maharashtra,Navi Mumbai,PM10,1549
+Uttar Pradesh,Meerut,Ozone,132
+Maharashtra,Navi Mumbai,NO2,37
+Karnataka,Mysuru,PM10,76
+Chandigarh,Chandigarh,PM2.5,468
+Madhya Pradesh,Bhopal,PM10,558
+Madhya Pradesh,Bhopal,Ozone,224
+Madhya Pradesh,Indore,PM10,514
+Karnataka,Ramanagara,PM2.5,136
+Bihar,Patna,CO,139
+Karnataka,Chikkamagaluru,Ozone,79
+Karnataka,Chikkamagaluru,CO,141
+Kerala,Kannur,CO,60
+Kerala,Kollam,Ozone,6
+Bihar,Gaya,PM10,320
+Haryana,Charkhi Dadri,PM2.5,311
+Haryana,Faridabad,PM10,369
+Haryana,Faridabad,Ozone,17
+Kerala,Thrissur,PM2.5,8
+Karnataka,Madikeri,PM2.5,99
+Karnataka,Madikeri,Ozone,36
+Puducherry,Puducherry,PM2.5,47
+Gujarat,Gandhinagar,NO2,7
+Uttar Pradesh,Agra,NO2,125
+Chhattisgarh,Bilaspur,PM10,178
+Chhattisgarh,Bhilai,PM10,626
+Uttar Pradesh,Moradabad,PM10,1356
+Bihar,Araria,PM2.5,116
+Bihar,Aurangabad,Ozone,26
+Bihar,Chhapra,SO2,21
+Bihar,Manguraha,CO,36
+Bihar,Manguraha,Ozone,7
+Bihar,Siwan,CO,111
+Uttar Pradesh,Baghpat,CO,56
+Uttarakhand,Dehradun,PM2.5,117
+Uttar Pradesh,Khurja,CO,6
+TamilNadu,Thanjavur,PM2.5,2
+Chhattisgarh,Raipur,Ozone,12
+Andhra Pradesh,Tirupati,CO,8
+Assam,Nalbari,PM10,84
+Odisha,Keonjhar,PM2.5,111
+Odisha,Keonjhar,NO2,3
+Odisha,Rairangpur,Ozone,31
+Odisha,Rourkela,PM10,448
+Odisha,Rourkela,CO,108
+Karnataka,Kalaburagi,Ozone,13
+Assam,Silchar,PM2.5,31
+Chhattisgarh,Milupara,CO,4
+Chhattisgarh,Tumidih,PM2.5,5
+Rajasthan,Sirohi,PM2.5,22
+Jharkhand,Dhanbad,PM2.5,16
+Rajasthan,Dausa,PM2.5,44
+Rajasthan,Sawai Madhopur,PM10,183
+Rajasthan,Sri Ganganagar,PM10,200
+Rajasthan,Pratapgarh,Ozone,160
+Rajasthan,Sikar,PM10,188
+Maharashtra,Pimpri-Chinchwad,PM2.5,395
+Maharashtra,Kolhapur,CO,20
+Rajasthan,Jaisalmer,Ozone,58
+Rajasthan,Baran,PM2.5,61
+Maharashtra,Solapur,CO,78
+Maharashtra,Latur,CO,44
+Maharashtra,Mahad,Ozone,48
+Maharashtra,Amravati,PM2.5,24
+Maharashtra,Parbhani,PM10,166
+Maharashtra,Thane,CO,75
+Maharashtra,Malegaon,PM2.5,98
+Maharashtra,Malegaon,CO,5
+Maharashtra,Mira-Bhayandar,PM10,248
+Maharashtra,Mira-Bhayandar,Ozone,40
+Maharashtra,Virar,PM2.5,56
+Maharashtra,Bhiwandi,NO2,1
+Rajasthan,Jalore,PM10,275
+Odisha,Balasore,PM2.5,96
+Odisha,Balasore,Ozone,15
+Odisha,Balasore,CO,157
+Odisha,Barbil,PM10,192
+Odisha,Bhubaneswar,PM10,174
+West Bengal,Barrackpore,CO,32
+Delhi,Delhi,Ozone,644
+Uttar Pradesh,Noida,CO,96
+Rajasthan,Pali,CO,19
+Madhya Pradesh,Pithampur,CO,15
+Madhya Pradesh,Mandideep,CO,8
+Madhya Pradesh,Dewas,CO,5
+Odisha,Brajrajnagar,CO,146
+West Bengal,Asansol,CO,79
+Punjab,Patiala,Ozone,48
+Punjab,Patiala,CO,39
+Punjab,Jalandhar,CO,27
+Haryana,Gurugram,CO,183
+Punjab,Rupnagar,CO,30
+Punjab,Bathinda,PM10,183
+Maharashtra,Aurangabad,NO2,5
+Andhra Pradesh,Visakhapatnam,Ozone,8
+Uttar Pradesh,Lucknow,PM10,962
+Uttar Pradesh,Kanpur,NO2,23
+West Bengal,Kolkata,NO2,161
+Maharashtra,Nagpur,PM2.5,398
+Maharashtra,Nashik,Ozone,317
+Uttar Pradesh,Agra,PM2.5,522
+Gujarat,Ahmedabad,Ozone,108
+Haryana,Kurukshetra,Ozone,65
+Haryana,Dharuhera,Ozone,26
+Haryana,Bhiwani,CO,35
+Haryana,Palwal,Ozone,6
+Haryana,Sirsa,CO,58
+Gujarat,Ankleshwar,PM2.5,85
+Gujarat,Gandhinagar,CO,86
+Haryana,Kaithal,PM2.5,90
+Haryana,Kaithal,PM10,194
+Uttar Pradesh,Ghaziabad,Ozone,27
+Uttar Pradesh,Ghaziabad,CO,45
+TamilNadu,Coimbatore,CO,30
+TamilNadu,Coimbatore,PM2.5,184
+Maharashtra,Mumbai,Ozone,1037
+Uttar Pradesh,Meerut,PM2.5,351
+Chandigarh,Chandigarh,Ozone,106
+Madhya Pradesh,Indore,PM2.5,514
+Karnataka,Yadgir,PM2.5,96
+Karnataka,Bagalkot,CO,11
+Madhya Pradesh,Sagar,PM10,321
+Madhya Pradesh,Gwalior,PM2.5,263
+Madhya Pradesh,Gwalior,PM10,467
+Kerala,Kannur,PM10,148
+Kerala,Kollam,PM2.5,154
+Kerala,Thrissur,PM10,237
+Karnataka,Madikeri,NO2,7
+Maharashtra,Pune,PM10,612
+Karnataka,Mangalore,PM10,275
+Karnataka,Mangalore,PM2.5,23
+Puducherry,Puducherry,CO,41
+Uttar Pradesh,Prayagraj,CO,102
+Bihar,Bettiah,CO,69
+Bihar,Motihari,PM10,108
+Bihar,Rajgir,PM2.5,86
+Bihar,Rajgir,CO,26
+Bihar,Munger,PM2.5,179
+Chhattisgarh,Bilaspur,PM2.5,46
+Bihar,Arrah,PM2.5,83
+Bihar,Arrah,Ozone,23
+Bihar,Araria,CO,5
+Bihar,Bhagalpur,CO,67
+Bihar,Aurangabad,CO,28
+Bihar,Katihar,CO,38
+Bihar,Kishanganj,Ozone,21
+Bihar,Samastipur,PM2.5,111
+Uttar Pradesh,Jhansi,Ozone,27
+Uttar Pradesh,Baghpat,PM2.5,65
+Tripura,Agartala,Ozone,1
+Uttarakhand,Dehradun,PM10,87
+Karnataka,Dharwad,CO,166
+Andhra Pradesh,Chittoor,CO,16
+Assam,Nalbari,PM2.5,173
+Assam,Byrnihat,PM2.5,242
+Odisha,Baripada,PM10,87
+Odisha,Rairangpur,CO,15
+Odisha,Bileipada,PM10,262
+Odisha,Nayagarh,PM10,188
+Odisha,Nayagarh,NO2,5
+Odisha,Tensa,PM10,208
+Karnataka,Hubballi,Ozone,32
+Karnataka,Hubballi,CO,54
+Karnataka,Tumakuru,Ozone,41
+Karnataka,Tumakuru,CO,18
+Chhattisgarh,Kunjemura,CO,52
+Chhattisgarh,Tumidih,PM10,127
+Chhattisgarh,Tumidih,NO2,3
+Andhra Pradesh,Kadapa,CO,24
+Rajasthan,Bharatpur,Ozone,89
+Rajasthan,Bharatpur,CO,61
+Rajasthan,Bikaner,CO,13
+Uttarakhand,Rishikesh,CO,45
+Uttarakhand,Kashipur,PM10,208
+Rajasthan,Banswara,CO,20
+Rajasthan,Dausa,Ozone,36
+Rajasthan,Barmer,PM2.5,22
+Rajasthan,Rajsamand,Ozone,146
+Rajasthan,Karauli,PM10,83
+Maharashtra,Pimpri-Chinchwad,PM10,346
+Rajasthan,Bhilwara,CO,22
+Rajasthan,Bundi,CO,18
+Rajasthan,Jaisalmer,PM10,243
+Rajasthan,Nagaur,PM2.5,39
+Maharashtra,Latur,Ozone,96
+Maharashtra,Akola,PM2.5,13
+Maharashtra,Ahmednagar,CO,22
+Maharashtra,Amravati,CO,1
+Maharashtra,Jalgaon,CO,15
+Maharashtra,Nanded,PM10,138
+Maharashtra,Thane,Ozone,140
+Maharashtra,Badlapur,PM2.5,93
+Maharashtra,Dhule,PM2.5,94
+Maharashtra,Mira-Bhayandar,CO,8
+Maharashtra,Virar,PM10,229
+Maharashtra,Boisar,PM2.5,80
+Maharashtra,Ulhasnagar,PM10,181
+Maharashtra,Bhiwandi,PM2.5,70
+Maharashtra,Bhiwandi,PM10,200
+Madhya Pradesh,Indore,SO2,195
+Odisha,Barbil,PM2.5,76
+West Bengal,Durgapur,PM2.5,178
+West Bengal,Howrah,CO,25
+Madhya Pradesh,Singrauli,SO2,9
+Uttar Pradesh,Muzaffarnagar,Ozone,7
+Haryana,Fatehabad,NO2,9
+Haryana,Ballabgarh,SO2,6
+Meghalaya,Shillong,PM10,9
+Bihar,Motihari,SO2,5
+Bihar,Araria,Ozone,2
+Assam,Byrnihat,CO,10
+Karnataka,Tumakuru,NO2,2
+West Bengal,Barrackpore,Ozone,6
+Andhra Pradesh,Visakhapatnam,NO2,7
+Uttar Pradesh,Khurja,Ozone,7
+Andhra Pradesh,Anantapur,NO2,3
+Madhya Pradesh,Satna,PM2.5,5
+Haryana,Hisar,SO2,13
+Haryana,Kaithal,CO,3
+Karnataka,Bagalkot,PM2.5,11
+Rajasthan,Chittorgarh,CO,3
+Maharashtra,Dhule,CO,8
+Gujarat,Ankleshwar,SO2,7
+Gujarat,Vapi,Ozone,4
+Maharashtra,Kalyan,Ozone,2
+Uttar Pradesh,Bareilly,Ozone,11
+Haryana,Panchkula,NO2,2
+Punjab,Mandi Gobindgarh,Ozone,4
+Haryana,Manesar,CO,3
+Haryana,Kurukshetra,CO,6
+Haryana,Dharuhera,CO,1
+TamilNadu,Chennai,SO2,3
+Bihar,Kishanganj,NO2,15
+Bihar,Siwan,PM10,5
+Odisha,Tensa,CO,4
+Maharashtra,Boisar,CO,4
+Rajasthan,Jalore,CO,4
+Madhya Pradesh,Dewas,NO2,11
+Karnataka,Bengaluru,SO2,10
+Maharashtra,Solapur,NO2,2
+Madhya Pradesh,Ratlam,NO2,2
+Haryana,Bahadurgarh,NO2,4
+Haryana,Karnal,SO2,1
+Uttar Pradesh,Vrindavan,SO2,6
+Rajasthan,Hanumangarh,CO,7
+Maharashtra,Belapur,CO,5
+Rajasthan,Jodhpur,NO2,5
+Unknown,Unknown,NH3,8
+Punjab,Khanna,CO,3
+Uttar Pradesh,Noida,NO2,14
+Punjab,Bathinda,NO2,2
+Andhra Pradesh,Visakhapatnam,CO,8
+Bihar,Patna,NO2,10
+Bihar,Rajgir,Ozone,2
+Bihar,Katihar,Ozone,2
+Bihar,Saharsa,Ozone,9
+Madhya Pradesh,Indore,Ozone,22
+Haryana,Palwal,CO,2
+Karnataka,Mysuru,CO,5
+Karnataka,Dharwad,SO2,2
+Rajasthan,Sirohi,CO,6
+Rajasthan,Jaisalmer,CO,9
+Odisha,Talcher,SO2,1
+Chhattisgarh,Milupara,PM2.5,6
+Rajasthan,Hanumangarh,Ozone,4
+Rajasthan,Alwar,NO2,4
+Haryana,Kaithal,NO2,1
+West Bengal,Kolkata,SO2,2
+Chhattisgarh,Bhilai,NO2,4
+Haryana,Narnaul,CO,2
+Uttar Pradesh,Baghpat,NO2,2
+Assam,Guwahati,NO2,3
+Rajasthan,Karauli,SO2,1
+Karnataka,Ramanagara,NO2,4
+Bihar,Bettiah,Ozone,3
+Bihar,Siwan,Ozone,6
+Karnataka,Dharwad,PM2.5,2
+Chhattisgarh,Chhal,NO2,5
+Chhattisgarh,Kunjemura,Ozone,3
+Rajasthan,Jaipur,NO2,10
+Haryana,Sonipat,Ozone,1
+Uttar Pradesh,Meerut,NO2,3
+Madhya Pradesh,Satna,NO2,1
+Punjab,Bathinda,SO2,1
+Maharashtra,Chandrapur,NO2,1
+Maharashtra,Kalyan,PM2.5,7
+Odisha,Bileipada,Ozone,9
+Maharashtra,Jalna,NO2,2
+Odisha,Angul,SO2,1
+Rajasthan,Ajmer,CO,5
+Kerala,Eloor,PM10,1
+Rajasthan,Sri Ganganagar,Ozone,1
+Madhya Pradesh,Gwalior,SO2,1
+Andhra Pradesh,Anantapur,SO2,2
+Rajasthan,Dausa,NO2,6
+Punjab,Khanna,NO2,1
+Uttar Pradesh,Muzaffarnagar,CO,2
+Meghalaya,Shillong,CO,2
+Maharashtra,Nagpur,NH3,1
+Haryana,Manesar,SO2,3
+Madhya Pradesh,Jabalpur,NO2,3
+Bihar,Muzaffarpur,NO2,2
+TamilNadu,Coimbatore,NO2,1
+Bihar,Bhagalpur,SO2,3
+Himachal Pradesh,Baddi,SO2,3
+Odisha,Bileipada,CO,1
+Rajasthan,Jaipur,SO2,1
+Bihar,Munger,Ozone,3
+Haryana,Rohtak,PM10,4
+Haryana,Narnaul,NO2,3
+Bihar,Kishanganj,CO,3
+TamilNadu,Pudukottai,PM2.5,5
+West Bengal,Siliguri,NO2,4
+Gujarat,Ahmedabad,SO2,3
+Karnataka,Bagalkot,Ozone,3
+Karnataka,Shivamogga,NO2,5
+Bihar,Muzaffarpur,SO2,2
+Bihar,Samastipur,SO2,5
+Karnataka,Chikkamagaluru,PM2.5,5
+Bihar,Saharsa,SO2,1
+TamilNadu,Ramanathapuram,SO2,2
+West Bengal,Siliguri,Ozone,3
+Haryana,Bahadurgarh,Ozone,5
+Bihar,Bettiah,NO2,1
+Uttar Pradesh,Moradabad,NO2,1
+Haryana,Charkhi Dadri,NO2,1
+Maharashtra,Thane,NO2,3
+Karnataka,Chikkamagaluru,NO2,6
+Madhya Pradesh,Gwalior,NO2,2
+Bihar,Manguraha,NO2,1
+Rajasthan,Tonk,CO,2
+TamilNadu,Pudukottai,CO,1
+Uttar Pradesh,Jhansi,NO2,1
+Karnataka,Mangalore,SO2,1
+Rajasthan,Banswara,SO2,1
+TamilNadu,Madurai,SO2,1
+Rajasthan,Sikar,CO,3
+Haryana,Manesar,NO2,1
+Maharashtra,Jalna,CO,2
+Maharashtra,Kalyan,CO,1
+TamilNadu,Ramanathapuram,CO,2
+Haryana,Rohtak,SO2,1
+Haryana,Bhiwani,SO2,2
+Madhya Pradesh,Katni,NO2,1
+Bihar,Araria,NO2,1
+Uttar Pradesh,Baghpat,Ozone,3
+Chhattisgarh,Kunjemura,PM2.5,1
+Rajasthan,Jaisalmer,NO2,1
+Himachal Pradesh,Baddi,CO,1
+Rajasthan,Jhalawar,NO2,1
+Maharashtra,Solapur,NH3,1
+Maharashtra,Badlapur,NO2,1
+Maharashtra,Mumbai,NH3,1
+TamilNadu,Gummidipoondi,NO2,1
+Bihar,Siwan,SO2,1
+Odisha,Nayagarh,Ozone,1
+Chhattisgarh,Milupara,NO2,2
+Rajasthan,Sri Ganganagar,NO2,1
+Maharashtra,Nanded,CO,1
+Jharkhand,Dhanbad,Ozone,1
+Madhya Pradesh,Jabalpur,SO2,1
+Bihar,Katihar,NO2,1
+Haryana,Panipat,CO,1
+Uttar Pradesh,Bulandshahr,SO2,1
+Karnataka,Chikkaballapur,SO2,1
+Odisha,Bhubaneswar,SO2,1

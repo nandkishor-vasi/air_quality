@@ -1,0 +1,17 @@
+2026-10-20 07:23:46,543 INFO aq.pipeline: Spark 4.0.1 master=local[2] tz=Asia/Kolkata
+2026-10-20 07:26:27,221 INFO aq.pipeline: rows read=46937170; rejection breakdown={'unit_not_convertible': 4011594, 'kept': 42925552, 'invalid_value': 24}
+2026-10-20 07:33:12,267 INFO aq.pipeline: saved city_summary           rows=2824
+2026-10-20 07:33:19,433 INFO aq.pipeline: saved state_summary          rows=348
+2026-10-20 07:33:23,310 INFO aq.pipeline: saved monthly_city           rows=32902
+2026-10-20 07:33:26,712 INFO aq.pipeline: saved monthly_national       rows=156
+2026-10-20 07:33:28,691 INFO aq.pipeline: saved seasonal_city          rows=11135
+2026-10-20 07:33:45,037 INFO aq.pipeline: saved hourly_pattern         rows=67801
+2026-10-20 07:33:50,712 INFO aq.pipeline: saved hotspots               rows=5691
+2026-10-20 07:34:01,759 INFO aq.pipeline: saved anomaly_days           rows=2000
+2026-10-20 07:34:11,995 INFO aq.pipeline: saved anomaly_summary        rows=2792
+2026-10-20 07:34:58,976 INFO aq.pipeline: saved aqi_station_daily      rows=165652
+2026-10-20 07:35:00,313 INFO aq.pipeline: saved aqi_city_monthly       rows=2892
+2026-10-20 07:35:01,571 INFO aq.pipeline: saved aqi_category_city      rows=1183
+2026-10-20 07:35:02,643 INFO aq.pipeline: saved aqi_dominant_city      rows=1115
+2026-10-20 07:35:04,318 INFO aq.pipeline: saved data_coverage          rows=13
+2026-10-20 07:35:04,966 INFO aq.pipeline: pipeline finished in 697.5s

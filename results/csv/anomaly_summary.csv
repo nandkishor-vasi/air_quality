@@ -1,0 +1,2793 @@
+state_name,city_name,parameter_name,n_station_days,n_anomalies,pct_anomalous
+Tamil Nadu,Chennai,PM2.5,292,8,2.74
+Delhi,Delhi,PM10,13461,72,0.535
+Rajasthan,Jaipur,NH3,2132,95,4.456
+Rajasthan,Jodhpur,PM10,1806,9,0.498
+Rajasthan,Udaipur,SO2,364,44,12.088
+Andhra Pradesh,Rajamahendravaram,PM2.5,343,18,5.248
+Madhya Pradesh,Dewas,NO,314,47,14.968
+Odisha,Talcher,PM2.5,340,3,0.882
+West Bengal,Siliguri,SO2,359,10,2.786
+Madhya Pradesh,Satna,NO,354,1,0.282
+Punjab,Patiala,Toluene,363,23,6.336
+Unknown,Unknown,PM2.5,10090,165,1.635
+Punjab,Khanna,Eth-Benzene,359,0,0.0
+Haryana,Gurugram,NO2,1164,139,11.942
+Haryana,Gurugram,Ozone,1188,105,8.838
+Haryana,Gurugram,SO2,994,94,9.457
+Haryana,Rohtak,SO2,361,50,13.85
+Uttar Pradesh,Muzaffarnagar,NH3,349,0,0.0
+Uttar Pradesh,Muzaffarnagar,Ozone,344,0,0.0
+Bihar,Muzaffarpur,PM2.5,1003,4,0.399
+Bihar,Gaya,SO2,1053,10,0.95
+Karnataka,Bengaluru,Eth-Benzene,950,157,16.526
+Kerala,Thiruvananthapuram,PM2.5,617,4,0.648
+Unknown,Unknown,Ozone,8735,373,4.27
+Punjab,Mandi Gobindgarh,Benzene,210,14,6.667
+Punjab,Amritsar,NO2,356,23,6.461
+Telangana,Hyderabad,Benzene,3384,144,4.255
+Maharashtra,Chandrapur,NH3,451,8,1.774
+Uttar Pradesh,Kanpur,CO,1071,45,4.202
+Uttar Pradesh,Lucknow,NO,2169,174,8.022
+Maharashtra,Nagpur,PM10,1363,1,0.073
+TamilNadu,Chennai,Ozone,1842,47,2.552
+Gujarat,Ahmedabad,NO,2408,160,6.645
+West Bengal,Kolkata,Toluene,2477,192,7.751
+Uttar Pradesh,Hapur,CO,349,10,2.865
+Haryana,Gurugram,NO,1161,207,17.829
+Haryana,Manesar,MP-Xylene,310,18,5.806
+Haryana,Sonipat,CO,309,38,12.298
+Haryana,Yamuna Nagar,Eth-Benzene,313,88,28.115
+Haryana,Bhiwani,SO2,336,30,8.929
+Haryana,Karnal,CO,353,42,11.898
+Haryana,Karnal,MP-Xylene,355,8,2.254
+Haryana,Karnal,Xylene,355,6,1.69
+Haryana,Sirsa,Xylene,291,0,0.0
+Haryana,Fatehabad,MP-Xylene,299,64,21.405
+Haryana,Jind,NH3,330,49,14.848
+Haryana,Hisar,Ozone,336,0,0.0
+Haryana,Hisar,Toluene,332,53,15.964
+Haryana,Ballabgarh,SO2,339,21,6.195
+Gujarat,Ankleshwar,Ozone,332,5,1.506
+Gujarat,Gandhinagar,NH3,819,69,8.425
+West Bengal,Howrah,Benzene,960,48,5.0
+Maharashtra,Mumbai,NO2,8647,349,4.036
+Maharashtra,Navi Mumbai,SO2,1954,103,5.271
+Kerala,Eloor,PM10,283,11,3.887
+West Bengal,Kolkata,Ozone,2511,72,2.867
+Maharashtra,Mumbai,CO,8564,203,2.37
+Madhya Pradesh,Indore,Ozone,1495,15,1.003
+Karnataka,Bagalkot,PM10,355,1,0.282
+Madhya Pradesh,Gwalior,CO,1079,16,1.483
+Kerala,Kannur,NO,223,27,12.108
+Kerala,Kannur,PM2.5,223,0,0.0
+Kerala,Kollam,NO,255,41,16.078
+Bihar,Gaya,CO,1032,77,7.461
+Haryana,Charkhi Dadri,CO,360,14,3.889
+Haryana,Faridabad,MP-Xylene,950,8,0.842
+Karnataka,Madikeri,NH3,365,13,3.562
+Assam,Guwahati,PM2.5,940,22,2.34
+Puducherry,Puducherry,NH3,350,3,0.857
+Puducherry,Puducherry,Ozone,347,1,0.288
+Puducherry,Puducherry,Toluene,310,4,1.29
+Gujarat,Ahmedabad,Toluene,1167,13,1.114
+Uttar Pradesh,Lucknow,CO,2120,60,2.83
+Uttar Pradesh,Varanasi,Eth-Benzene,1041,50,4.803
+Bihar,Motihari,SO2,302,21,6.954
+Bihar,Motihari,Toluene,349,50,14.327
+Bihar,Muzaffarpur,PM10,601,0,0.0
+Uttar Pradesh,Kanpur,NO,994,61,6.137
+Uttar Pradesh,Moradabad,NO,2162,148,6.846
+Uttar Pradesh,Moradabad,PM2.5,2089,15,0.718
+Bihar,Bhagalpur,Xylene,693,1,0.144
+Bihar,Chhapra,NH3,330,8,2.424
+Bihar,Katihar,Toluene,340,29,8.529
+Bihar,Kishanganj,Benzene,347,81,23.343
+Bihar,Purnia,PM10,278,1,0.36
+Bihar,Saharsa,Eth-Benzene,338,20,5.917
+Bihar,Siwan,Toluene,203,2,0.985
+Uttar Pradesh,Jhansi,PM10,323,3,0.929
+Uttarakhand,Dehradun,Ozone,354,45,12.712
+Uttar Pradesh,Khurja,NO2,351,132,37.607
+TamilNadu,Madurai,Benzene,76,6,7.895
+TamilNadu,Ramanathapuram,SO2,329,22,6.687
+Andhra Pradesh,Anantapur,MP-Xylene,215,0,0.0
+Andhra Pradesh,Anantapur,Ozone,314,0,0.0
+Karnataka,Dharwad,Ozone,346,2,0.578
+Chhattisgarh,Raipur,NO,1241,86,6.93
+Chhattisgarh,Korba,PM2.5,585,10,1.709
+Chhattisgarh,Bhilai,NH3,1005,68,6.766
+Madhya Pradesh,Gwalior,Benzene,719,221,30.737
+Andhra Pradesh,Chittoor,Eth-Benzene,239,61,25.523
+Assam,Nalbari,Eth-Benzene,334,8,2.395
+Odisha,Baripada,SO2,338,56,16.568
+Odisha,Keonjhar,NH3,276,0,0.0
+Odisha,Rairangpur,NO2,317,68,21.451
+Odisha,Tensa,PM2.5,305,0,0.0
+Karnataka,Kalaburagi,Benzene,343,0,0.0
+Karnataka,Tumakuru,NO2,176,55,31.25
+Andhra Pradesh,Vijayawada,Ozone,1264,28,2.215
+Chhattisgarh,Milupara,NH3,124,0,0.0
+Andhra Pradesh,Kadapa,NO2,300,2,0.667
+Andhra Pradesh,Kadapa,Ozone,244,0,0.0
+Rajasthan,Jodhpur,NH3,1454,18,1.238
+Uttarakhand,Rishikesh,NO,349,4,1.146
+Uttarakhand,Rishikesh,NO2,349,6,1.719
+Rajasthan,Kota,MP-Xylene,1032,33,3.198
+Rajasthan,Hanumangarh,NO2,332,0,0.0
+Rajasthan,Sawai Madhopur,PM2.5,338,7,2.071
+Rajasthan,Jhunjhunu,NH3,360,1,0.278
+Rajasthan,Sri Ganganagar,NO,341,42,12.317
+Rajasthan,Karauli,CO,329,16,4.863
+Rajasthan,Karauli,NO,324,39,12.037
+Maharashtra,Kolhapur,PM10,667,0,0.0
+Maharashtra,Kolhapur,PM2.5,660,1,0.152
+Rajasthan,Bhilwara,Ozone,350,0,0.0
+Rajasthan,Bundi,NH3,354,33,9.322
+Rajasthan,Jaisalmer,PM2.5,357,31,8.683
+Rajasthan,Nagaur,SO2,353,6,1.7
+Maharashtra,Latur,Toluene,350,0,0.0
+Maharashtra,Ahmednagar,Toluene,292,4,1.37
+Maharashtra,Jalgaon,NH3,351,0,0.0
+Maharashtra,Jalgaon,PM2.5,354,4,1.13
+Maharashtra,Parbhani,Benzene,298,19,6.376
+Maharashtra,Nagpur,NO,1353,77,5.691
+Maharashtra,Thane,PM10,700,0,0.0
+Maharashtra,Dhule,SO2,354,2,0.565
+Maharashtra,Virar,CO,363,13,3.581
+Maharashtra,Ulhasnagar,NO,359,14,3.9
+Madhya Pradesh,Jabalpur,NO,1354,122,9.01
+Andhra Pradesh,Vijayawada,NO,1166,71,6.089
+Rajasthan,Jalore,SO2,365,3,0.822
+Madhya Pradesh,Indore,CO,1519,7,0.461
+Madhya Pradesh,Indore,MP-Xylene,399,52,13.033
+Odisha,Balasore,MP-Xylene,279,33,11.828
+Odisha,Barbil,Ozone,366,11,3.005
+Odisha,Bhubaneswar,Ozone,701,9,1.284
+Odisha,Cuttack,NH3,341,6,1.76
+Odisha,Byasanagar,PM10,356,0,0.0
+TamilNadu,Pudukottai,Ozone,51,0,0.0
+West Bengal,Asansol,NO2,828,7,0.845
+West Bengal,Kolkata,PM2.5,2856,34,1.19
+Rajasthan,Alwar,Ozone,361,1,0.277
+Rajasthan,Ajmer,PM2.5,361,4,1.108
+Rajasthan,Udaipur,Eth-Benzene,364,1,0.275
+Madhya Pradesh,Dewas,NH3,315,111,35.238
+Madhya Pradesh,Dewas,Toluene,317,53,16.719
+Andhra Pradesh,Amaravati,PM10,347,8,2.305
+Odisha,Talcher,NH3,345,56,16.232
+Odisha,Talcher,PM10,346,2,0.578
+Odisha,Brajrajnagar,NO2,325,11,3.385
+West Bengal,Asansol,Toluene,921,84,9.121
+West Bengal,Siliguri,Ozone,360,4,1.111
+Punjab,Patiala,NO,364,0,0.0
+Punjab,Jalandhar,Ozone,363,2,0.551
+Haryana,Gurugram,Benzene,1044,102,9.77
+Unknown,Unknown,NO,10147,682,6.721
+Karnataka,Bengaluru,Benzene,3365,232,6.895
+Karnataka,Chikkaballapur,PM2.5,348,0,0.0
+Bihar,Patna,PM2.5,2058,9,0.437
+Bihar,Gaya,Benzene,1056,14,1.326
+Maharashtra,Aurangabad,CO,963,8,0.831
+Telangana,Hyderabad,PM2.5,4208,33,0.784
+Kerala,Thiruvananthapuram,NO2,725,29,4.0
+Punjab,Mandi Gobindgarh,CO,326,4,1.227
+Haryana,Faridabad,NO,1172,39,3.328
+Maharashtra,Chandrapur,Toluene,598,26,4.348
+Uttar Pradesh,Lucknow,Toluene,1079,68,6.302
+Uttar Pradesh,Varanasi,CO,1400,57,4.071
+Uttar Pradesh,Varanasi,NO,1447,106,7.326
+TamilNadu,Chennai,PM10,2143,27,1.26
+Maharashtra,Chandrapur,Benzene,598,2,0.334
+West Bengal,Kolkata,Benzene,2476,189,7.633
+Maharashtra,Nashik,MP-Xylene,1382,46,3.329
+Uttar Pradesh,Agra,PM10,2011,41,2.039
+West Bengal,Kolkata,NH3,2482,175,7.051
+Haryana,Manesar,Ozone,329,45,13.678
+Haryana,Sonipat,PM2.5,295,11,3.729
+Madhya Pradesh,Ratlam,SO2,355,12,3.38
+Haryana,Panipat,Benzene,312,3,0.962
+Haryana,Panipat,NO2,313,2,0.639
+Haryana,Panipat,PM10,312,42,13.462
+Haryana,Fatehabad,PM10,290,5,1.724
+Haryana,Fatehabad,PM2.5,281,2,0.712
+Haryana,Fatehabad,Toluene,299,1,0.334
+Haryana,Hisar,NO2,333,26,7.808
+Haryana,Ballabgarh,Benzene,340,2,0.588
+Gujarat,Ankleshwar,MP-Xylene,332,0,0.0
+Gujarat,Vatva,CO,337,33,9.792
+Gujarat,Vatva,PM10,328,1,0.305
+Haryana,Kaithal,SO2,329,4,1.216
+Uttar Pradesh,Ghaziabad,NH3,1066,31,2.908
+Uttar Pradesh,Ghaziabad,SO2,1064,7,0.658
+Maharashtra,Mumbai,MP-Xylene,6326,444,7.019
+Uttar Pradesh,Greater Noida,Ozone,683,0,0.0
+Chandigarh,Chandigarh,CO,1066,32,3.002
+Chandigarh,Chandigarh,MP-Xylene,1013,27,2.665
+Madhya Pradesh,Katni,CO,349,1,0.287
+Madhya Pradesh,Katni,NO2,354,6,1.695
+Karnataka,Yadgir,CO,246,10,4.065
+Karnataka,Yadgir,NH3,233,11,4.721
+Uttar Pradesh,Meerut,PM10,1043,5,0.479
+Bihar,Patna,Eth-Benzene,1704,181,10.622
+Bihar,Patna,Ozone,2067,144,6.967
+Karnataka,Shivamogga,CO,358,0,0.0
+Karnataka,Vijayapura,PM2.5,354,64,18.079
+Karnataka,Vijayapura,SO2,89,6,6.742
+Madhya Pradesh,Gwalior,SO2,1075,20,1.86
+Bihar,Hajipur,Eth-Benzene,337,37,10.979
+Haryana,Faridabad,CO,1208,36,2.98
+Mizoram,Aizawl,Benzene,359,0,0.0
+Mizoram,Aizawl,Ozone,321,4,1.246
+Bihar,Muzaffarpur,Toluene,1049,90,8.58
+Kerala,Thrissur,Toluene,296,0,0.0
+Karnataka,Madikeri,Toluene,315,3,0.952
+Maharashtra,Pune,PM2.5,1842,33,1.792
+Maharashtra,Pune,CO,1788,72,4.027
+Puducherry,Puducherry,SO2,350,0,0.0
+Arunachal Pradesh,Naharlagun,SO2,215,0,0.0
+Gujarat,Gandhinagar,Ozone,841,19,2.259
+Uttar Pradesh,Prayagraj,Benzene,1083,72,6.648
+Uttar Pradesh,Varanasi,Benzene,1440,51,3.542
+Uttar Pradesh,Varanasi,MP-Xylene,1070,48,4.486
+Bihar,Bihar Sharif,NO2,329,100,30.395
+Bihar,Bihar Sharif,PM2.5,291,16,5.498
+Bihar,Sasaram,Benzene,338,2,0.592
+Bihar,Sasaram,NH3,314,0,0.0
+Bihar,Munger,CO,322,10,3.106
+Bihar,Munger,NO,342,0,0.0
+Uttar Pradesh,Moradabad,NH3,2146,45,2.097
+Bihar,Araria,NO2,300,75,25.0
+Bihar,Araria,SO2,306,1,0.327
+Bihar,Aurangabad,NO,305,20,6.557
+Bihar,Aurangabad,Toluene,321,23,7.165
+Bihar,Chhapra,Benzene,315,95,30.159
+Bihar,Chhapra,NO,323,4,1.238
+Bihar,Chhapra,PM2.5,306,0,0.0
+Bihar,Katihar,NO2,316,7,2.215
+Bihar,Katihar,PM10,286,1,0.35
+Bihar,Manguraha,PM10,198,0,0.0
+Bihar,Saharsa,Toluene,343,20,5.831
+Bihar,Siwan,NO,325,40,12.308
+Bihar,Siwan,PM2.5,227,3,1.322
+Uttar Pradesh,Moradabad,Eth-Benzene,1795,49,2.73
+Uttar Pradesh,Jhansi,NO2,360,1,0.278
+Uttar Pradesh,Firozabad,PM10,639,7,1.095
+Uttar Pradesh,Firozabad,PM2.5,624,10,1.603
+Uttar Pradesh,Baghpat,SO2,357,6,1.681
+Tripura,Agartala,Benzene,273,0,0.0
+Sikkim,Gangtok,NO,303,10,3.3
+Telangana,Hyderabad,Eth-Benzene,1691,39,2.306
+TamilNadu,Thanjavur,NO2,72,3,4.167
+Uttar Pradesh,Moradabad,Ozone,2084,94,4.511
+TamilNadu,Coimbatore,PM10,239,8,3.347
+TamilNadu,Ramanathapuram,NO,294,6,2.041
+Andhra Pradesh,Anantapur,PM2.5,279,17,6.093
+Karnataka,Dharwad,NH3,341,105,30.792
+Karnataka,Dharwad,SO2,342,5,1.462
+Chhattisgarh,Korba,Ozone,470,24,5.106
+Assam,Sivasagar,Benzene,362,0,0.0
+Assam,Sivasagar,NO2,362,1,0.276
+Madhya Pradesh,Gwalior,Eth-Benzene,615,115,18.699
+Madhya Pradesh,Gwalior,NO,1082,117,10.813
+Odisha,Baripada,Ozone,341,0,0.0
+Odisha,Keonjhar,SO2,328,12,3.659
+Odisha,Rourkela,Ozone,343,0,0.0
+Karnataka,Hubballi,NH3,343,14,4.082
+Karnataka,Tumakuru,PM2.5,282,14,4.965
+Andhra Pradesh,Vijayawada,CO,1258,13,1.033
+Andhra Pradesh,Vijayawada,NO2,1166,65,5.575
+Chhattisgarh,Chhal,CO,347,30,8.646
+Andhra Pradesh,Kadapa,Benzene,343,0,0.0
+Andhra Pradesh,Kadapa,MP-Xylene,343,0,0.0
+Rajasthan,Tonk,Toluene,301,20,6.645
+Rajasthan,Chittorgarh,NH3,354,8,2.26
+Rajasthan,Chittorgarh,Ozone,361,0,0.0
+Rajasthan,Barmer,Ozone,359,0,0.0
+Rajasthan,Pratapgarh,MP-Xylene,362,29,8.011
+Maharashtra,Pimpri-Chinchwad,Toluene,1159,4,0.345
+Rajasthan,Bhilwara,NO2,349,0,0.0
+Rajasthan,Bhilwara,PM2.5,347,4,1.153
+Rajasthan,Jaisalmer,CO,361,2,0.554
+Rajasthan,Jaisalmer,NO,346,63,18.208
+Maharashtra,Solapur,Eth-Benzene,672,62,9.226
+Maharashtra,Solapur,NO,667,54,8.096
+Rajasthan,Nagaur,Benzene,348,4,1.149
+Rajasthan,Nagaur,MP-Xylene,290,49,16.897
+Rajasthan,Nagaur,NH3,349,6,1.719
+Maharashtra,Nashik,NO,1377,68,4.938
+Maharashtra,Mahad,NH3,347,3,0.865
+Maharashtra,Aurangabad,SO2,929,15,1.615
+Maharashtra,Jalna,PM2.5,326,0,0.0
+Maharashtra,Nanded,NO,312,18,5.769
+Maharashtra,Malegaon,Ozone,359,0,0.0
+Maharashtra,Malegaon,PM10,357,1,0.28
+Maharashtra,Navi Mumbai,Ozone,1937,10,0.516
+Maharashtra,Virar,NH3,359,0,0.0
+Maharashtra,Bhiwandi,Ozone,336,0,0.0
+Madhya Pradesh,Jabalpur,PM10,1337,10,0.748
+Madhya Pradesh,Jabalpur,PM2.5,1321,18,1.363
+Madhya Pradesh,Jabalpur,Toluene,632,0,0.0
+Andhra Pradesh,Vijayawada,PM2.5,1242,35,2.818
+Andhra Pradesh,Vijayawada,SO2,1204,35,2.907
+Rajasthan,Dungarpur,Ozone,356,0,0.0
+Odisha,Cuttack,MP-Xylene,237,31,13.08
+Odisha,Cuttack,Toluene,363,26,7.163
+Rajasthan,Bhiwadi,NO2,633,8,1.264
+West Bengal,Durgapur,NO,326,10,3.067
+West Bengal,Asansol,PM2.5,906,34,3.753
+Rajasthan,Jaipur,CO,2146,59,2.749
+Rajasthan,Alwar,PM2.5,363,3,0.826
+Rajasthan,Bhiwadi,MP-Xylene,464,30,6.466
+Rajasthan,Ajmer,Eth-Benzene,317,3,0.946
+Rajasthan,Ajmer,Ozone,363,8,2.204
+Rajasthan,Udaipur,Benzene,365,6,1.644
+Andhra Pradesh,Rajamahendravaram,NH3,337,7,2.077
+Andhra Pradesh,Rajamahendravaram,NO2,341,1,0.293
+Madhya Pradesh,Mandideep,PM10,335,0,0.0
+Madhya Pradesh,Mandideep,SO2,328,0,0.0
+Punjab,Patiala,Benzene,362,0,0.0
+Punjab,Patiala,PM10,364,1,0.275
+Punjab,Patiala,SO2,363,20,5.51
+Punjab,Jalandhar,NO,363,0,0.0
+Unknown,Unknown,SO2,10414,606,5.819
+Punjab,Khanna,NO,347,1,0.288
+Punjab,Khanna,Ozone,354,0,0.0
+Haryana,Rohtak,Benzene,365,64,17.534
+Haryana,Rohtak,Eth-Benzene,365,63,17.26
+Uttar Pradesh,Noida,NH3,998,28,2.806
+Uttar Pradesh,Noida,PM2.5,1393,49,3.518
+Karnataka,Bengaluru,Toluene,2773,124,4.472
+Bihar,Muzaffarpur,Xylene,1050,17,1.619
+Bihar,Gaya,Ozone,1046,1,0.096
+Telangana,Hyderabad,NO2,3977,240,6.035
+Punjab,Ludhiana,PM10,360,1,0.278
+Telangana,Hyderabad,PM10,3484,51,1.464
+Uttar Pradesh,Varanasi,NO2,1431,103,7.198
+Telangana,Hyderabad,NO,3982,326,8.187
+Maharashtra,Chandrapur,MP-Xylene,82,1,1.22
+Maharashtra,Chandrapur,SO2,433,44,10.162
+Maharashtra,Solapur,PM2.5,1020,2,0.196
+Maharashtra,Nagpur,Eth-Benzene,1344,65,4.836
+Maharashtra,Nagpur,NH3,1353,20,1.478
+Maharashtra,Nagpur,Toluene,1360,31,2.279
+Maharashtra,Nashik,SO2,1393,5,0.359
+TamilNadu,Chennai,Eth-Benzene,654,27,4.128
+Uttar Pradesh,Agra,Benzene,2043,119,5.825
+Gujarat,Ahmedabad,Benzene,1522,36,2.365
+Gujarat,Ahmedabad,CO,2454,45,1.834
+Gujarat,Ahmedabad,PM10,2407,15,0.623
+Haryana,Yamuna Nagar,PM10,301,0,0.0
+Haryana,Palwal,NO,335,37,11.045
+Haryana,Palwal,SO2,333,11,3.303
+Haryana,Sirsa,Toluene,291,8,2.749
+Haryana,Jind,NO2,330,66,20.0
+Haryana,Hisar,Xylene,332,52,15.663
+Haryana,Ballabgarh,CO,344,10,2.907
+Haryana,Ballabgarh,PM10,341,1,0.293
+Assam,Guwahati,NO,998,35,3.507
+Uttar Pradesh,Ghaziabad,PM10,1054,7,0.664
+TamilNadu,Coimbatore,NO,406,25,6.158
+TamilNadu,Coimbatore,Ozone,414,9,2.174
+Kerala,Eloor,CO,280,9,3.214
+Uttar Pradesh,Meerut,Toluene,971,78,8.033
+Maharashtra,Navi Mumbai,MP-Xylene,1981,101,5.098
+Uttar Pradesh,Greater Noida,SO2,692,3,0.434
+Karnataka,Chamarajanagar,NO2,356,1,0.281
+Karnataka,Chamarajanagar,PM2.5,353,2,0.567
+Uttar Pradesh,Lucknow,NO2,2169,92,4.242
+Uttar Pradesh,Meerut,NO,998,74,7.415
+Bihar,Patna,PM10,1728,0,0.0
+Kerala,Kollam,Toluene,256,0,0.0
+Bihar,Hajipur,NO2,344,0,0.0
+Haryana,Charkhi Dadri,Eth-Benzene,357,153,42.857
+Haryana,Charkhi Dadri,PM10,353,4,1.133
+Haryana,Faridabad,NH3,928,0,0.0
+Haryana,Faridabad,SO2,1136,75,6.602
+TamilNadu,Chennai,Toluene,1369,72,5.259
+Bihar,Muzaffarpur,CO,1025,25,2.439
+Maharashtra,Pune,NO2,1758,63,3.584
+Maharashtra,Pune,SO2,564,66,11.702
+Arunachal Pradesh,Naharlagun,Eth-Benzene,216,0,0.0
+Arunachal Pradesh,Naharlagun,NO2,215,0,0.0
+Uttar Pradesh,Lucknow,SO2,2156,38,1.763
+Uttar Pradesh,Gorakhpur,Ozone,358,10,2.793
+Bihar,Muzaffarpur,NH3,688,32,4.651
+Bihar,Bihar Sharif,Eth-Benzene,139,0,0.0
+Uttar Pradesh,Moradabad,Benzene,2170,70,3.226
+Uttar Pradesh,Moradabad,CO,2117,53,2.504
+Bihar,Araria,NH3,317,0,0.0
+Bihar,Bhagalpur,Benzene,693,167,24.098
+Bihar,Bhagalpur,NO2,695,48,6.906
+Bihar,Katihar,Xylene,340,20,5.882
+Bihar,Saharsa,NO2,333,38,11.411
+Bihar,Samastipur,PM10,300,0,0.0
+Uttar Pradesh,Moradabad,NO2,2161,31,1.435
+Himachal Pradesh,Baddi,PM10,352,7,1.989
+Sikkim,Gangtok,Ozone,303,4,1.32
+Uttarakhand,Dehradun,NO,358,5,1.397
+Telangana,Hyderabad,MP-Xylene,1691,51,3.016
+Uttar Pradesh,Bareilly,NO2,696,187,26.868
+Uttar Pradesh,Khurja,Ozone,351,16,4.558
+Andhra Pradesh,Anantapur,NO,247,0,0.0
+Andhra Pradesh,Anantapur,NO2,249,5,2.008
+Madhya Pradesh,Bhopal,Eth-Benzene,688,112,16.279
+Madhya Pradesh,Bhopal,PM2.5,1037,37,3.568
+Chhattisgarh,Raipur,CO,1301,2,0.154
+Chhattisgarh,Raipur,SO2,1266,96,7.583
+Assam,Sivasagar,PM10,349,0,0.0
+Chhattisgarh,Bhilai,Benzene,1025,36,3.512
+Chhattisgarh,Bhilai,PM2.5,1013,10,0.987
+Madhya Pradesh,Sagar,PM2.5,686,48,6.997
+Andhra Pradesh,Tirupati,NO,305,41,13.443
+Andhra Pradesh,Tirupati,SO2,322,29,9.006
+Odisha,Baripada,MP-Xylene,98,0,0.0
+Odisha,Rairangpur,SO2,315,11,3.492
+Odisha,Rourkela,MP-Xylene,137,1,0.73
+Karnataka,Kalaburagi,PM2.5,342,1,0.292
+Karnataka,Hubballi,PM10,337,0,0.0
+Odisha,Rourkela,NO2,695,27,3.885
+Chhattisgarh,Milupara,PM2.5,183,1,0.546
+Chhattisgarh,Tumidih,NH3,162,0,0.0
+Rajasthan,Bharatpur,MP-Xylene,349,22,6.304
+Rajasthan,Bikaner,MP-Xylene,220,9,4.091
+Rajasthan,Bikaner,Toluene,220,3,1.364
+Rajasthan,Churu,NO,331,43,12.991
+Rajasthan,Dholpur,NH3,346,1,0.289
+Rajasthan,Kota,Eth-Benzene,1066,135,12.664
+Rajasthan,Kota,PM2.5,1089,31,2.847
+Assam,Nagaon,MP-Xylene,353,25,7.082
+Rajasthan,Banswara,NO2,359,0,0.0
+Rajasthan,Hanumangarh,Ozone,337,2,0.593
+Rajasthan,Hanumangarh,PM2.5,325,5,1.538
+Rajasthan,Rajsamand,MP-Xylene,291,48,16.495
+Rajasthan,Sri Ganganagar,Toluene,127,19,14.961
+Rajasthan,Jhalawar,PM2.5,358,25,6.983
+Rajasthan,Jodhpur,Ozone,1813,1,0.055
+Maharashtra,Kolhapur,Eth-Benzene,657,60,9.132
+Rajasthan,Bhilwara,MP-Xylene,345,23,6.667
+Maharashtra,Sangli,Benzene,337,48,14.243
+Maharashtra,Nashik,PM2.5,1396,22,1.576
+Maharashtra,Nashik,NH3,1378,23,1.669
+Maharashtra,Akola,NO,365,21,5.753
+Maharashtra,Ahmednagar,Eth-Benzene,285,8,2.807
+Maharashtra,Nagpur,Ozone,1357,0,0.0
+Maharashtra,Parbhani,NO2,292,7,2.397
+Maharashtra,Thane,PM2.5,699,6,0.858
+Maharashtra,Thane,SO2,701,5,0.713
+Maharashtra,Boisar,SO2,293,23,7.85
+Madhya Pradesh,Indore,Toluene,720,191,26.528
+Odisha,Bhubaneswar,PM2.5,683,15,2.196
+Odisha,Byasanagar,Eth-Benzene,193,9,4.663
+Odisha,Bhubaneswar,Eth-Benzene,699,52,7.439
+West Bengal,Barrackpore,PM10,332,1,0.301
+West Bengal,Durgapur,Xylene,303,12,3.96
+Delhi,Delhi,NO,13332,1277,9.578
+Delhi,Delhi,PM2.5,13208,707,5.353
+Delhi,Delhi,Xylene,952,73,7.668
+Delhi,Delhi,NH3,10933,259,2.369
+Rajasthan,Jaipur,PM2.5,2123,52,2.449
+Rajasthan,Jodhpur,Toluene,1797,117,6.511
+Rajasthan,Kota,CO,1090,14,1.284
+Rajasthan,Kota,NH3,1080,20,1.852
+Rajasthan,Kota,NO2,1083,41,3.786
+Rajasthan,Jaipur,Toluene,1389,89,6.407
+Unknown,Unknown,PM10,10164,125,1.23
+Madhya Pradesh,Singrauli,Benzene,328,13,3.963
+Madhya Pradesh,Singrauli,PM10,333,0,0.0
+Madhya Pradesh,Pithampur,Toluene,357,3,0.84
+Andhra Pradesh,Amaravati,CO,349,0,0.0
+Andhra Pradesh,Amaravati,Ozone,342,5,1.462
+West Bengal,Howrah,NH3,930,39,4.194
+West Bengal,Howrah,NO2,931,20,2.148
+West Bengal,Howrah,SO2,952,21,2.206
+Madhya Pradesh,Satna,CO,342,3,0.877
+Madhya Pradesh,Satna,PM2.5,345,4,1.159
+Punjab,Patiala,Eth-Benzene,360,134,37.222
+Punjab,Patiala,MP-Xylene,360,87,24.167
+Haryana,Gurugram,Eth-Benzene,682,95,13.93
+Uttar Pradesh,Bulandshahr,NO2,365,0,0.0
+Uttar Pradesh,Muzaffarnagar,PM10,350,0,0.0
+Unknown,Unknown,MP-Xylene,4740,419,8.84
+Unknown,Unknown,NO2,10613,484,4.56
+Haryana,Panchkula,SO2,307,9,2.932
+Telangana,Hyderabad,NH3,3250,224,6.892
+Telangana,Hyderabad,SO2,3918,149,3.803
+Kerala,Thiruvananthapuram,SO2,725,0,0.0
+Punjab,Ludhiana,CO,362,29,8.011
+Punjab,Ludhiana,NO2,348,8,2.299
+Andhra Pradesh,Visakhapatnam,NO,357,3,0.84
+Maharashtra,Chandrapur,PM2.5,442,0,0.0
+West Bengal,Kolkata,MP-Xylene,2475,143,5.778
+West Bengal,Kolkata,PM10,2514,3,0.119
+West Bengal,Haldia,CO,360,7,1.944
+West Bengal,Haldia,NO,362,53,14.641
+TamilNadu,Chennai,Benzene,1488,105,7.056
+Uttar Pradesh,Agra,Ozone,1859,50,2.69
+Haryana,Manesar,SO2,280,23,8.214
+Haryana,Dharuhera,PM10,301,1,0.332
+Haryana,Sirsa,PM10,308,16,5.195
+Haryana,Narnaul,MP-Xylene,318,14,4.403
+Haryana,Hisar,SO2,286,1,0.35
+Haryana,Ballabgarh,Ozone,339,5,1.475
+Gujarat,Vapi,CO,76,0,0.0
+Haryana,Kaithal,NO2,332,8,2.41
+Maharashtra,Mumbai,PM2.5,8949,119,1.33
+Maharashtra,Navi Mumbai,NH3,1970,53,2.69
+Maharashtra,Mumbai,NO,8595,461,5.364
+Uttar Pradesh,Meerut,SO2,1013,5,0.494
+Maharashtra,Kalyan,NO2,358,0,0.0
+Uttar Pradesh,Greater Noida,Benzene,692,0,0.0
+Chandigarh,Chandigarh,Xylene,1025,21,2.049
+West Bengal,Kolkata,SO2,2525,163,6.455
+Madhya Pradesh,Indore,NO,1471,58,3.943
+Madhya Pradesh,Jabalpur,CO,1353,22,1.626
+Karnataka,Yadgir,NO,233,2,0.858
+Karnataka,Yadgir,PM10,305,0,0.0
+Karnataka,Ramanagara,Toluene,221,11,4.977
+Uttar Pradesh,Meerut,CO,1037,23,2.218
+Bihar,Patna,Benzene,2109,236,11.19
+Karnataka,Bagalkot,MP-Xylene,355,94,26.479
+Karnataka,Chikkamagaluru,NH3,324,27,8.333
+Kerala,Kannur,MP-Xylene,138,1,0.725
+Kerala,Thiruvananthapuram,NO,717,19,2.65
+Bihar,Patna,MP-Xylene,1703,263,15.443
+Haryana,Charkhi Dadri,NO,354,23,6.497
+Haryana,Charkhi Dadri,Ozone,359,0,0.0
+Mizoram,Aizawl,CO,359,0,0.0
+Maharashtra,Pune,MP-Xylene,1614,134,8.302
+Gujarat,Gandhinagar,PM10,736,6,0.815
+Uttar Pradesh,Agra,CO,2143,130,6.066
+Uttar Pradesh,Varanasi,PM10,1397,28,2.004
+Uttar Pradesh,Varanasi,PM2.5,1307,24,1.836
+Bihar,Bettiah,NH3,314,25,7.962
+Bihar,Bettiah,NO,279,56,20.072
+Bihar,Bettiah,PM10,237,1,0.422
+Bihar,Bihar Sharif,NH3,327,105,32.11
+Uttar Pradesh,Vrindavan,Eth-Benzene,355,4,1.127
+Uttar Pradesh,Prayagraj,MP-Xylene,1075,73,6.791
+Bihar,Sasaram,PM2.5,327,19,5.81
+Bihar,Rajgir,Eth-Benzene,154,12,7.792
+Bihar,Rajgir,NO,342,102,29.825
+Bihar,Munger,Toluene,328,2,0.61
+Chandigarh,Chandigarh,NO,1055,94,8.91
+Chhattisgarh,Bhilai,Ozone,1024,3,0.293
+Bihar,Arrah,Eth-Benzene,209,0,0.0
+Bihar,Arrah,Xylene,240,46,19.167
+Bihar,Bhagalpur,Ozone,700,3,0.429
+Bihar,Bhagalpur,PM2.5,644,28,4.348
+Bihar,Chhapra,MP-Xylene,271,3,1.107
+Bihar,Katihar,NH3,333,0,0.0
+Bihar,Manguraha,Xylene,241,22,9.129
+Uttar Pradesh,Moradabad,SO2,2145,33,1.538
+Uttar Pradesh,Jhansi,CO,363,2,0.551
+Himachal Pradesh,Baddi,NO2,361,12,3.324
+Tripura,Agartala,CO,315,0,0.0
+Tripura,Agartala,MP-Xylene,224,1,0.446
+Tripura,Agartala,PM10,290,0,0.0
+Tripura,Agartala,PM2.5,299,1,0.334
+Uttarakhand,Dehradun,SO2,358,69,19.274
+Uttar Pradesh,Khurja,SO2,351,24,6.838
+TamilNadu,Thanjavur,CO,70,0,0.0
+TamilNadu,Madurai,NH3,76,19,25.0
+TamilNadu,Madurai,NO,76,11,14.474
+Uttar Pradesh,Bareilly,NO,696,53,7.615
+Karnataka,Dharwad,NO,336,2,0.595
+Chhattisgarh,Raipur,Benzene,1179,20,1.696
+Chhattisgarh,Korba,NH3,585,92,15.726
+Chhattisgarh,Korba,NO2,615,0,0.0
+Madhya Pradesh,Gwalior,Ozone,1083,35,3.232
+Madhya Pradesh,Sagar,NH3,345,0,0.0
+Andhra Pradesh,Tirupati,Toluene,141,6,4.255
+Odisha,Keonjhar,Benzene,301,4,1.329
+Odisha,Rairangpur,Eth-Benzene,220,0,0.0
+Odisha,Nayagarh,NH3,308,0,0.0
+Odisha,Rourkela,PM2.5,937,1,0.107
+Karnataka,Kalaburagi,SO2,330,22,6.667
+Andhra Pradesh,Vijayawada,PM10,1243,29,2.333
+Andhra Pradesh,Kadapa,NH3,274,35,12.774
+Rajasthan,Bharatpur,Toluene,355,1,0.282
+Rajasthan,Churu,CO,330,14,4.242
+Rajasthan,Kota,PM10,1087,4,0.368
+Rajasthan,Tonk,Eth-Benzene,227,6,2.643
+Rajasthan,Tonk,PM10,313,0,0.0
+Rajasthan,Tonk,PM2.5,314,0,0.0
+Assam,Nagaon,PM2.5,337,2,0.593
+Rajasthan,Banswara,Eth-Benzene,354,10,2.825
+Rajasthan,Barmer,NO2,363,6,1.653
+Rajasthan,Hanumangarh,Benzene,333,5,1.502
+Rajasthan,Rajsamand,CO,349,0,0.0
+Rajasthan,Pratapgarh,NH3,359,2,0.557
+Rajasthan,Jhalawar,NH3,359,7,1.95
+Rajasthan,Jhalawar,SO2,361,5,1.385
+Maharashtra,Pimpri-Chinchwad,CO,1158,7,0.604
+Maharashtra,Kolhapur,Ozone,687,0,0.0
+Rajasthan,Bhilwara,SO2,338,0,0.0
+Maharashtra,Sangli,CO,333,0,0.0
+Rajasthan,Nagaur,NO,354,23,6.497
+Maharashtra,Latur,Eth-Benzene,349,40,11.461
+Maharashtra,Mahad,MP-Xylene,349,62,17.765
+Maharashtra,Parbhani,PM2.5,289,2,0.692
+Maharashtra,Thane,MP-Xylene,699,25,3.577
+Maharashtra,Badlapur,NO2,352,0,0.0
+Maharashtra,Malegaon,Toluene,358,0,0.0
+Maharashtra,Belapur,Benzene,357,14,3.922
+Maharashtra,Belapur,NO,359,9,2.507
+Maharashtra,Virar,NO,360,2,0.556
+Maharashtra,Virar,NO2,361,2,0.554
+Maharashtra,Bhiwandi,NH3,339,2,0.59
+Rajasthan,Jalore,NO,365,44,12.055
+Rajasthan,Jalore,PM2.5,365,16,4.384
+Madhya Pradesh,Indore,Eth-Benzene,579,111,19.171
+Odisha,Balasore,NO,360,13,3.611
+Odisha,Balasore,PM10,358,1,0.279
+Odisha,Barbil,NO2,365,2,0.548
+West Bengal,Durgapur,SO2,352,21,5.966
+West Bengal,Asansol,Eth-Benzene,921,47,5.103
+West Bengal,Asansol,PM10,905,8,0.884
+West Bengal,Asansol,Xylene,558,25,4.48
+West Bengal,Howrah,Xylene,250,27,10.8
+TamilNadu,Perundurai,SO2,71,0,0.0
+Rajasthan,Jaipur,MP-Xylene,1615,257,15.913
+Rajasthan,Jodhpur,MP-Xylene,1456,107,7.349
+Rajasthan,Bhiwadi,Eth-Benzene,550,68,12.364
+Rajasthan,Jaipur,PM10,2125,5,0.235
+Rajasthan,Udaipur,PM10,366,1,0.273
+Madhya Pradesh,Dewas,SO2,318,5,1.572
+West Bengal,Howrah,Eth-Benzene,935,104,11.123
+Haryana,Rohtak,Toluene,365,63,17.26
+Uttar Pradesh,Noida,Toluene,990,43,4.343
+Uttar Pradesh,Bulandshahr,SO2,351,1,0.285
+Punjab,Bathinda,CO,336,1,0.298
+Punjab,Bathinda,NO,339,56,16.519
+Karnataka,Bengaluru,NO2,4017,372,9.261
+Karnataka,Bengaluru,PM2.5,3582,57,1.591
+Bihar,Muzaffarpur,NO2,1052,51,4.848
+Punjab,Ludhiana,NO,348,22,6.322
+Punjab,Mandi Gobindgarh,Eth-Benzene,202,30,14.851
+Uttar Pradesh,Varanasi,Ozone,1155,42,3.636
+Uttar Pradesh,Kanpur,PM10,1036,10,0.965
+TamilNadu,Chennai,MP-Xylene,638,20,3.135
+Maharashtra,Nagpur,Benzene,1360,36,2.647
+Maharashtra,Nashik,Benzene,1391,37,2.66
+Haryana,Bahadurgarh,Benzene,330,137,41.515
+Haryana,Bahadurgarh,SO2,290,27,9.31
+Haryana,Bhiwani,NO,347,14,4.035
+Haryana,Karnal,PM10,347,7,2.017
+Haryana,Karnal,Toluene,355,8,2.254
+Haryana,Palwal,MP-Xylene,334,106,31.737
+Haryana,Palwal,NO2,335,0,0.0
+Haryana,Sirsa,Benzene,290,0,0.0
+Haryana,Hisar,Benzene,332,0,0.0
+Haryana,Hisar,Eth-Benzene,332,52,15.663
+Haryana,Ballabgarh,PM2.5,341,2,0.587
+Gujarat,Ankleshwar,SO2,328,18,5.488
+Gujarat,Vapi,SO2,344,2,0.581
+Haryana,Kaithal,Benzene,340,39,11.471
+Assam,Guwahati,MP-Xylene,885,71,8.023
+West Bengal,Howrah,PM10,947,28,2.957
+Maharashtra,Mumbai,NH3,8683,418,4.814
+Maharashtra,Kalyan,Ozone,339,1,0.295
+Uttar Pradesh,Noida,NO,1317,125,9.491
+Karnataka,Mysuru,NO2,357,13,3.641
+Karnataka,Ramanagara,PM10,340,0,0.0
+Uttar Pradesh,Meerut,Benzene,971,35,3.605
+Bihar,Patna,NH3,1734,128,7.382
+Bihar,Patna,Toluene,2108,114,5.408
+Karnataka,Vijayapura,MP-Xylene,354,26,7.345
+Karnataka,Vijayapura,NO,354,61,17.232
+Kerala,Kollam,Eth-Benzene,256,1,0.391
+Bihar,Hajipur,NH3,344,0,0.0
+Haryana,Faridabad,Benzene,1088,31,2.849
+Haryana,Gurugram,PM2.5,1149,24,2.089
+Haryana,Gurugram,Toluene,1043,118,11.314
+Mizoram,Aizawl,NH3,287,14,4.878
+TamilNadu,Chennai,PM2.5,2139,86,4.021
+Maharashtra,Pune,Eth-Benzene,1383,169,12.22
+Gujarat,Ahmedabad,PM2.5,2420,16,0.661
+Gujarat,Ahmedabad,NH3,1988,177,8.903
+Uttar Pradesh,Prayagraj,PM2.5,1043,9,0.863
+Uttar Pradesh,Prayagraj,NO2,1083,81,7.479
+Bihar,Motihari,NO,348,49,14.08
+Uttar Pradesh,Vrindavan,PM10,350,1,0.286
+Uttar Pradesh,Prayagraj,SO2,1065,13,1.221
+Bihar,Sasaram,SO2,305,3,0.984
+Chhattisgarh,Bhilai,SO2,1020,74,7.255
+Bihar,Arrah,NO2,312,46,14.744
+Bihar,Araria,PM10,256,1,0.391
+Bihar,Bhagalpur,MP-Xylene,655,119,18.168
+Bihar,Bhagalpur,Toluene,693,147,21.212
+Bihar,Aurangabad,NO2,348,14,4.023
+Bihar,Aurangabad,PM10,252,2,0.794
+Bihar,Gaya,Eth-Benzene,643,60,9.331
+Bihar,Saharsa,CO,323,0,0.0
+Uttar Pradesh,Moradabad,Xylene,365,7,1.918
+Himachal Pradesh,Baddi,PM2.5,347,20,5.764
+Uttar Pradesh,Bareilly,Ozone,508,7,1.378
+Uttar Pradesh,Bareilly,PM2.5,658,31,4.711
+Uttar Pradesh,Khurja,PM10,329,19,5.775
+TamilNadu,Coimbatore,NO2,383,4,1.044
+Uttar Pradesh,Bareilly,Benzene,334,28,8.383
+Chhattisgarh,Raipur,PM2.5,1246,4,0.321
+Chhattisgarh,Raipur,PM10,1253,3,0.239
+Assam,Sivasagar,SO2,357,14,3.922
+Assam,Sivasagar,Toluene,362,0,0.0
+Madhya Pradesh,Sagar,NO2,704,14,1.989
+Gujarat,Surat,PM2.5,283,17,6.007
+Assam,Byrnihat,NO,320,0,0.0
+Assam,Byrnihat,NO2,328,3,0.915
+Odisha,Tensa,NO2,305,0,0.0
+Odisha,Tensa,Ozone,339,41,12.094
+Karnataka,Kalaburagi,NH3,333,0,0.0
+Karnataka,Kalaburagi,Toluene,342,0,0.0
+Karnataka,Hubballi,Toluene,343,0,0.0
+Karnataka,Tumakuru,MP-Xylene,262,38,14.504
+Chhattisgarh,Kunjemura,PM10,346,1,0.289
+Andhra Pradesh,Kadapa,PM10,264,10,3.788
+Rajasthan,Bharatpur,SO2,348,15,4.31
+Rajasthan,Bikaner,PM2.5,360,30,8.333
+Rajasthan,Dholpur,Ozone,350,0,0.0
+Rajasthan,Sirohi,NH3,351,15,4.274
+Assam,Nagaon,NO2,343,10,2.915
+Rajasthan,Kota,Benzene,1084,53,4.889
+Rajasthan,Chittorgarh,PM10,359,0,0.0
+Rajasthan,Chittorgarh,SO2,359,52,14.485
+Rajasthan,Hanumangarh,NH3,285,0,0.0
+Rajasthan,Sawai Madhopur,CO,353,0,0.0
+Rajasthan,Sikar,CO,359,2,0.557
+Rajasthan,Jaipur,SO2,2139,60,2.805
+Maharashtra,Pimpri-Chinchwad,MP-Xylene,1115,12,1.076
+Maharashtra,Kolhapur,Toluene,690,60,8.696
+Rajasthan,Bundi,PM10,358,1,0.279
+Rajasthan,Bundi,SO2,359,4,1.114
+Rajasthan,Bundi,Toluene,357,81,22.689
+Rajasthan,Jodhpur,CO,1811,31,1.712
+Rajasthan,Baran,CO,358,3,0.838
+Rajasthan,Baran,MP-Xylene,343,36,10.496
+Rajasthan,Baran,PM10,356,1,0.281
+Maharashtra,Latur,Benzene,350,37,10.571
+Maharashtra,Ahmednagar,PM2.5,286,2,0.699
+Maharashtra,Aurangabad,PM2.5,623,4,0.642
+Maharashtra,Jalna,MP-Xylene,321,10,3.115
+Maharashtra,Navi Mumbai,Eth-Benzene,1988,193,9.708
+Maharashtra,Thane,Benzene,703,23,3.272
+Maharashtra,Mira-Bhayandar,NO,359,2,0.557
+Madhya Pradesh,Jabalpur,Ozone,1350,21,1.556
+Madhya Pradesh,Indore,NO2,1298,16,1.233
+Odisha,Balasore,NH3,340,14,4.118
+Odisha,Bhubaneswar,NO2,658,47,7.143
+Odisha,Bhubaneswar,Toluene,700,8,1.143
+Odisha,Cuttack,NO,348,49,14.08
+Odisha,Cuttack,Ozone,354,0,0.0
+Odisha,Bhubaneswar,CO,670,44,6.567
+TamilNadu,Pudukottai,PM10,66,0,0.0
+Rajasthan,Bhiwadi,Toluene,633,119,18.799
+West Bengal,Durgapur,NH3,315,5,1.587
+West Bengal,Durgapur,NO2,329,8,2.432
+West Bengal,Durgapur,PM10,339,3,0.885
+West Bengal,Asansol,SO2,922,148,16.052
+Maharashtra,Pimpri-Chinchwad,NO2,1120,0,0.0
+Delhi,New Delhi,PM2.5,366,21,5.738
+Delhi,Delhi,CO,13462,523,3.885
+Uttar Pradesh,Noida,Ozone,1348,2,0.148
+Delhi,Delhi,SO2,11099,283,2.55
+Rajasthan,Jodhpur,PM2.5,1799,103,5.725
+Rajasthan,Bhiwadi,NH3,626,23,3.674
+Andhra Pradesh,Rajamahendravaram,Eth-Benzene,318,10,3.145
+Madhya Pradesh,Mandideep,NO,330,53,16.061
+Andhra Pradesh,Amaravati,Toluene,349,47,13.467
+Odisha,Brajrajnagar,Benzene,351,0,0.0
+West Bengal,Siliguri,NH3,352,3,0.852
+Punjab,Patiala,NH3,364,0,0.0
+Punjab,Khanna,PM10,357,2,0.56
+Uttar Pradesh,Noida,PM10,1393,5,0.359
+Uttar Pradesh,Bulandshahr,NH3,365,0,0.0
+Karnataka,Bengaluru,PM10,4088,84,2.055
+Bihar,Muzaffarpur,Benzene,1051,42,3.996
+Haryana,Panchkula,NO2,307,0,0.0
+Karnataka,Bengaluru,MP-Xylene,1362,166,12.188
+Telangana,Hyderabad,Xylene,3153,80,2.537
+Telangana,Hyderabad,Ozone,3935,222,5.642
+Telangana,Hyderabad,Toluene,3960,284,7.172
+Haryana,Faridabad,NO2,1145,23,2.009
+Uttar Pradesh,Varanasi,SO2,1438,86,5.981
+Uttar Pradesh,Kanpur,PM2.5,1048,13,1.24
+TamilNadu,Chennai,NO,2004,92,4.591
+West Bengal,Haldia,Eth-Benzene,356,8,2.247
+West Bengal,Haldia,MP-Xylene,356,6,1.685
+West Bengal,Haldia,PM10,354,1,0.282
+Maharashtra,Nashik,Toluene,1392,152,10.92
+TamilNadu,Chennai,SO2,2196,101,4.599
+Uttar Pradesh,Agra,NO,2047,61,2.98
+Haryana,Manesar,CO,332,0,0.0
+Haryana,Manesar,NO2,327,62,18.96
+Haryana,Manesar,PM10,331,6,1.813
+Haryana,Sonipat,NO,306,23,7.516
+Haryana,Dharuhera,CO,296,24,8.108
+Haryana,Bhiwani,PM2.5,343,8,2.332
+Haryana,Panipat,Eth-Benzene,313,34,10.863
+Haryana,Karnal,NH3,355,1,0.282
+Haryana,Palwal,PM10,333,2,0.601
+Haryana,Sirsa,SO2,318,43,13.522
+Haryana,Narnaul,Xylene,318,10,3.145
+Haryana,Fatehabad,Eth-Benzene,298,50,16.779
+Gujarat,Ankleshwar,Benzene,332,0,0.0
+Gujarat,Vatva,Ozone,289,2,0.692
+Gujarat,Vatva,SO2,330,26,7.879
+Haryana,Kaithal,NO,331,45,13.595
+Uttar Pradesh,Ghaziabad,Toluene,903,61,6.755
+Uttar Pradesh,Ghaziabad,NO,1065,121,11.362
+Maharashtra,Mumbai,PM10,8482,69,0.813
+Maharashtra,Mumbai,Eth-Benzene,6333,511,8.069
+Maharashtra,Mumbai,SO2,8016,692,8.633
+West Bengal,Kolkata,CO,2492,113,4.535
+Maharashtra,Navi Mumbai,NO,1994,98,4.915
+Karnataka,Yadgir,SO2,300,12,4.0
+Karnataka,Ramanagara,Benzene,197,7,3.553
+Karnataka,Ramanagara,NO2,318,17,5.346
+Karnataka,Ramanagara,Ozone,344,76,22.093
+Bihar,Patna,SO2,2099,70,3.335
+Bihar,Patna,Xylene,2108,218,10.342
+Karnataka,Shivamogga,MP-Xylene,357,4,1.12
+Karnataka,Shivamogga,SO2,357,4,1.12
+Karnataka,Shivamogga,Xylene,358,0,0.0
+Karnataka,Vijayapura,Benzene,354,19,5.367
+Madhya Pradesh,Sagar,CO,715,0,0.0
+Bihar,Hajipur,PM10,345,0,0.0
+Bihar,Hajipur,Toluene,346,0,0.0
+Bihar,Gaya,PM2.5,1000,25,2.5
+Haryana,Charkhi Dadri,NH3,359,0,0.0
+Haryana,Faridabad,PM2.5,1176,34,2.891
+Haryana,Gurugram,MP-Xylene,1018,166,16.306
+TamilNadu,Chennai,NO2,2015,70,3.474
+TamilNadu,Gummidipoondi,PM10,358,5,1.397
+Kerala,Thrissur,Ozone,296,8,2.703
+Maharashtra,Pune,Toluene,1214,85,7.002
+Maharashtra,Pune,Ozone,1833,27,1.473
+Arunachal Pradesh,Naharlagun,Ozone,215,0,0.0
+Gujarat,Ahmedabad,Xylene,1165,37,3.176
+Uttar Pradesh,Prayagraj,PM10,1058,0,0.0
+Uttar Pradesh,Lucknow,Eth-Benzene,719,12,1.669
+Uttar Pradesh,Kanpur,Eth-Benzene,710,43,6.056
+Uttar Pradesh,Firozabad,Eth-Benzene,699,17,2.432
+Uttar Pradesh,Firozabad,MP-Xylene,704,18,2.557
+Bihar,Sasaram,Ozone,308,0,0.0
+Bihar,Rajgir,NH3,334,9,2.695
+Chandigarh,Chandigarh,Eth-Benzene,984,26,2.642
+Bihar,Arrah,PM10,230,4,1.739
+Bihar,Katihar,SO2,335,12,3.582
+Bihar,Kishanganj,NO2,347,10,2.882
+Bihar,Kishanganj,SO2,322,14,4.348
+Bihar,Purnia,Benzene,253,19,7.51
+Bihar,Purnia,SO2,333,0,0.0
+Bihar,Manguraha,Benzene,241,9,3.734
+Uttar Pradesh,Moradabad,MP-Xylene,1795,53,2.953
+Chandigarh,Chandigarh,Benzene,1025,11,1.073
+Uttar Pradesh,Firozabad,NH3,711,32,4.501
+Tripura,Agartala,NO,315,31,9.841
+Tripura,Agartala,SO2,315,25,7.937
+Sikkim,Gangtok,Benzene,178,20,11.236
+Sikkim,Gangtok,CO,303,3,0.99
+Uttar Pradesh,Khurja,NH3,351,0,0.0
+TamilNadu,Coimbatore,SO2,416,0,0.0
+Andhra Pradesh,Anantapur,PM10,280,0,0.0
+Madhya Pradesh,Bhopal,NO2,1064,0,0.0
+Madhya Pradesh,Bhopal,Toluene,691,25,3.618
+Chhattisgarh,Korba,PM10,584,15,2.568
+Gujarat,Surat,NO2,330,37,11.212
+Andhra Pradesh,Tirupati,NH3,324,24,7.407
+Andhra Pradesh,Tirupati,Ozone,307,7,2.28
+Assam,Nalbari,NH3,326,32,9.816
+Assam,Nalbari,NO2,345,23,6.667
+Assam,Byrnihat,Eth-Benzene,315,0,0.0
+Odisha,Rairangpur,PM10,342,0,0.0
+Odisha,Tensa,CO,336,1,0.298
+Odisha,Tensa,Toluene,320,0,0.0
+Karnataka,Tumakuru,SO2,299,5,1.672
+Assam,Guwahati,NH3,962,153,15.904
+Assam,Silchar,PM10,351,1,0.285
+Assam,Silchar,SO2,328,12,3.659
+Odisha,Rourkela,NO,692,51,7.37
+Chhattisgarh,Kunjemura,Ozone,343,0,0.0
+Chhattisgarh,Milupara,NO2,150,0,0.0
+Chhattisgarh,Milupara,Ozone,157,2,1.274
+Chhattisgarh,Milupara,PM10,184,0,0.0
+Chhattisgarh,Tumidih,Ozone,163,0,0.0
+Rajasthan,Churu,PM2.5,331,32,9.668
+Rajasthan,Dholpur,NO,345,34,9.855
+Rajasthan,Tonk,SO2,332,7,2.108
+Uttarakhand,Kashipur,Benzene,324,3,0.926
+Rajasthan,Sirohi,PM10,344,8,2.326
+Madhya Pradesh,Bhopal,MP-Xylene,688,126,18.314
+Jharkhand,Dhanbad,NO,138,5,3.623
+Rajasthan,Chittorgarh,Benzene,360,37,10.278
+Rajasthan,Chittorgarh,PM2.5,356,7,1.966
+Rajasthan,Barmer,CO,361,43,11.911
+Rajasthan,Sri Ganganagar,NO2,339,1,0.295
+Rajasthan,Pratapgarh,PM2.5,362,12,3.315
+Maharashtra,Pimpri-Chinchwad,SO2,1002,23,2.295
+Maharashtra,Pimpri-Chinchwad,NO,1118,49,4.383
+Maharashtra,Kolhapur,Benzene,690,21,3.043
+Maharashtra,Sangli,NH3,331,1,0.302
+Maharashtra,Solapur,Ozone,742,6,0.809
+Maharashtra,Nashik,CO,1400,9,0.643
+Maharashtra,Latur,PM10,354,0,0.0
+Maharashtra,Akola,NO2,365,0,0.0
+Maharashtra,Ahmednagar,PM10,285,2,0.702
+Maharashtra,Amravati,NO2,361,1,0.277
+Maharashtra,Amravati,Ozone,362,0,0.0
+Maharashtra,Jalna,Ozone,332,0,0.0
+Maharashtra,Nagpur,MP-Xylene,1346,62,4.606
+Maharashtra,Thane,Eth-Benzene,699,24,3.433
+Maharashtra,Thane,NO,696,32,4.598
+Maharashtra,Navi Mumbai,CO,2030,53,2.611
+Maharashtra,Navi Mumbai,Toluene,1316,42,3.191
+Maharashtra,Dhule,NO2,348,15,4.31
+Maharashtra,Mira-Bhayandar,PM2.5,358,0,0.0
+Maharashtra,Ulhasnagar,Benzene,360,14,3.889
+Maharashtra,Ulhasnagar,Eth-Benzene,360,19,5.278
+Andhra Pradesh,Vijayawada,MP-Xylene,692,31,4.48
+Andhra Pradesh,Vijayawada,NH3,1162,44,3.787
+Rajasthan,Jalore,Toluene,361,1,0.277
+Odisha,Balasore,NO2,357,0,0.0
+Odisha,Angul,PM10,355,0,0.0
+Odisha,Cuttack,Eth-Benzene,357,36,10.084
+Odisha,Byasanagar,MP-Xylene,185,9,4.865
+West Bengal,Barrackpore,Eth-Benzene,286,1,0.35
+TamilNadu,Pudukottai,NO,68,0,0.0
+West Bengal,Asansol,Ozone,918,29,3.159
+Delhi,Delhi,NO2,13525,413,3.054
+Delhi,Delhi,Eth-Benzene,2007,175,8.719
+Delhi,Delhi,Toluene,8838,405,4.582
+Delhi,Delhi,MP-Xylene,2028,154,7.594
+Rajasthan,Jaipur,NO,2136,243,11.376
+Rajasthan,Jodhpur,Benzene,1808,177,9.79
+Rajasthan,Alwar,Eth-Benzene,245,26,10.612
+Rajasthan,Jaipur,NO2,2128,19,0.893
+Rajasthan,Jaipur,Ozone,2140,7,0.327
+Rajasthan,Pali,Eth-Benzene,200,0,0.0
+Rajasthan,Udaipur,Ozone,365,1,0.274
+Andhra Pradesh,Rajamahendravaram,MP-Xylene,227,10,4.405
+Andhra Pradesh,Rajamahendravaram,Ozone,345,1,0.29
+Madhya Pradesh,Singrauli,NO2,323,0,0.0
+Andhra Pradesh,Amaravati,SO2,349,6,1.719
+West Bengal,Howrah,NO,930,34,3.656
+West Bengal,Howrah,PM2.5,956,60,6.276
+Unknown,Unknown,CO,10181,214,2.102
+Punjab,Khanna,SO2,345,10,2.899
+Uttar Pradesh,Greater Noida,CO,671,23,3.428
+Uttar Pradesh,Bulandshahr,NO,360,42,11.667
+Uttar Pradesh,Bulandshahr,Ozone,364,0,0.0
+Punjab,Bathinda,PM2.5,333,4,1.201
+Uttar Pradesh,Muzaffarnagar,Toluene,331,9,2.719
+Unknown,Unknown,Toluene,3021,56,1.854
+Karnataka,Bengaluru,SO2,4214,341,8.092
+Karnataka,Bengaluru,CO,4107,212,5.162
+Karnataka,Chikkaballapur,PM10,348,1,0.287
+Karnataka,Bengaluru,Ozone,3474,83,2.389
+Haryana,Panchkula,Benzene,321,9,2.804
+Telangana,Hyderabad,CO,3977,60,1.509
+Punjab,Amritsar,CO,359,11,3.064
+Punjab,Amritsar,NO,356,31,8.708
+Punjab,Amritsar,PM2.5,353,3,0.85
+Maharashtra,Chandrapur,Ozone,465,22,4.731
+Uttar Pradesh,Lucknow,Benzene,2157,58,2.689
+Uttar Pradesh,Kanpur,Toluene,254,5,1.969
+TamilNadu,Chennai,CO,1856,27,1.455
+Unknown,Unknown,Eth-Benzene,5115,275,5.376
+Uttar Pradesh,Lucknow,PM2.5,2133,8,0.375
+West Bengal,Haldia,Benzene,357,18,5.042
+Maharashtra,Nagpur,SO2,1358,11,0.81
+Gujarat,Ahmedabad,MP-Xylene,1206,47,3.897
+West Bengal,Kolkata,NO,2471,279,11.291
+Uttar Pradesh,Hapur,PM2.5,351,14,3.989
+Uttar Pradesh,Hapur,SO2,349,5,1.433
+Haryana,Gurugram,PM10,812,5,0.616
+Haryana,Manesar,NO,328,0,0.0
+Haryana,Sonipat,Ozone,305,53,17.377
+Haryana,Sonipat,Toluene,314,0,0.0
+Haryana,Bahadurgarh,Eth-Benzene,330,27,8.182
+Haryana,Bahadurgarh,NO2,330,7,2.121
+Haryana,Yamuna Nagar,Benzene,316,76,24.051
+Haryana,Sirsa,NO2,334,59,17.665
+Haryana,Narnaul,Eth-Benzene,318,16,5.031
+Haryana,Jind,NO,330,102,30.909
+Haryana,Jind,Toluene,292,20,6.849
+Haryana,Hisar,PM10,319,2,0.627
+Gujarat,Ankleshwar,Eth-Benzene,332,0,0.0
+Gujarat,Gandhinagar,PM2.5,773,12,1.552
+Uttar Pradesh,Ghaziabad,Benzene,902,10,1.109
+TamilNadu,Coimbatore,Benzene,131,7,5.344
+West Bengal,Howrah,Ozone,966,25,2.588
+Maharashtra,Navi Mumbai,NO2,2014,28,1.39
+Maharashtra,Navi Mumbai,PM2.5,1991,3,0.151
+Maharashtra,Mumbai,Benzene,6697,608,9.079
+Uttar Pradesh,Meerut,Ozone,984,2,0.203
+Madhya Pradesh,Bhopal,NO,1064,117,10.996
+Madhya Pradesh,Bhopal,PM10,1055,1,0.095
+Uttar Pradesh,Meerut,NO2,1043,31,2.972
+Bihar,Patna,CO,2109,124,5.88
+Bihar,Patna,NO,2057,142,6.903
+Karnataka,Bagalkot,NO2,355,162,45.634
+Karnataka,Chikkamagaluru,CO,332,0,0.0
+Kerala,Kannur,CO,223,78,34.978
+Kerala,Thiruvananthapuram,CO,726,5,0.689
+Kerala,Thiruvananthapuram,Ozone,725,1,0.138
+Bihar,Gaya,NH3,697,6,0.861
+Bihar,Gaya,NO,1050,19,1.81
+Haryana,Charkhi Dadri,PM2.5,354,6,1.695
+Haryana,Faridabad,Ozone,1167,5,0.428
+Mizoram,Aizawl,PM2.5,230,0,0.0
+Bihar,Muzaffarpur,Eth-Benzene,675,99,14.667
+Kerala,Thrissur,PM2.5,296,1,0.338
+Karnataka,Madikeri,PM2.5,359,1,0.279
+Maharashtra,Mumbai,Xylene,480,33,6.875
+Unknown,Unknown,Benzene,6281,538,8.566
+Unknown,Unknown,Xylene,297,8,2.694
+Maharashtra,Pune,NO,1737,39,2.245
+Assam,Guwahati,PM10,903,9,0.997
+Puducherry,Puducherry,PM2.5,342,20,5.848
+Uttar Pradesh,Prayagraj,Eth-Benzene,1073,77,7.176
+Uttar Pradesh,Prayagraj,NH3,1081,3,0.278
+Uttar Pradesh,Lucknow,Ozone,2142,139,6.489
+Uttar Pradesh,Agra,Eth-Benzene,1785,113,6.331
+Uttar Pradesh,Varanasi,NH3,1090,50,4.587
+Uttar Pradesh,Gorakhpur,NO,355,148,41.69
+Uttar Pradesh,Kanpur,MP-Xylene,710,44,6.197
+Uttar Pradesh,Kanpur,NH3,710,15,2.113
+Bihar,Bettiah,Toluene,309,16,5.178
+Bihar,Motihari,Benzene,349,50,14.327
+Bihar,Motihari,Eth-Benzene,343,49,14.286
+Bihar,Motihari,MP-Xylene,342,48,14.035
+Uttar Pradesh,Firozabad,Benzene,717,19,2.65
+Uttar Pradesh,Agra,NO2,2080,21,1.01
+Bihar,Rajgir,MP-Xylene,154,4,2.597
+Chandigarh,Chandigarh,PM2.5,1067,34,3.187
+Uttar Pradesh,Kanpur,SO2,1055,25,2.37
+Chhattisgarh,Bilaspur,NO2,322,0,0.0
+Uttar Pradesh,Moradabad,PM10,2100,4,0.19
+Bihar,Araria,PM2.5,259,2,0.772
+Bihar,Araria,Toluene,241,91,37.759
+Bihar,Manguraha,Eth-Benzene,128,0,0.0
+Bihar,Manguraha,Ozone,278,40,14.388
+Bihar,Siwan,CO,333,0,0.0
+Uttarakhand,Dehradun,PM2.5,349,13,3.725
+TamilNadu,Thanjavur,NH3,72,9,12.5
+TamilNadu,Thanjavur,Ozone,71,0,0.0
+TamilNadu,Thanjavur,PM2.5,72,3,4.167
+TamilNadu,Ramanathapuram,CO,315,64,20.317
+Madhya Pradesh,Bhopal,NH3,1051,59,5.614
+Madhya Pradesh,Bhopal,Ozone,1062,0,0.0
+Madhya Pradesh,Bhopal,Xylene,691,43,6.223
+Chhattisgarh,Raipur,Ozone,1284,145,11.293
+Chhattisgarh,Korba,SO2,620,34,5.484
+Assam,Sivasagar,NH3,361,2,0.554
+Chhattisgarh,Bhilai,PM10,1006,3,0.298
+Andhra Pradesh,Chittoor,Toluene,259,76,29.344
+Madhya Pradesh,Gwalior,Toluene,718,108,15.042
+Odisha,Rairangpur,MP-Xylene,208,3,1.442
+Odisha,Rairangpur,Ozone,345,6,1.739
+Odisha,Bileipada,Eth-Benzene,318,23,7.233
+Odisha,Bileipada,NO2,300,14,4.667
+Odisha,Nayagarh,CO,318,6,1.887
+Odisha,Nayagarh,MP-Xylene,278,62,22.302
+Odisha,Tensa,NH3,302,0,0.0
+Odisha,Tensa,SO2,286,2,0.699
+Karnataka,Tumakuru,Eth-Benzene,262,1,0.382
+Assam,Silchar,PM2.5,351,5,1.425
+Andhra Pradesh,Vijayawada,Toluene,1270,36,2.835
+Chhattisgarh,Kunjemura,NH3,349,8,2.292
+Chhattisgarh,Milupara,SO2,159,2,1.258
+Chhattisgarh,Tumidih,PM2.5,153,0,0.0
+Rajasthan,Jodhpur,Eth-Benzene,1362,119,8.737
+Rajasthan,Bharatpur,NO2,359,0,0.0
+Rajasthan,Kota,Toluene,728,63,8.654
+Uttarakhand,Kashipur,NH3,343,2,0.583
+Uttarakhand,Kashipur,Toluene,324,21,6.481
+Rajasthan,Sirohi,PM2.5,338,13,3.846
+Rajasthan,Banswara,Toluene,355,36,10.141
+Rajasthan,Hanumangarh,CO,340,10,2.941
+Rajasthan,Sawai Madhopur,PM10,339,2,0.59
+Rajasthan,Sri Ganganagar,NH3,335,4,1.194
+Rajasthan,Sri Ganganagar,PM10,312,1,0.321
+Rajasthan,Pratapgarh,Ozone,362,0,0.0
+Rajasthan,Karauli,MP-Xylene,314,27,8.599
+Maharashtra,Pimpri-Chinchwad,PM2.5,1150,1,0.087
+Maharashtra,Kolhapur,NO2,688,9,1.308
+Maharashtra,Kolhapur,CO,713,1,0.14
+Maharashtra,Kolhapur,NO,684,38,5.556
+Rajasthan,Bundi,Eth-Benzene,354,25,7.062
+Rajasthan,Jaisalmer,Ozone,360,0,0.0
+Rajasthan,Jodhpur,NO,1815,381,20.992
+Rajasthan,Baran,NO,356,47,13.202
+Maharashtra,Solapur,NO2,1026,2,0.195
+Maharashtra,Akola,Eth-Benzene,365,63,17.26
+Maharashtra,Akola,MP-Xylene,365,31,8.493
+Maharashtra,Thane,NO2,703,0,0.0
+Maharashtra,Navi Mumbai,PM10,2003,0,0.0
+Maharashtra,Dhule,Toluene,356,28,7.865
+Maharashtra,Malegaon,CO,359,9,2.507
+Maharashtra,Malegaon,PM2.5,356,0,0.0
+Maharashtra,Belapur,NH3,360,96,26.667
+Maharashtra,Mira-Bhayandar,PM10,358,0,0.0
+Maharashtra,Virar,MP-Xylene,343,0,0.0
+Maharashtra,Virar,PM2.5,352,2,0.568
+Madhya Pradesh,Jabalpur,Benzene,951,14,1.472
+Madhya Pradesh,Jabalpur,MP-Xylene,393,61,15.522
+Rajasthan,Dungarpur,Eth-Benzene,304,42,13.816
+Rajasthan,Dungarpur,NO,349,47,13.467
+Rajasthan,Dungarpur,NO2,356,0,0.0
+Rajasthan,Jalore,PM10,365,0,0.0
+Madhya Pradesh,Indore,NH3,1427,74,5.186
+Madhya Pradesh,Indore,PM10,1145,27,2.358
+Odisha,Balasore,Ozone,361,0,0.0
+Odisha,Bhubaneswar,SO2,689,42,6.096
+Odisha,Byasanagar,Benzene,361,1,0.277
+TamilNadu,Pudukottai,PM2.5,66,0,0.0
+Rajasthan,Bhiwadi,Benzene,639,29,4.538
+West Bengal,Durgapur,Eth-Benzene,316,62,19.62
+West Bengal,Asansol,MP-Xylene,921,94,10.206
+West Bengal,Howrah,MP-Xylene,952,76,7.983
+West Bengal,Durgapur,MP-Xylene,326,13,3.988
+Delhi,Delhi,Ozone,13342,205,1.537
+Uttar Pradesh,Noida,CO,1385,47,3.394
+Uttar Pradesh,Noida,NO2,1330,41,3.083
+Delhi,Delhi,Benzene,9894,516,5.215
+Rajasthan,Jodhpur,NO2,1814,4,0.221
+Rajasthan,Bhiwadi,SO2,635,35,5.512
+Rajasthan,Ajmer,NH3,362,66,18.232
+Rajasthan,Jaipur,Eth-Benzene,1589,225,14.16
+Rajasthan,Pali,CO,348,4,1.149
+Madhya Pradesh,Pithampur,Eth-Benzene,354,17,4.802
+Madhya Pradesh,Pithampur,NO2,350,1,0.286
+Odisha,Talcher,NO2,345,0,0.0
+Odisha,Brajrajnagar,NO,343,47,13.703
+West Bengal,Howrah,CO,964,68,7.054
+West Bengal,Asansol,CO,898,8,0.891
+West Bengal,Asansol,NH3,805,14,1.739
+Punjab,Patiala,NO2,364,6,1.648
+Punjab,Patiala,Ozone,363,2,0.551
+Karnataka,Bengaluru,NH3,3260,182,5.583
+Karnataka,Bengaluru,NO,3741,615,16.439
+Karnataka,Chikkaballapur,NO2,353,0,0.0
+Bihar,Patna,NO2,2080,96,4.615
+Bihar,Muzaffarpur,SO2,1055,28,2.654
+Maharashtra,Aurangabad,Benzene,968,23,2.376
+Punjab,Mandi Gobindgarh,NH3,325,0,0.0
+Maharashtra,Chandrapur,NO2,455,13,2.857
+Uttar Pradesh,Kanpur,NO2,1055,0,0.0
+Maharashtra,Nagpur,PM2.5,1367,1,0.073
+Gujarat,Ahmedabad,Eth-Benzene,1148,50,4.355
+Gujarat,Ahmedabad,Ozone,2440,91,3.73
+West Bengal,Kolkata,NO2,2486,79,3.178
+Uttar Pradesh,Hapur,Benzene,333,17,5.105
+Haryana,Gurugram,CO,1204,40,3.322
+Haryana,Manesar,Benzene,331,13,3.927
+Haryana,Kurukshetra,NH3,348,96,27.586
+Haryana,Yamuna Nagar,Toluene,316,97,30.696
+Haryana,Palwal,NH3,335,0,0.0
+Haryana,Sirsa,CO,336,4,1.19
+Unknown,Unknown,NH3,9028,638,7.067
+Haryana,Ballabgarh,Toluene,340,0,0.0
+Haryana,Ballabgarh,Xylene,340,78,22.941
+Gujarat,Ankleshwar,PM2.5,324,0,0.0
+Gujarat,Gandhinagar,MP-Xylene,663,34,5.128
+Haryana,Kaithal,Eth-Benzene,311,80,25.723
+Uttar Pradesh,Ghaziabad,CO,1064,53,4.981
+TamilNadu,Coimbatore,PM2.5,401,0,0.0
+Maharashtra,Navi Mumbai,Benzene,2000,178,8.9
+Maharashtra,Mumbai,Ozone,8670,575,6.632
+Maharashtra,Kalyan,NO,358,2,0.559
+Karnataka,Chamarajanagar,NH3,359,0,0.0
+Chandigarh,Chandigarh,NH3,1059,22,2.077
+Chandigarh,Chandigarh,Ozone,1075,4,0.372
+Uttar Pradesh,Lucknow,PM10,2136,7,0.328
+Madhya Pradesh,Indore,PM2.5,1306,16,1.225
+Madhya Pradesh,Jabalpur,SO2,1328,38,2.861
+Uttar Pradesh,Meerut,PM2.5,1023,17,1.662
+Karnataka,Bagalkot,Ozone,114,1,0.877
+Karnataka,Shivamogga,NO,355,36,10.141
+Karnataka,Shivamogga,NO2,354,7,1.977
+Madhya Pradesh,Sagar,PM10,694,19,2.738
+Madhya Pradesh,Gwalior,PM10,1075,5,0.465
+Kerala,Kannur,NO2,223,39,17.489
+Kerala,Kannur,PM10,223,1,0.448
+Bihar,Hajipur,CO,347,1,0.288
+Bihar,Gaya,Xylene,1056,50,4.735
+Haryana,Faridabad,Toluene,912,26,2.851
+TamilNadu,Chennai,NH3,2025,39,1.926
+TamilNadu,Thoothukudi,NO,298,6,2.013
+Maharashtra,Mumbai,Toluene,4423,199,4.499
+Maharashtra,Pune,Benzene,1741,59,3.389
+Maharashtra,Pune,Xylene,653,28,4.288
+Maharashtra,Pune,PM10,1822,13,0.714
+Karnataka,Mangalore,PM2.5,326,1,0.307
+Arunachal Pradesh,Naharlagun,Benzene,217,0,0.0
+Gujarat,Ahmedabad,SO2,2434,42,1.726
+Gujarat,Gandhinagar,Xylene,402,14,3.483
+Uttar Pradesh,Prayagraj,NO,1083,108,9.972
+Uttar Pradesh,Lucknow,MP-Xylene,719,11,1.53
+Uttar Pradesh,Lucknow,NH3,1800,86,4.778
+Uttar Pradesh,Prayagraj,CO,1083,72,6.648
+Uttar Pradesh,Agra,PM2.5,1996,54,2.705
+Uttar Pradesh,Gorakhpur,NO2,355,1,0.282
+Bihar,Motihari,PM10,307,7,2.28
+Uttar Pradesh,Firozabad,NO,710,169,23.803
+Uttar Pradesh,Firozabad,NO2,708,64,9.04
+Bihar,Bihar Sharif,NO,329,111,33.739
+Uttar Pradesh,Vrindavan,Ozone,355,0,0.0
+Bihar,Rajgir,CO,343,0,0.0
+Bihar,Rajgir,Ozone,351,4,1.14
+Bihar,Rajgir,PM2.5,278,18,6.475
+Bihar,Munger,PM2.5,308,3,0.974
+Bihar,Arrah,Ozone,312,56,17.949
+Bihar,Araria,CO,312,41,13.141
+Bihar,Bhagalpur,CO,671,2,0.298
+Bihar,Bhagalpur,NH3,685,0,0.0
+Bihar,Aurangabad,CO,333,30,9.009
+Bihar,Katihar,CO,282,3,1.064
+Bihar,Katihar,NO,328,49,14.939
+Bihar,Katihar,Ozone,336,0,0.0
+Bihar,Kishanganj,MP-Xylene,345,74,21.449
+Bihar,Purnia,NO,328,5,1.524
+Bihar,Manguraha,NH3,249,1,0.402
+Bihar,Saharsa,Ozone,333,0,0.0
+Bihar,Samastipur,Ozone,342,6,1.754
+Bihar,Siwan,MP-Xylene,194,1,0.515
+Uttar Pradesh,Jhansi,Eth-Benzene,360,2,0.556
+Uttar Pradesh,Jhansi,Ozone,324,20,6.173
+Himachal Pradesh,Baddi,Toluene,353,10,2.833
+Uttarakhand,Dehradun,PM10,350,0,0.0
+Uttar Pradesh,Bareilly,NH3,676,33,4.882
+TamilNadu,Coimbatore,CO,230,25,10.87
+TamilNadu,Coimbatore,NH3,402,15,3.731
+TamilNadu,Ramanathapuram,NH3,315,17,5.397
+Uttar Pradesh,Bareilly,MP-Xylene,325,23,7.077
+Karnataka,Dharwad,CO,325,1,0.308
+Karnataka,Dharwad,Toluene,347,58,16.715
+Madhya Pradesh,Gwalior,NO2,1082,0,0.0
+Andhra Pradesh,Chittoor,NO,189,45,23.81
+Assam,Nalbari,PM2.5,320,26,8.125
+Assam,Byrnihat,PM2.5,295,0,0.0
+Odisha,Baripada,Eth-Benzene,317,0,0.0
+Odisha,Keonjhar,MP-Xylene,284,17,5.986
+Odisha,Keonjhar,NO,278,29,10.432
+Odisha,Rairangpur,NO,324,30,9.259
+Odisha,Tensa,PM10,337,1,0.297
+Karnataka,Tumakuru,Ozone,299,30,10.033
+Assam,Guwahati,Toluene,336,95,28.274
+Andhra Pradesh,Kadapa,NO,298,82,27.517
+Rajasthan,Kota,SO2,1091,33,3.025
+Rajasthan,Tonk,MP-Xylene,168,5,2.976
+Rajasthan,Banswara,Benzene,360,18,5.0
+Rajasthan,Dausa,Ozone,359,0,0.0
+Rajasthan,Dausa,Toluene,355,1,0.282
+Rajasthan,Barmer,SO2,362,2,0.552
+Rajasthan,Barmer,Toluene,357,2,0.56
+Rajasthan,Sawai Madhopur,Toluene,354,5,1.412
+Rajasthan,Jhunjhunu,Eth-Benzene,345,43,12.464
+Rajasthan,Karauli,PM10,314,4,1.274
+Maharashtra,Pimpri-Chinchwad,Eth-Benzene,1115,31,2.78
+Maharashtra,Pimpri-Chinchwad,PM10,1145,0,0.0
+Maharashtra,Kolhapur,MP-Xylene,651,36,5.53
+Rajasthan,Bhilwara,CO,343,9,2.624
+Rajasthan,Bundi,NO2,360,0,0.0
+Rajasthan,Baran,SO2,356,0,0.0
+Maharashtra,Solapur,Toluene,674,16,2.374
+Rajasthan,Nagaur,Toluene,342,13,3.801
+Maharashtra,Nashik,Eth-Benzene,1381,90,6.517
+Maharashtra,Latur,NO,328,23,7.012
+Maharashtra,Latur,NO2,334,5,1.497
+Maharashtra,Latur,Ozone,355,0,0.0
+Maharashtra,Nashik,Ozone,1388,9,0.648
+Maharashtra,Akola,PM2.5,365,1,0.274
+Maharashtra,Amravati,Eth-Benzene,360,20,5.556
+Maharashtra,Amravati,SO2,359,31,8.635
+Maharashtra,Aurangabad,NO2,949,14,1.475
+Maharashtra,Jalna,NO2,329,2,0.608
+Maharashtra,Nagpur,NO2,1357,42,3.095
+Maharashtra,Badlapur,Eth-Benzene,353,32,9.065
+Maharashtra,Badlapur,PM2.5,350,0,0.0
+Maharashtra,Thane,NH3,705,16,2.27
+Maharashtra,Dhule,Eth-Benzene,349,40,11.461
+Maharashtra,Dhule,PM2.5,354,0,0.0
+Maharashtra,Boisar,NO,284,17,5.986
+Maharashtra,Boisar,PM2.5,299,3,1.003
+Maharashtra,Bhiwandi,Toluene,332,4,1.205
+Madhya Pradesh,Indore,SO2,1492,38,2.547
+Odisha,Barbil,Eth-Benzene,340,18,5.294
+Odisha,Angul,Eth-Benzene,338,18,5.325
+Odisha,Bhubaneswar,MP-Xylene,644,44,6.832
+West Bengal,Barrackpore,Benzene,325,6,1.846
+Madhya Pradesh,Jabalpur,NH3,1352,47,3.476
+West Bengal,Asansol,NO,831,27,3.249
+West Bengal,Durgapur,PM2.5,339,15,4.425
+Rajasthan,Alwar,CO,361,16,4.432
+Rajasthan,Alwar,MP-Xylene,213,27,12.676
+Rajasthan,Bhiwadi,PM10,631,2,0.317
+Rajasthan,Ajmer,CO,363,0,0.0
+Rajasthan,Ajmer,Toluene,364,16,4.396
+Rajasthan,Pali,MP-Xylene,228,9,3.947
+Rajasthan,Udaipur,PM2.5,365,2,0.548
+Madhya Pradesh,Pithampur,PM10,364,1,0.275
+Madhya Pradesh,Dewas,Benzene,317,37,11.672
+Odisha,Talcher,NO,345,0,0.0
+West Bengal,Siliguri,Eth-Benzene,357,21,5.882
+West Bengal,Siliguri,NO,352,7,1.989
+Punjab,Jalandhar,NH3,363,15,4.132
+Punjab,Jalandhar,PM2.5,362,3,0.829
+Punjab,Khanna,Toluene,359,10,2.786
+Uttar Pradesh,Greater Noida,NO,696,60,8.621
+Uttar Pradesh,Greater Noida,PM10,689,0,0.0
+Uttar Pradesh,Greater Noida,Toluene,692,1,0.145
+Uttar Pradesh,Muzaffarnagar,Benzene,331,27,8.157
+Karnataka,Chikkaballapur,Benzene,351,0,0.0
+Maharashtra,Aurangabad,PM10,954,10,1.048
+Punjab,Ludhiana,NH3,348,3,0.862
+Punjab,Ludhiana,SO2,365,9,2.466
+Punjab,Ludhiana,Toluene,344,34,9.884
+Punjab,Mandi Gobindgarh,PM10,331,1,0.302
+Punjab,Amritsar,Ozone,356,0,0.0
+Maharashtra,Chandrapur,NO,456,33,7.237
+Maharashtra,Nagpur,CO,1365,10,0.733
+Haryana,Kurukshetra,PM2.5,348,2,0.575
+Haryana,Bahadurgarh,PM2.5,327,10,3.058
+Haryana,Yamuna Nagar,NO2,310,49,15.806
+Haryana,Sirsa,Ozone,330,0,0.0
+Haryana,Narnaul,Toluene,318,9,2.83
+Haryana,Fatehabad,NO2,297,86,28.956
+Haryana,Hisar,CO,339,70,20.649
+Haryana,Ballabgarh,NH3,342,99,28.947
+Gujarat,Ankleshwar,CO,330,5,1.515
+Haryana,Kaithal,NH3,332,91,27.41
+Uttar Pradesh,Meerut,NH3,1046,29,2.772
+Maharashtra,Kalyan,SO2,353,0,0.0
+Meghalaya,Shillong,PM10,150,0,0.0
+Karnataka,Chikkamagaluru,NO,325,30,9.231
+Karnataka,Shivamogga,NH3,355,51,14.366
+Madhya Pradesh,Gwalior,NH3,1084,7,0.646
+Kerala,Kannur,NH3,223,30,13.453
+Kerala,Kollam,PM10,255,0,0.0
+Kerala,Kollam,SO2,245,14,5.714
+Haryana,Charkhi Dadri,MP-Xylene,357,152,42.577
+TamilNadu,Thoothukudi,CO,319,52,16.301
+Kerala,Thrissur,CO,294,9,3.061
+Karnataka,Mangalore,NO,343,101,29.446
+Uttar Pradesh,Firozabad,SO2,706,6,0.85
+Bihar,Bihar Sharif,Benzene,333,107,32.132
+Uttar Pradesh,Vrindavan,PM2.5,341,4,1.173
+Uttar Pradesh,Prayagraj,Ozone,1067,45,4.217
+Bihar,Sasaram,MP-Xylene,228,10,4.386
+Bihar,Rajgir,PM10,256,11,4.297
+Bihar,Munger,NH3,342,15,4.386
+Bihar,Araria,Ozone,304,29,9.539
+Bihar,Bhagalpur,PM10,659,4,0.607
+Bihar,Aurangabad,MP-Xylene,190,38,20.0
+Bihar,Chhapra,Ozone,326,60,18.405
+Bihar,Purnia,Eth-Benzene,243,3,1.235
+Bihar,Manguraha,NO2,256,14,5.469
+Bihar,Saharsa,SO2,331,58,17.523
+Uttar Pradesh,Jhansi,NO,359,22,6.128
+Uttar Pradesh,Baghpat,PM10,351,1,0.285
+Uttar Pradesh,Baghpat,Xylene,352,45,12.784
+Himachal Pradesh,Baddi,MP-Xylene,117,5,4.274
+TamilNadu,Ramanathapuram,PM10,310,3,0.968
+Andhra Pradesh,Anantapur,CO,340,1,0.294
+Chhattisgarh,Korba,NO,615,12,1.951
+Madhya Pradesh,Sagar,Benzene,339,35,10.324
+Andhra Pradesh,Tirupati,Benzene,141,55,39.007
+Andhra Pradesh,Tirupati,PM10,238,2,0.84
+Assam,Nalbari,Benzene,343,6,1.749
+Assam,Nalbari,SO2,337,8,2.374
+Assam,Byrnihat,CO,314,6,1.911
+Assam,Byrnihat,Ozone,324,2,0.617
+Odisha,Baripada,CO,344,4,1.163
+Odisha,Baripada,Toluene,337,0,0.0
+Odisha,Rairangpur,Toluene,329,0,0.0
+Odisha,Bileipada,MP-Xylene,312,19,6.09
+Karnataka,Hubballi,PM2.5,338,0,0.0
+Assam,Silchar,NO2,352,60,17.045
+Chhattisgarh,Kunjemura,SO2,343,59,17.201
+Rajasthan,Bharatpur,Benzene,358,55,15.363
+Rajasthan,Bikaner,SO2,359,8,2.228
+Rajasthan,Tonk,CO,335,30,8.955
+Uttarakhand,Rishikesh,NH3,328,61,18.598
+Rajasthan,Sirohi,NO2,354,0,0.0
+Assam,Nagaon,Toluene,357,34,9.524
+Madhya Pradesh,Bhopal,Benzene,691,47,6.802
+Jharkhand,Dhanbad,CO,152,70,46.053
+Jharkhand,Dhanbad,PM10,109,0,0.0
+Rajasthan,Banswara,PM10,352,0,0.0
+Rajasthan,Chittorgarh,NO2,359,0,0.0
+Rajasthan,Hanumangarh,NO,339,52,15.339
+Rajasthan,Hanumangarh,Toluene,307,14,4.56
+Rajasthan,Sawai Madhopur,NO,354,34,9.605
+Rajasthan,Jhunjhunu,Benzene,364,5,1.374
+Rajasthan,Jhunjhunu,Ozone,364,0,0.0
+Rajasthan,Rajsamand,NO,337,16,4.748
+Rajasthan,Sri Ganganagar,Benzene,330,39,11.818
+Rajasthan,Sri Ganganagar,Ozone,342,0,0.0
+Rajasthan,Pratapgarh,Eth-Benzene,362,15,4.144
+Rajasthan,Karauli,NH3,326,0,0.0
+Rajasthan,Karauli,NO2,326,1,0.307
+Maharashtra,Sangli,NO,318,4,1.258
+Maharashtra,Sangli,PM10,332,0,0.0
+Maharashtra,Mahad,PM10,350,0,0.0
+Maharashtra,Mahad,SO2,347,19,5.476
+Maharashtra,Akola,Toluene,365,2,0.548
+Maharashtra,Nanded,NO2,318,2,0.629
+Maharashtra,Badlapur,CO,347,0,0.0
+Maharashtra,Belapur,Ozone,353,5,1.416
+Maharashtra,Boisar,NO2,286,19,6.643
+Rajasthan,Dungarpur,CO,350,6,1.714
+Rajasthan,Jalore,MP-Xylene,361,0,0.0
+Odisha,Barbil,CO,366,7,1.913
+Odisha,Angul,NH3,361,4,1.108
+Odisha,Cuttack,PM2.5,356,15,4.213
+West Bengal,Barrackpore,SO2,337,1,0.297
+TamilNadu,Pudukottai,CO,51,2,3.922
+West Bengal,Durgapur,CO,335,9,2.687
+Rajasthan,Alwar,NH3,362,57,15.746
+Rajasthan,Ajmer,SO2,364,2,0.549
+Andhra Pradesh,Amaravati,NH3,349,0,0.0
+Andhra Pradesh,Amaravati,PM2.5,345,21,6.087
+Odisha,Talcher,Benzene,360,93,25.833
+West Bengal,Howrah,Toluene,960,33,3.438
+Punjab,Jalandhar,Eth-Benzene,364,0,0.0
+Uttar Pradesh,Noida,Xylene,328,0,0.0
+Punjab,Rupnagar,SO2,324,0,0.0
+Maharashtra,Aurangabad,Toluene,966,16,1.656
+Punjab,Ludhiana,Ozone,365,0,0.0
+Punjab,Amritsar,Benzene,359,0,0.0
+Punjab,Amritsar,PM10,355,19,5.352
+West Bengal,Haldia,PM2.5,360,26,7.222
+Haryana,Manesar,PM2.5,332,3,0.904
+Haryana,Kurukshetra,Toluene,349,85,24.355
+Haryana,Yamuna Nagar,MP-Xylene,313,92,29.393
+Haryana,Bhiwani,PM10,340,6,1.765
+Haryana,Panipat,Xylene,313,0,0.0
+Haryana,Palwal,Benzene,334,24,7.186
+Haryana,Sirsa,Eth-Benzene,290,0,0.0
+Haryana,Narnaul,SO2,307,54,17.59
+Haryana,Jind,MP-Xylene,292,13,4.452
+Haryana,Jind,PM10,331,10,3.021
+Gujarat,Ankleshwar,NH3,331,0,0.0
+Gujarat,Ankleshwar,NO2,331,4,1.208
+Gujarat,Gandhinagar,Eth-Benzene,401,0,0.0
+Haryana,Kaithal,MP-Xylene,310,43,13.871
+Karnataka,Mysuru,NO,122,2,1.639
+Meghalaya,Shillong,SO2,308,0,0.0
+Karnataka,Bagalkot,Eth-Benzene,355,33,9.296
+Kerala,Kollam,CO,255,68,26.667
+Kerala,Kollam,NO2,256,41,16.016
+Haryana,Charkhi Dadri,Toluene,358,154,43.017
+Mizoram,Aizawl,PM10,355,0,0.0
+Mizoram,Aizawl,SO2,359,0,0.0
+Puducherry,Puducherry,NO,350,11,3.143
+Gujarat,Ahmedabad,NO2,2405,116,4.823
+Uttar Pradesh,Gorakhpur,PM2.5,338,4,1.183
+Bihar,Bettiah,MP-Xylene,291,1,0.344
+Bihar,Munger,PM10,307,1,0.326
+Chhattisgarh,Bhilai,NO,1009,35,3.469
+Bihar,Arrah,NO,312,0,0.0
+Bihar,Araria,MP-Xylene,220,82,37.273
+Bihar,Chhapra,Toluene,315,60,19.048
+Bihar,Purnia,Ozone,299,3,1.003
+Bihar,Purnia,Xylene,253,0,0.0
+Bihar,Saharsa,NO,338,20,5.917
+Bihar,Saharsa,PM10,320,0,0.0
+Bihar,Samastipur,NO2,331,29,8.761
+Bihar,Siwan,Eth-Benzene,145,1,0.69
+Uttar Pradesh,Jhansi,Benzene,363,2,0.551
+Uttar Pradesh,Baghpat,Ozone,360,20,5.556
+Uttar Pradesh,Bareilly,CO,699,26,3.72
+Chhattisgarh,Korba,CO,628,10,1.592
+Assam,Sivasagar,Eth-Benzene,361,28,7.756
+Madhya Pradesh,Sagar,Ozone,351,3,0.855
+Andhra Pradesh,Chittoor,PM10,265,8,3.019
+Assam,Byrnihat,Benzene,322,0,0.0
+Assam,Byrnihat,MP-Xylene,317,0,0.0
+Assam,Byrnihat,PM10,296,0,0.0
+Odisha,Baripada,Benzene,337,0,0.0
+Odisha,Baripada,NO,317,16,5.047
+Odisha,Bileipada,SO2,290,6,2.069
+Karnataka,Hubballi,Eth-Benzene,343,4,1.166
+Assam,Silchar,Benzene,354,25,7.062
+Assam,Silchar,CO,349,6,1.719
+Chhattisgarh,Chhal,Ozone,320,16,5.0
+Chhattisgarh,Kunjemura,Benzene,349,0,0.0
+Rajasthan,Bikaner,NH3,363,2,0.551
+Rajasthan,Dholpur,MP-Xylene,60,23,38.333
+Uttarakhand,Kashipur,SO2,328,0,0.0
+Rajasthan,Sirohi,CO,354,10,2.825
+Rajasthan,Dausa,NO2,356,0,0.0
+Rajasthan,Dausa,SO2,354,1,0.282
+Rajasthan,Sri Ganganagar,PM2.5,321,5,1.558
+Rajasthan,Sikar,MP-Xylene,355,0,0.0
+Rajasthan,Sikar,PM2.5,359,18,5.014
+Rajasthan,Karauli,Toluene,317,8,2.524
+Maharashtra,Pimpri-Chinchwad,Ozone,1136,0,0.0
+Maharashtra,Kolhapur,NH3,664,32,4.819
+Rajasthan,Jaisalmer,MP-Xylene,315,19,6.032
+Maharashtra,Sangli,MP-Xylene,333,19,5.706
+Rajasthan,Baran,Toluene,357,3,0.84
+Maharashtra,Nashik,PM10,1397,20,1.432
+Maharashtra,Latur,SO2,337,39,11.573
+Maharashtra,Amravati,NO,360,3,0.833
+Maharashtra,Amravati,PM10,359,0,0.0
+Maharashtra,Aurangabad,Eth-Benzene,621,9,1.449
+Maharashtra,Jalgaon,Eth-Benzene,357,26,7.283
+Maharashtra,Jalna,Benzene,327,5,1.529
+Maharashtra,Nanded,SO2,291,5,1.718
+Maharashtra,Malegaon,SO2,356,0,0.0
+Maharashtra,Belapur,PM10,359,0,0.0
+Maharashtra,Virar,Ozone,362,0,0.0
+Maharashtra,Boisar,MP-Xylene,299,0,0.0
+Rajasthan,Dungarpur,Benzene,355,50,14.085
+Odisha,Angul,Benzene,363,14,3.857
+Odisha,Byasanagar,CO,351,2,0.57
+West Bengal,Barrackpore,Ozone,339,0,0.0
+West Bengal,Barrackpore,PM2.5,333,7,2.102
+West Bengal,Barrackpore,Toluene,325,4,1.231
+TamilNadu,Pudukottai,SO2,68,1,1.471
+Rajasthan,Bhiwadi,NO,634,38,5.994
+Rajasthan,Alwar,NO,362,58,16.022
+Rajasthan,Alwar,PM10,363,5,1.377
+Rajasthan,Bhiwadi,PM2.5,633,16,2.528
+Rajasthan,Ajmer,NO2,362,40,11.05
+Rajasthan,Jaipur,Benzene,1769,109,6.162
+Rajasthan,Pali,NH3,348,0,0.0
+Andhra Pradesh,Rajamahendravaram,CO,338,1,0.296
+Andhra Pradesh,Rajamahendravaram,Xylene,340,10,2.941
+Madhya Pradesh,Singrauli,PM2.5,312,0,0.0
+Madhya Pradesh,Mandideep,Eth-Benzene,329,59,17.933
+Odisha,Talcher,CO,360,0,0.0
+Odisha,Talcher,SO2,336,36,10.714
+West Bengal,Siliguri,MP-Xylene,357,36,10.084
+Madhya Pradesh,Satna,PM10,351,3,0.855
+Punjab,Jalandhar,PM10,362,2,0.552
+Punjab,Jalandhar,Toluene,364,35,9.615
+Haryana,Rohtak,NO,361,0,0.0
+Haryana,Rohtak,NO2,361,0,0.0
+Uttar Pradesh,Greater Noida,PM2.5,683,12,1.757
+Uttar Pradesh,Muzaffarnagar,CO,348,4,1.149
+Karnataka,Chikkaballapur,Ozone,352,13,3.693
+Kerala,Thiruvananthapuram,PM10,690,2,0.29
+Andhra Pradesh,Visakhapatnam,NO2,357,5,1.401
+Andhra Pradesh,Visakhapatnam,Toluene,354,44,12.429
+Uttar Pradesh,Kanpur,Ozone,1053,7,0.665
+West Bengal,Haldia,NO2,362,0,0.0
+Uttar Pradesh,Agra,SO2,2072,78,3.764
+Madhya Pradesh,Damoh,CO,201,0,0.0
+Madhya Pradesh,Damoh,PM10,167,0,0.0
+Haryana,Sonipat,Eth-Benzene,293,7,2.389
+Haryana,Sonipat,NH3,306,34,11.111
+Haryana,Kurukshetra,Eth-Benzene,334,9,2.695
+Haryana,Kurukshetra,SO2,337,3,0.89
+Haryana,Dharuhera,NH3,307,23,7.492
+Haryana,Bahadurgarh,MP-Xylene,330,0,0.0
+Haryana,Bahadurgarh,NO,330,0,0.0
+Haryana,Bhiwani,NO2,346,34,9.827
+Haryana,Karnal,Ozone,345,30,8.696
+Haryana,Sirsa,PM2.5,303,10,3.3
+Haryana,Fatehabad,Benzene,299,15,5.017
+Haryana,Jind,Eth-Benzene,292,19,6.507
+Haryana,Jind,Ozone,333,1,0.3
+Haryana,Jind,PM2.5,332,18,5.422
+Haryana,Ballabgarh,NO,339,130,38.348
+Gujarat,Ankleshwar,PM10,324,0,0.0
+Gujarat,Vapi,PM2.5,341,2,0.587
+Uttar Pradesh,Ghaziabad,NO2,1067,27,2.53
+Uttar Pradesh,Greater Noida,NO2,694,4,0.576
+Uttar Pradesh,Noida,Benzene,990,49,4.949
+Karnataka,Chamarajanagar,Toluene,358,2,0.559
+Karnataka,Mysuru,NH3,357,124,34.734
+Chandigarh,Chandigarh,PM10,1064,13,1.222
+Karnataka,Yadgir,Benzene,287,9,3.136
+Karnataka,Ramanagara,NH3,318,2,0.629
+Karnataka,Bagalkot,NH3,355,118,33.239
+Karnataka,Bagalkot,Toluene,355,12,3.38
+Karnataka,Chikkamagaluru,PM10,317,9,2.839
+Karnataka,Chikkamagaluru,SO2,308,11,3.571
+Kerala,Kannur,Ozone,223,0,0.0
+Haryana,Faridabad,Eth-Benzene,784,25,3.189
+TamilNadu,Gummidipoondi,NO,346,6,1.734
+Kerala,Thrissur,NH3,296,0,0.0
+Karnataka,Madikeri,PM10,359,0,0.0
+Karnataka,Mangalore,MP-Xylene,341,89,26.1
+Arunachal Pradesh,Naharlagun,CO,217,0,0.0
+Bihar,Bettiah,NO2,280,44,15.714
+Bihar,Bettiah,SO2,315,2,0.635
+Bihar,Motihari,CO,322,3,0.932
+Bihar,Motihari,NH3,349,5,1.433
+Uttar Pradesh,Firozabad,Ozone,706,32,4.533
+Bihar,Bihar Sharif,CO,322,71,22.05
+Bihar,Gaya,NO2,1054,67,6.357
+Bihar,Purnia,MP-Xylene,250,29,11.6
+Bihar,Saharsa,Benzene,343,19,5.539
+Bihar,Saharsa,PM2.5,283,6,2.12
+Bihar,Samastipur,MP-Xylene,299,47,15.719
+Bihar,Samastipur,NH3,338,6,1.775
+Bihar,Samastipur,NO,327,14,4.281
+Bihar,Siwan,NO2,331,46,13.897
+Uttar Pradesh,Baghpat,NO,351,25,7.123
+Sikkim,Gangtok,Eth-Benzene,53,1,1.887
+Uttarakhand,Dehradun,CO,359,14,3.9
+Uttar Pradesh,Bareilly,SO2,696,131,18.822
+Uttar Pradesh,Bareilly,Eth-Benzene,325,14,4.308
+Uttar Pradesh,Bareilly,PM10,663,5,0.754
+Chhattisgarh,Raipur,NH3,1192,94,7.886
+Andhra Pradesh,Chittoor,PM2.5,265,5,1.887
+Andhra Pradesh,Chittoor,SO2,276,24,8.696
+Odisha,Bileipada,Benzene,318,36,11.321
+Odisha,Bileipada,PM2.5,316,0,0.0
+Odisha,Nayagarh,Eth-Benzene,199,86,43.216
+Odisha,Tensa,Eth-Benzene,328,0,0.0
+Karnataka,Kalaburagi,PM10,340,1,0.294
+Assam,Silchar,Eth-Benzene,354,2,0.565
+Assam,Silchar,Ozone,253,11,4.348
+Chhattisgarh,Chhal,PM10,340,2,0.588
+Chhattisgarh,Milupara,Benzene,104,2,1.923
+Andhra Pradesh,Kadapa,Toluene,343,0,0.0
+Rajasthan,Tonk,NO2,333,0,0.0
+Uttarakhand,Rishikesh,Ozone,349,5,1.433
+Uttarakhand,Kashipur,NO,349,1,0.287
+Rajasthan,Sirohi,NO,352,29,8.239
+Assam,Nagaon,SO2,330,18,5.455
+Rajasthan,Banswara,Ozone,360,0,0.0
+Rajasthan,Dausa,CO,358,18,5.028
+Rajasthan,Dausa,Eth-Benzene,327,26,7.951
+Rajasthan,Barmer,Benzene,357,36,10.084
+Rajasthan,Jhunjhunu,PM2.5,363,10,2.755
+Rajasthan,Jhalawar,Eth-Benzene,358,18,5.028
+Rajasthan,Jaisalmer,Eth-Benzene,313,26,8.307
+Rajasthan,Jaisalmer,NO2,361,5,1.385
+Rajasthan,Baran,Ozone,358,0,0.0
+Maharashtra,Akola,Benzene,365,25,6.849
+Maharashtra,Ahmednagar,MP-Xylene,285,5,1.754
+Maharashtra,Amravati,Toluene,361,15,4.155
+Maharashtra,Aurangabad,MP-Xylene,621,11,1.771
+Maharashtra,Jalgaon,NO2,349,0,0.0
+Maharashtra,Jalgaon,Ozone,359,0,0.0
+Maharashtra,Jalna,SO2,311,72,23.151
+Maharashtra,Parbhani,MP-Xylene,266,4,1.504
+Maharashtra,Parbhani,Ozone,297,0,0.0
+Maharashtra,Badlapur,SO2,353,28,7.932
+Maharashtra,Belapur,MP-Xylene,355,7,1.972
+Maharashtra,Mira-Bhayandar,SO2,359,31,8.635
+Maharashtra,Boisar,Eth-Benzene,299,0,0.0
+Maharashtra,Boisar,PM10,300,0,0.0
+Maharashtra,Ulhasnagar,PM2.5,358,0,0.0
+Odisha,Bhubaneswar,Benzene,700,51,7.286
+Odisha,Byasanagar,PM2.5,345,0,0.0
+West Bengal,Barrackpore,MP-Xylene,269,17,6.32
+Rajasthan,Alwar,NO2,362,3,0.829
+Rajasthan,Kota,Ozone,1088,2,0.184
+Rajasthan,Pali,PM2.5,348,8,2.299
+Madhya Pradesh,Pithampur,Benzene,357,13,3.641
+Madhya Pradesh,Mandideep,PM2.5,335,4,1.194
+Madhya Pradesh,Dewas,PM10,314,0,0.0
+West Bengal,Asansol,Benzene,921,53,5.755
+Punjab,Rupnagar,NO,180,39,21.667
+Uttar Pradesh,Muzaffarnagar,PM2.5,350,4,1.143
+Karnataka,Chikkaballapur,Toluene,351,0,0.0
+Bihar,Muzaffarpur,Ozone,1042,8,0.768
+Haryana,Panchkula,Ozone,265,0,0.0
+Kerala,Thiruvananthapuram,NH3,726,18,2.479
+Punjab,Amritsar,SO2,357,5,1.401
+Andhra Pradesh,Visakhapatnam,Benzene,354,3,0.847
+Andhra Pradesh,Visakhapatnam,NH3,353,12,3.399
+Haryana,Faridabad,Xylene,815,19,2.331
+Maharashtra,Chandrapur,PM10,424,3,0.708
+Maharashtra,Solapur,PM10,1019,2,0.196
+Haryana,Sonipat,SO2,308,19,6.169
+Haryana,Kurukshetra,PM10,346,2,0.578
+Haryana,Dharuhera,NO,307,0,0.0
+Haryana,Dharuhera,NO2,306,0,0.0
+Haryana,Bahadurgarh,NH3,330,0,0.0
+Haryana,Yamuna Nagar,NH3,310,90,29.032
+Haryana,Yamuna Nagar,PM2.5,302,0,0.0
+Haryana,Karnal,Benzene,355,1,0.282
+Haryana,Karnal,PM2.5,347,7,2.017
+Haryana,Narnaul,Ozone,314,15,4.777
+Haryana,Fatehabad,SO2,285,13,4.561
+Gujarat,Gandhinagar,NO,816,37,4.534
+Gujarat,Vatva,NH3,345,37,10.725
+Gujarat,Vapi,NO2,293,17,5.802
+Haryana,Kaithal,CO,340,22,6.471
+Assam,Guwahati,Benzene,674,7,1.039
+Kerala,Eloor,Ozone,285,15,5.263
+Karnataka,Chamarajanagar,PM10,356,3,0.843
+Karnataka,Mysuru,SO2,355,10,2.817
+Chandigarh,Chandigarh,NO2,1054,6,0.569
+Madhya Pradesh,Jabalpur,NO2,1354,27,1.994
+Karnataka,Bagalkot,PM2.5,355,3,0.845
+Karnataka,Vijayapura,PM10,354,25,7.062
+Bihar,Hajipur,NO,344,27,7.849
+Karnataka,Mangalore,SO2,337,0,0.0
+Puducherry,Puducherry,Benzene,318,1,0.314
+Uttar Pradesh,Agra,NH3,1605,212,13.209
+Bihar,Motihari,NO2,349,6,1.719
+Bihar,Motihari,PM2.5,307,1,0.326
+Bihar,Muzaffarpur,MP-Xylene,676,49,7.249
+Uttar Pradesh,Agra,MP-Xylene,1784,126,7.063
+Chhattisgarh,Bilaspur,CO,280,2,0.714
+Chhattisgarh,Bhilai,NO2,1009,45,4.46
+Bihar,Bhagalpur,Eth-Benzene,646,103,15.944
+Bihar,Bhagalpur,NO,694,112,16.138
+Bihar,Purnia,NO2,325,12,3.692
+Bihar,Purnia,Toluene,253,21,8.3
+Himachal Pradesh,Baddi,CO,361,19,5.263
+Sikkim,Gangtok,MP-Xylene,58,6,10.345
+Sikkim,Gangtok,NO2,270,0,0.0
+Uttarakhand,Dehradun,NO2,358,1,0.279
+TamilNadu,Madurai,PM10,76,0,0.0
+Chhattisgarh,Bhilai,CO,1026,6,0.585
+Gujarat,Surat,SO2,350,57,16.286
+Andhra Pradesh,Chittoor,MP-Xylene,258,58,22.481
+Madhya Pradesh,Gwalior,MP-Xylene,187,76,40.642
+Odisha,Baripada,NO2,320,0,0.0
+Odisha,Keonjhar,CO,332,41,12.349
+Odisha,Keonjhar,PM10,328,0,0.0
+Karnataka,Hubballi,SO2,323,25,7.74
+Assam,Guwahati,SO2,993,35,3.525
+Assam,Silchar,NO,351,62,17.664
+Rajasthan,Churu,Benzene,331,24,7.251
+Rajasthan,Churu,MP-Xylene,289,39,13.495
+Rajasthan,Churu,NO2,331,3,0.906
+Rajasthan,Churu,Toluene,330,3,0.909
+Rajasthan,Dholpur,PM10,334,0,0.0
+Assam,Nagaon,Benzene,357,25,7.003
+Rajasthan,Banswara,SO2,346,21,6.069
+Rajasthan,Chittorgarh,Eth-Benzene,353,10,2.833
+Rajasthan,Chittorgarh,Toluene,358,72,20.112
+Rajasthan,Dausa,Benzene,353,4,1.133
+Rajasthan,Dausa,PM10,356,2,0.562
+Rajasthan,Hanumangarh,MP-Xylene,299,16,5.351
+Rajasthan,Hanumangarh,SO2,330,14,4.242
+Rajasthan,Jhunjhunu,PM10,363,3,0.826
+Rajasthan,Pratapgarh,PM10,362,0,0.0
+Rajasthan,Sikar,Benzene,360,4,1.111
+Rajasthan,Jhalawar,NO2,360,1,0.278
+Maharashtra,Sangli,Ozone,278,2,0.719
+Maharashtra,Solapur,MP-Xylene,672,43,6.399
+Maharashtra,Solapur,SO2,990,76,7.677
+Maharashtra,Nashik,NO2,1389,15,1.08
+Maharashtra,Akola,CO,365,2,0.548
+Maharashtra,Jalgaon,PM10,353,1,0.283
+Maharashtra,Jalna,Toluene,327,28,8.563
+Maharashtra,Parbhani,SO2,296,11,3.716
+Maharashtra,Badlapur,Toluene,353,2,0.567
+Maharashtra,Thane,Toluene,703,45,6.401
+Maharashtra,Dhule,PM10,353,0,0.0
+Maharashtra,Ulhasnagar,NO2,359,0,0.0
+Rajasthan,Dungarpur,MP-Xylene,326,45,13.804
+Rajasthan,Dungarpur,Toluene,355,13,3.662
+Rajasthan,Jalore,Ozone,365,0,0.0
+West Bengal,Barrackpore,NO,318,38,11.95
+TamilNadu,Perundurai,PM10,69,0,0.0
+West Bengal,Durgapur,Benzene,328,22,6.707
+Rajasthan,Pali,NO2,348,0,0.0
+Andhra Pradesh,Rajamahendravaram,PM10,342,7,2.047
+Madhya Pradesh,Singrauli,CO,335,5,1.493
+Madhya Pradesh,Pithampur,NO,350,4,1.143
+Odisha,Brajrajnagar,PM2.5,321,0,0.0
+Odisha,Brajrajnagar,SO2,344,0,0.0
+West Bengal,Siliguri,Benzene,357,77,21.569
+West Bengal,Siliguri,CO,359,19,5.292
+West Bengal,Siliguri,PM10,360,3,0.833
+Punjab,Khanna,Benzene,359,0,0.0
+Haryana,Rohtak,PM2.5,360,2,0.556
+Uttar Pradesh,Noida,SO2,1033,14,1.355
+Punjab,Rupnagar,NO2,171,21,12.281
+Punjab,Rupnagar,PM2.5,346,3,0.867
+Uttar Pradesh,Bulandshahr,PM2.5,362,3,0.829
+Uttar Pradesh,Muzaffarnagar,NO2,349,0,0.0
+Andhra Pradesh,Visakhapatnam,PM10,353,6,1.7
+Uttar Pradesh,Kanpur,Benzene,968,129,13.326
+Haryana,Kurukshetra,Benzene,334,60,17.964
+Haryana,Dharuhera,Toluene,269,16,5.948
+Haryana,Bahadurgarh,PM10,327,1,0.306
+Haryana,Yamuna Nagar,NO,310,50,16.129
+Haryana,Yamuna Nagar,Xylene,316,83,26.266
+Haryana,Palwal,Toluene,333,63,18.919
+Haryana,Sirsa,NO,334,0,0.0
+Haryana,Narnaul,Benzene,318,54,16.981
+Haryana,Narnaul,PM2.5,314,9,2.866
+Haryana,Hisar,NO,333,60,18.018
+Haryana,Hisar,PM2.5,311,6,1.929
+Haryana,Ballabgarh,MP-Xylene,340,52,15.294
+Gujarat,Ankleshwar,NO,327,43,13.15
+Gujarat,Vatva,NO,345,40,11.594
+Gujarat,Vapi,Benzene,344,10,2.907
+Gujarat,Vapi,Ozone,344,33,9.593
+Assam,Guwahati,NO2,944,27,2.86
+TamilNadu,Coimbatore,Toluene,131,32,24.427
+Kerala,Eloor,NH3,285,7,2.456
+Karnataka,Mysuru,Ozone,361,1,0.277
+Madhya Pradesh,Bhopal,CO,1060,6,0.566
+Karnataka,Yadgir,NO2,233,13,5.579
+Karnataka,Yadgir,Ozone,298,10,3.356
+Uttar Pradesh,Meerut,Xylene,627,92,14.673
+Karnataka,Shivamogga,PM10,355,0,0.0
+Karnataka,Shivamogga,Toluene,358,4,1.117
+Karnataka,Vijayapura,NH3,354,2,0.565
+Kerala,Kollam,MP-Xylene,256,1,0.391
+Bihar,Hajipur,Ozone,344,7,2.035
+Haryana,Charkhi Dadri,NO2,355,0,0.0
+Haryana,Charkhi Dadri,Xylene,358,154,43.017
+Haryana,Gurugram,NH3,667,50,7.496
+Mizoram,Aizawl,MP-Xylene,359,0,0.0
+Mizoram,Aizawl,NO2,337,0,0.0
+Arunachal Pradesh,Naharlagun,PM2.5,215,0,0.0
+Uttar Pradesh,Gorakhpur,CO,360,24,6.667
+Bihar,Bettiah,PM2.5,215,1,0.465
+Uttar Pradesh,Vrindavan,NH3,353,2,0.567
+Bihar,Sasaram,NO2,313,15,4.792
+Bihar,Arrah,CO,312,0,0.0
+Bihar,Bhagalpur,SO2,668,37,5.539
+Bihar,Aurangabad,PM2.5,175,7,4.0
+Bihar,Manguraha,PM2.5,182,2,1.099
+Bihar,Manguraha,SO2,232,7,3.017
+Bihar,Saharsa,NH3,339,9,2.655
+Bihar,Samastipur,Eth-Benzene,170,17,10.0
+Bihar,Siwan,SO2,329,9,2.736
+Uttar Pradesh,Moradabad,Toluene,365,4,1.096
+Uttar Pradesh,Baghpat,NO2,348,2,0.575
+Himachal Pradesh,Baddi,Benzene,353,10,2.833
+Himachal Pradesh,Baddi,NH3,361,0,0.0
+Himachal Pradesh,Baddi,SO2,357,27,7.563
+Tripura,Agartala,NO2,315,0,0.0
+Uttar Pradesh,Khurja,PM2.5,329,10,3.04
+TamilNadu,Madurai,SO2,76,4,5.263
+TamilNadu,Ramanathapuram,NO2,119,2,1.681
+Karnataka,Dharwad,PM10,324,0,0.0
+Chhattisgarh,Raipur,NO2,1242,4,0.322
+Assam,Sivasagar,Ozone,363,16,4.408
+Madhya Pradesh,Sagar,NO,345,1,0.29
+Assam,Nalbari,NO,337,63,18.694
+Odisha,Rairangpur,Benzene,329,0,0.0
+Odisha,Rourkela,Benzene,271,1,0.369
+Odisha,Tensa,Benzene,335,1,0.299
+Karnataka,Kalaburagi,MP-Xylene,342,0,0.0
+Karnataka,Hubballi,Benzene,343,4,1.166
+Karnataka,Hubballi,MP-Xylene,343,5,1.458
+Karnataka,Hubballi,NO,343,30,8.746
+Karnataka,Tumakuru,NO,176,34,19.318
+Karnataka,Tumakuru,PM10,282,0,0.0
+Chhattisgarh,Chhal,PM2.5,334,2,0.599
+Chhattisgarh,Kunjemura,NO2,349,0,0.0
+Andhra Pradesh,Kadapa,PM2.5,265,16,6.038
+Rajasthan,Bikaner,Eth-Benzene,220,9,4.091
+Rajasthan,Churu,PM10,329,4,1.216
+Rajasthan,Dholpur,Benzene,347,23,6.628
+Rajasthan,Kota,NO,1083,90,8.31
+Rajasthan,Tonk,Ozone,330,3,0.909
+Uttarakhand,Rishikesh,Benzene,344,7,2.035
+Uttarakhand,Rishikesh,PM2.5,349,1,0.287
+Uttarakhand,Kashipur,NO2,348,27,7.759
+Assam,Nagaon,CO,348,1,0.287
+Rajasthan,Chittorgarh,MP-Xylene,338,46,13.609
+Rajasthan,Dausa,NO,358,25,6.983
+Rajasthan,Sawai Madhopur,Benzene,351,8,2.279
+Rajasthan,Sawai Madhopur,MP-Xylene,335,77,22.985
+Rajasthan,Sawai Madhopur,SO2,357,17,4.762
+Rajasthan,Jhunjhunu,CO,363,5,1.377
+Rajasthan,Sikar,Ozone,361,0,0.0
+Rajasthan,Jhalawar,Ozone,360,0,0.0
+Maharashtra,Pimpri-Chinchwad,Benzene,1158,18,1.554
+Rajasthan,Baran,NH3,358,6,1.676
+Maharashtra,Akola,PM10,365,0,0.0
+Maharashtra,Amravati,NH3,362,5,1.381
+Maharashtra,Jalna,Eth-Benzene,315,40,12.698
+Maharashtra,Nanded,Eth-Benzene,299,0,0.0
+Maharashtra,Malegaon,MP-Xylene,356,0,0.0
+Maharashtra,Malegaon,NO,354,13,3.672
+Maharashtra,Belapur,Eth-Benzene,355,8,2.254
+Maharashtra,Belapur,NO2,361,36,9.972
+Maharashtra,Belapur,PM2.5,360,0,0.0
+Maharashtra,Mira-Bhayandar,NH3,360,0,0.0
+Maharashtra,Boisar,Benzene,312,11,3.526
+Maharashtra,Ulhasnagar,NH3,358,0,0.0
+Madhya Pradesh,Jabalpur,Eth-Benzene,630,6,0.952
+Rajasthan,Dungarpur,PM2.5,343,10,2.915
+Odisha,Balasore,Benzene,360,40,11.111
+Odisha,Barbil,NO,366,9,2.459
+Odisha,Cuttack,CO,363,0,0.0
+Odisha,Byasanagar,NO,359,43,11.978
+TamilNadu,Perundurai,PM2.5,68,0,0.0
+West Bengal,Durgapur,Ozone,349,0,0.0
+West Bengal,Durgapur,Toluene,328,12,3.659
+Rajasthan,Jodhpur,SO2,1810,32,1.768
+Rajasthan,Alwar,Benzene,363,49,13.499
+Rajasthan,Pali,PM10,348,2,0.575
+Rajasthan,Udaipur,NO2,364,0,0.0
+Madhya Pradesh,Singrauli,NH3,323,0,0.0
+Madhya Pradesh,Mandideep,NH3,333,10,3.003
+Andhra Pradesh,Amaravati,NO,349,16,4.585
+Uttar Pradesh,Greater Noida,Xylene,251,0,0.0
+Uttar Pradesh,Muzaffarnagar,NO,341,28,8.211
+Haryana,Panchkula,PM2.5,302,1,0.331
+Haryana,Panchkula,Toluene,321,4,1.246
+Maharashtra,Aurangabad,Ozone,966,3,0.311
+Punjab,Mandi Gobindgarh,SO2,300,27,9.0
+West Bengal,Haldia,SO2,362,13,3.591
+Uttar Pradesh,Agra,Xylene,237,11,4.641
+Haryana,Sonipat,NO2,306,21,6.863
+Haryana,Kurukshetra,CO,348,39,11.207
+Haryana,Dharuhera,Eth-Benzene,271,2,0.738
+Haryana,Dharuhera,Xylene,270,2,0.741
+Haryana,Bahadurgarh,Xylene,330,0,0.0
+Haryana,Bhiwani,Benzene,332,110,33.133
+Haryana,Fatehabad,Ozone,296,0,0.0
+Haryana,Hisar,NH3,333,26,7.808
+Haryana,Kaithal,Ozone,327,8,2.446
+Haryana,Kaithal,Toluene,340,8,2.353
+Assam,Guwahati,Ozone,972,6,0.617
+Uttar Pradesh,Ghaziabad,PM2.5,1056,41,3.883
+West Bengal,Kolkata,Eth-Benzene,2473,116,4.691
+Karnataka,Chamarajanagar,CO,335,0,0.0
+Karnataka,Chamarajanagar,NO,355,0,0.0
+Meghalaya,Shillong,Ozone,232,0,0.0
+Madhya Pradesh,Bhopal,SO2,1058,84,7.94
+Karnataka,Ramanagara,NO,318,36,11.321
+Karnataka,Vijayapura,CO,71,12,16.901
+Bihar,Gaya,MP-Xylene,678,44,6.49
+Mizoram,Aizawl,Eth-Benzene,359,0,0.0
+TamilNadu,Gummidipoondi,PM2.5,351,7,1.994
+TamilNadu,Thoothukudi,NO2,361,0,0.0
+TamilNadu,Thoothukudi,PM10,362,3,0.829
+Assam,Guwahati,CO,1014,24,2.367
+Karnataka,Mangalore,Benzene,341,151,44.282
+Gujarat,Gandhinagar,SO2,830,11,1.325
+Uttar Pradesh,Gorakhpur,Benzene,360,23,6.389
+Uttar Pradesh,Gorakhpur,NH3,360,2,0.556
+Bihar,Bihar Sharif,Ozone,280,8,2.857
+Bihar,Sasaram,CO,320,28,8.75
+Bihar,Sasaram,PM10,327,0,0.0
+Bihar,Rajgir,Toluene,197,17,8.629
+Bihar,Arrah,MP-Xylene,236,17,7.203
+Bihar,Chhapra,CO,331,0,0.0
+Bihar,Chhapra,NO2,239,0,0.0
+Bihar,Chhapra,PM10,307,0,0.0
+Bihar,Kishanganj,NH3,347,3,0.865
+Bihar,Kishanganj,Xylene,347,82,23.631
+Bihar,Samastipur,Toluene,319,2,0.627
+Bihar,Siwan,Ozone,300,19,6.333
+Uttar Pradesh,Jhansi,SO2,360,1,0.278
+Uttar Pradesh,Baghpat,Benzene,352,5,1.42
+Sikkim,Gangtok,PM10,256,2,0.781
+TamilNadu,Thanjavur,SO2,72,0,0.0
+Andhra Pradesh,Anantapur,Xylene,298,76,25.503
+Karnataka,Dharwad,MP-Xylene,347,58,16.715
+Karnataka,Dharwad,PM2.5,323,0,0.0
+Odisha,Nayagarh,Toluene,290,30,10.345
+Odisha,Rourkela,NH3,337,0,0.0
+Karnataka,Hubballi,NO2,343,3,0.875
+Assam,Silchar,Toluene,354,2,0.565
+Chhattisgarh,Chhal,SO2,331,9,2.719
+Chhattisgarh,Kunjemura,NO,349,4,1.146
+Chhattisgarh,Tumidih,SO2,159,0,0.0
+Rajasthan,Bikaner,Benzene,362,58,16.022
+Rajasthan,Dholpur,Eth-Benzene,44,7,15.909
+Uttarakhand,Rishikesh,Toluene,344,1,0.291
+Rajasthan,Sirohi,Benzene,351,5,1.425
+Assam,Nagaon,NH3,345,35,10.145
+Jharkhand,Dhanbad,NO2,100,17,17.0
+Rajasthan,Banswara,PM2.5,352,2,0.568
+Rajasthan,Chittorgarh,NO,359,6,1.671
+Rajasthan,Dausa,MP-Xylene,342,15,4.386
+Rajasthan,Barmer,MP-Xylene,311,25,8.039
+Rajasthan,Barmer,PM10,362,3,0.829
+Rajasthan,Sawai Madhopur,NO2,350,0,0.0
+Rajasthan,Rajsamand,Eth-Benzene,208,51,24.519
+Rajasthan,Rajsamand,Toluene,351,12,3.419
+Rajasthan,Pratapgarh,NO2,362,0,0.0
+Rajasthan,Pratapgarh,SO2,362,2,0.552
+Rajasthan,Sikar,NO,360,85,23.611
+Maharashtra,Pimpri-Chinchwad,NH3,971,16,1.648
+Rajasthan,Bhilwara,Eth-Benzene,344,22,6.395
+Rajasthan,Bhilwara,NO,347,41,11.816
+Maharashtra,Sangli,PM2.5,330,0,0.0
+Maharashtra,Solapur,Benzene,356,0,0.0
+Rajasthan,Nagaur,CO,354,5,1.412
+Maharashtra,Mahad,NO,350,3,0.857
+Maharashtra,Mahad,Toluene,349,16,4.585
+Maharashtra,Jalna,CO,341,0,0.0
+Maharashtra,Parbhani,CO,294,3,1.02
+Maharashtra,Nanded,CO,314,139,44.268
+Maharashtra,Nanded,PM2.5,314,0,0.0
+Maharashtra,Nanded,Toluene,302,0,0.0
+Maharashtra,Dhule,MP-Xylene,352,3,0.852
+Maharashtra,Dhule,NH3,347,4,1.153
+Maharashtra,Dhule,Ozone,355,0,0.0
+Maharashtra,Belapur,SO2,362,15,4.144
+Maharashtra,Mira-Bhayandar,MP-Xylene,359,0,0.0
+Rajasthan,Dungarpur,SO2,354,5,1.412
+Rajasthan,Jalore,Benzene,362,3,0.829
+Odisha,Barbil,NH3,363,0,0.0
+Odisha,Angul,NO2,363,5,1.377
+TamilNadu,Pudukottai,NO2,68,0,0.0
+TamilNadu,Perundurai,NO2,71,2,2.817
+Rajasthan,Bhiwadi,CO,645,20,3.101
+Rajasthan,Ajmer,Benzene,364,0,0.0
+Madhya Pradesh,Pithampur,SO2,362,55,15.193
+Madhya Pradesh,Mandideep,Ozone,336,16,4.762
+Madhya Pradesh,Dewas,NO2,315,49,15.556
+Madhya Pradesh,Dewas,Ozone,320,2,0.625
+Madhya Pradesh,Dewas,PM2.5,316,8,2.532
+Andhra Pradesh,Amaravati,NO2,349,12,3.438
+Odisha,Talcher,MP-Xylene,251,82,32.669
+Odisha,Talcher,Ozone,347,12,3.458
+Punjab,Jalandhar,SO2,363,1,0.275
+Punjab,Khanna,NH3,347,0,0.0
+Punjab,Khanna,PM2.5,356,5,1.404
+Haryana,Rohtak,MP-Xylene,365,40,10.959
+Haryana,Rohtak,Ozone,365,6,1.644
+Karnataka,Chikkaballapur,CO,306,9,2.941
+Bihar,Muzaffarpur,NO,1054,63,5.977
+Bihar,Gaya,Toluene,1056,3,0.284
+Haryana,Panchkula,MP-Xylene,307,1,0.326
+Punjab,Ludhiana,PM2.5,364,6,1.648
+Punjab,Mandi Gobindgarh,PM2.5,332,2,0.602
+Andhra Pradesh,Visakhapatnam,PM2.5,350,12,3.429
+Uttar Pradesh,Varanasi,Xylene,349,1,0.287
+West Bengal,Haldia,Toluene,357,4,1.12
+Haryana,Sonipat,PM10,301,12,3.987
+Madhya Pradesh,Ratlam,NO2,350,2,0.571
+Haryana,Kurukshetra,NO,348,98,28.161
+Haryana,Dharuhera,Benzene,270,10,3.704
+Haryana,Bahadurgarh,CO,334,0,0.0
+Haryana,Yamuna Nagar,SO2,299,13,4.348
+Haryana,Karnal,SO2,349,47,13.467
+Haryana,Sirsa,MP-Xylene,291,1,0.344
+Haryana,Narnaul,NO,318,0,0.0
+Haryana,Narnaul,NO2,318,0,0.0
+Gujarat,Ankleshwar,Xylene,332,0,0.0
+Gujarat,Vatva,PM2.5,319,4,1.254
+Gujarat,Vapi,NH3,351,38,10.826
+Maharashtra,Kalyan,CO,350,2,0.571
+Karnataka,Mysuru,PM10,362,0,0.0
+Karnataka,Mysuru,PM2.5,362,0,0.0
+Karnataka,Mysuru,Toluene,363,37,10.193
+Madhya Pradesh,Katni,NH3,354,1,0.282
+Karnataka,Ramanagara,PM2.5,342,0,0.0
+Karnataka,Bagalkot,NO,355,115,32.394
+Karnataka,Chikkamagaluru,Ozone,325,1,0.308
+Karnataka,Vijayapura,Eth-Benzene,354,27,7.627
+Kerala,Kollam,Benzene,256,1,0.391
+Bihar,Hajipur,Benzene,346,8,2.312
+Bihar,Gaya,PM10,672,0,0.0
+Haryana,Faridabad,PM10,934,9,0.964
+Mizoram,Aizawl,NO,359,24,6.685
+TamilNadu,Gummidipoondi,NH3,355,4,1.127
+TamilNadu,Thoothukudi,SO2,278,0,0.0
+Kerala,Thrissur,SO2,242,35,14.463
+Karnataka,Madikeri,NO,365,60,16.438
+Karnataka,Madikeri,Ozone,363,0,0.0
+Assam,Guwahati,Eth-Benzene,758,67,8.839
+Arunachal Pradesh,Naharlagun,MP-Xylene,216,0,0.0
+Arunachal Pradesh,Naharlagun,NH3,215,0,0.0
+Gujarat,Gandhinagar,NO2,823,18,2.187
+Uttar Pradesh,Vrindavan,SO2,355,0,0.0
+Chhattisgarh,Bilaspur,PM10,335,0,0.0
+Bihar,Aurangabad,Ozone,340,7,2.059
+Bihar,Aurangabad,Xylene,321,34,10.592
+Bihar,Kishanganj,CO,348,62,17.816
+Bihar,Kishanganj,Eth-Benzene,333,81,24.324
+Bihar,Manguraha,CO,221,8,3.62
+Bihar,Manguraha,MP-Xylene,57,0,0.0
+TamilNadu,Madurai,MP-Xylene,76,6,7.895
+TamilNadu,Madurai,PM2.5,76,0,0.0
+Karnataka,Dharwad,Benzene,347,58,16.715
+Madhya Pradesh,Sagar,MP-Xylene,290,27,9.31
+Madhya Pradesh,Sagar,Toluene,339,33,9.735
+Andhra Pradesh,Chittoor,Benzene,259,1,0.386
+Andhra Pradesh,Tirupati,CO,301,88,29.236
+Assam,Nalbari,PM10,320,2,0.625
+Odisha,Keonjhar,NO2,277,29,10.469
+Odisha,Rourkela,CO,921,14,1.52
+Odisha,Rourkela,Eth-Benzene,236,57,24.153
+Odisha,Rourkela,PM10,938,4,0.426
+Odisha,Tensa,MP-Xylene,328,0,0.0
+Karnataka,Kalaburagi,Eth-Benzene,342,0,0.0
+Karnataka,Kalaburagi,NO2,333,17,5.105
+Assam,Silchar,NH3,356,2,0.562
+Chhattisgarh,Milupara,CO,180,6,3.333
+Uttarakhand,Kashipur,MP-Xylene,318,1,0.314
+Rajasthan,Dausa,PM2.5,356,12,3.371
+Rajasthan,Rajsamand,NH3,348,2,0.575
+Rajasthan,Sri Ganganagar,Eth-Benzene,124,8,6.452
+Rajasthan,Sri Ganganagar,MP-Xylene,127,0,0.0
+Rajasthan,Pratapgarh,Toluene,362,3,0.829
+Rajasthan,Jhalawar,Toluene,360,27,7.5
+Rajasthan,Baran,Benzene,357,3,0.84
+Maharashtra,Solapur,CO,676,15,2.219
+Maharashtra,Mahad,NO2,350,2,0.571
+Maharashtra,Akola,SO2,364,1,0.275
+Maharashtra,Amravati,PM2.5,360,0,0.0
+Maharashtra,Aurangabad,NH3,972,35,3.601
+Maharashtra,Jalgaon,SO2,354,13,3.672
+Maharashtra,Parbhani,NH3,300,11,3.667
+Maharashtra,Parbhani,PM10,290,1,0.345
+Maharashtra,Thane,CO,712,13,1.826
+Maharashtra,Mira-Bhayandar,Toluene,359,0,0.0
+Maharashtra,Bhiwandi,Eth-Benzene,332,4,1.205
+Andhra Pradesh,Vijayawada,Eth-Benzene,1251,42,3.357
+Madhya Pradesh,Indore,Benzene,720,162,22.5
+Odisha,Balasore,Eth-Benzene,256,24,9.375
+Odisha,Balasore,PM2.5,346,14,4.046
+Odisha,Barbil,PM10,362,0,0.0
+Odisha,Angul,Toluene,363,24,6.612
+Odisha,Bhubaneswar,PM10,685,1,0.146
+Odisha,Byasanagar,NO2,358,1,0.279
+Rajasthan,Udaipur,NH3,364,2,0.549
+Madhya Pradesh,Mandideep,CO,336,5,1.488
+Madhya Pradesh,Mandideep,NO2,333,0,0.0
+Madhya Pradesh,Dewas,CO,322,0,0.0
+Odisha,Brajrajnagar,CO,351,0,0.0
+West Bengal,Siliguri,NO2,352,30,8.523
+Punjab,Jalandhar,CO,363,9,2.479
+Punjab,Khanna,CO,356,13,3.652
+Uttar Pradesh,Bulandshahr,Benzene,361,21,5.817
+Punjab,Bathinda,NO2,339,10,2.95
+Punjab,Bathinda,PM10,272,1,0.368
+Uttar Pradesh,Muzaffarnagar,SO2,350,1,0.286
+Punjab,Mandi Gobindgarh,NO,325,3,0.923
+Punjab,Mandi Gobindgarh,NO2,325,0,0.0
+Punjab,Amritsar,Xylene,202,0,0.0
+Andhra Pradesh,Visakhapatnam,CO,357,6,1.681
+Andhra Pradesh,Visakhapatnam,Ozone,334,34,10.18
+Uttar Pradesh,Hapur,NO,353,50,14.164
+Haryana,Kurukshetra,NO2,348,21,6.034
+Haryana,Dharuhera,Ozone,296,9,3.041
+Haryana,Bhiwani,CO,348,4,1.149
+Haryana,Sirsa,NH3,334,4,1.198
+Gujarat,Gandhinagar,CO,843,15,1.779
+Haryana,Kaithal,PM10,325,4,1.231
+Haryana,Kaithal,PM2.5,325,12,3.692
+Uttar Pradesh,Ghaziabad,Ozone,1053,17,1.614
+Uttar Pradesh,Ghaziabad,Xylene,287,35,12.195
+Maharashtra,Kalyan,Benzene,163,1,0.613
+Maharashtra,Kalyan,Eth-Benzene,163,1,0.613
+Maharashtra,Kalyan,MP-Xylene,138,0,0.0
+Maharashtra,Kalyan,PM2.5,348,0,0.0
+Chandigarh,Chandigarh,SO2,1065,5,0.469
+Chandigarh,Chandigarh,Toluene,1025,5,0.488
+Madhya Pradesh,Katni,NO,354,48,13.559
+Karnataka,Yadgir,PM2.5,312,1,0.321
+Karnataka,Yadgir,Toluene,295,20,6.78
+Karnataka,Chikkamagaluru,NO2,325,11,3.385
+Madhya Pradesh,Sagar,SO2,701,22,3.138
+Kerala,Kannur,Eth-Benzene,138,0,0.0
+Kerala,Kollam,NH3,256,42,16.406
+Kerala,Kollam,PM2.5,252,1,0.397
+Bihar,Hajipur,SO2,347,2,0.576
+TamilNadu,Gummidipoondi,SO2,344,2,0.581
+Kerala,Thrissur,Benzene,296,1,0.338
+Kerala,Thrissur,NO2,296,7,2.365
+Kerala,Thrissur,PM10,296,0,0.0
+Karnataka,Madikeri,SO2,365,1,0.274
+Karnataka,Mangalore,PM10,338,1,0.296
+Puducherry,Puducherry,CO,336,30,8.929
+Bihar,Bettiah,CO,296,10,3.378
+Uttar Pradesh,Vrindavan,MP-Xylene,355,4,1.127
+Bihar,Sasaram,Eth-Benzene,208,7,3.365
+Bihar,Sasaram,Xylene,338,17,5.03
+Bihar,Rajgir,Xylene,197,15,7.614
+Bihar,Arrah,SO2,303,12,3.96
+Bihar,Kishanganj,Toluene,347,83,23.919
+Bihar,Manguraha,NO,240,22,9.167
+Bihar,Manguraha,Toluene,241,8,3.32
+Bihar,Samastipur,SO2,309,33,10.68
+Uttar Pradesh,Jhansi,NH3,360,0,0.0
+Uttar Pradesh,Baghpat,PM2.5,355,3,0.845
+Tripura,Agartala,NH3,311,0,0.0
+Uttar Pradesh,Khurja,NO,351,37,10.541
+TamilNadu,Madurai,Ozone,76,3,3.947
+Chhattisgarh,Korba,Benzene,551,17,3.085
+Madhya Pradesh,Gwalior,PM2.5,1074,22,2.048
+Madhya Pradesh,Sagar,Xylene,339,27,7.965
+Gujarat,Surat,NO,349,43,12.321
+Andhra Pradesh,Chittoor,CO,239,4,1.674
+Andhra Pradesh,Chittoor,NH3,257,2,0.778
+Assam,Byrnihat,Toluene,322,0,0.0
+Odisha,Baripada,NH3,318,0,0.0
+Odisha,Baripada,PM10,331,1,0.302
+Odisha,Keonjhar,Toluene,301,5,1.661
+Odisha,Rairangpur,CO,344,1,0.291
+Odisha,Rairangpur,NH3,325,6,1.846
+Odisha,Bileipada,NO,300,25,8.333
+Odisha,Bileipada,Ozone,317,7,2.208
+Odisha,Bileipada,Toluene,315,3,0.952
+Odisha,Nayagarh,Benzene,290,76,26.207
+Odisha,Nayagarh,NO,308,0,0.0
+Odisha,Nayagarh,NO2,308,0,0.0
+Odisha,Nayagarh,PM10,293,1,0.341
+Odisha,Rourkela,SO2,625,27,4.32
+Karnataka,Hubballi,CO,336,26,7.738
+Karnataka,Hubballi,Ozone,342,1,0.292
+Karnataka,Tumakuru,CO,242,42,17.355
+Karnataka,Tumakuru,NH3,177,50,28.249
+Andhra Pradesh,Vijayawada,Benzene,1270,10,0.787
+Chhattisgarh,Kunjemura,CO,347,3,0.865
+Andhra Pradesh,Kadapa,SO2,342,62,18.129
+Rajasthan,Bharatpur,Ozone,360,1,0.278
+Rajasthan,Tonk,NO,333,50,15.015
+Uttarakhand,Rishikesh,CO,349,13,3.725
+Uttarakhand,Kashipur,Eth-Benzene,321,2,0.623
+Uttarakhand,Kashipur,PM10,343,0,0.0
+Assam,Nagaon,Eth-Benzene,351,40,11.396
+Jharkhand,Dhanbad,Ozone,135,12,8.889
+Rajasthan,Banswara,CO,355,9,2.535
+Rajasthan,Banswara,NO,358,10,2.793
+Rajasthan,Barmer,PM2.5,359,21,5.85
+Rajasthan,Hanumangarh,Eth-Benzene,299,62,20.736
+Rajasthan,Rajsamand,NO2,352,1,0.284
+Rajasthan,Rajsamand,Ozone,351,1,0.285
+Rajasthan,Pratapgarh,Benzene,362,8,2.21
+Rajasthan,Pratapgarh,NO,362,11,3.039
+Rajasthan,Sikar,Eth-Benzene,348,11,3.161
+Rajasthan,Karauli,Benzene,331,36,10.876
+Rajasthan,Bundi,CO,357,0,0.0
+Rajasthan,Jaisalmer,NH3,358,9,2.514
+Rajasthan,Jaisalmer,PM10,359,4,1.114
+Maharashtra,Solapur,Xylene,161,7,4.348
+Maharashtra,Mahad,Benzene,349,8,2.292
+Maharashtra,Ahmednagar,CO,287,4,1.394
+Maharashtra,Jalgaon,Benzene,360,18,5.0
+Maharashtra,Jalgaon,CO,359,6,1.671
+Maharashtra,Jalgaon,MP-Xylene,357,45,12.605
+Maharashtra,Jalgaon,NO,349,44,12.607
+Maharashtra,Parbhani,NO,263,7,2.662
+Maharashtra,Nanded,PM10,317,0,0.0
+Maharashtra,Thane,Ozone,709,0,0.0
+Maharashtra,Badlapur,Benzene,353,21,5.949
+Maharashtra,Dhule,Benzene,356,28,7.865
+Maharashtra,Malegaon,NO2,357,6,1.681
+Maharashtra,Mira-Bhayandar,CO,360,0,0.0
+Maharashtra,Virar,PM10,360,1,0.278
+Maharashtra,Virar,SO2,357,34,9.524
+Maharashtra,Boisar,NH3,297,5,1.684
+Maharashtra,Ulhasnagar,MP-Xylene,360,6,1.667
+Maharashtra,Ulhasnagar,SO2,361,32,8.864
+Maharashtra,Bhiwandi,PM10,337,0,0.0
+Maharashtra,Bhiwandi,SO2,337,5,1.484
+Odisha,Barbil,Benzene,359,14,3.9
+Odisha,Byasanagar,SO2,359,6,1.671
+Madhya Pradesh,Singrauli,Ozone,342,4,1.17
+Madhya Pradesh,Singrauli,SO2,338,8,2.367
+West Bengal,Siliguri,PM2.5,356,9,2.528
+Punjab,Jalandhar,MP-Xylene,364,2,0.549
+Uttar Pradesh,Bulandshahr,Toluene,361,12,3.324
+Andhra Pradesh,Visakhapatnam,SO2,357,0,0.0
+Madhya Pradesh,Ratlam,PM10,353,0,0.0
+Madhya Pradesh,Ratlam,PM2.5,353,3,0.85
+Haryana,Dharuhera,MP-Xylene,270,22,8.148
+Haryana,Yamuna Nagar,CO,309,14,4.531
+Haryana,Karnal,NO2,355,1,0.282
+Haryana,Palwal,Eth-Benzene,334,79,23.653
+Haryana,Fatehabad,NO,296,55,18.581
+Haryana,Fatehabad,Xylene,299,59,19.732
+Gujarat,Vatva,Benzene,351,0,0.0
+Gujarat,Vatva,NO2,338,8,2.367
+Kerala,Eloor,PM2.5,285,11,3.86
+Karnataka,Mysuru,Benzene,363,1,0.275
+Meghalaya,Shillong,NH3,317,78,24.606
+Karnataka,Chikkamagaluru,PM2.5,319,1,0.313
+Karnataka,Shivamogga,Ozone,350,0,0.0
+Kerala,Kannur,SO2,221,0,0.0
+Bihar,Hajipur,Xylene,346,53,15.318
+Puducherry,Puducherry,NO2,348,0,0.0
+Arunachal Pradesh,Naharlagun,PM10,204,0,0.0
+Uttar Pradesh,Vrindavan,NO2,355,0,0.0
+Bihar,Sasaram,Toluene,338,34,10.059
+Bihar,Rajgir,NO2,342,0,0.0
+Bihar,Kishanganj,PM2.5,255,2,0.784
+Bihar,Saharsa,MP-Xylene,338,20,5.917
+Himachal Pradesh,Baddi,NO,361,32,8.864
+Himachal Pradesh,Baddi,Ozone,361,0,0.0
+Sikkim,Gangtok,NH3,303,1,0.33
+TamilNadu,Madurai,CO,76,22,28.947
+Andhra Pradesh,Tirupati,PM2.5,239,2,0.837
+Assam,Nalbari,MP-Xylene,334,8,2.395
+Odisha,Baripada,PM2.5,339,2,0.59
+Rajasthan,Bikaner,PM10,356,1,0.281
+Rajasthan,Churu,Ozone,332,0,0.0
+Rajasthan,Dholpur,CO,346,9,2.601
+Rajasthan,Tonk,NH3,331,1,0.302
+Uttarakhand,Rishikesh,SO2,349,8,2.292
+Rajasthan,Rajsamand,PM10,350,8,2.286
+Rajasthan,Pratapgarh,CO,361,13,3.601
+Rajasthan,Sikar,NO2,359,0,0.0
+Rajasthan,Karauli,Ozone,323,0,0.0
+Rajasthan,Jhalawar,NO,360,35,9.722
+Rajasthan,Jhalawar,PM10,357,1,0.28
+Rajasthan,Bhilwara,NH3,348,40,11.494
+Rajasthan,Bundi,PM2.5,358,34,9.497
+Rajasthan,Jaisalmer,Benzene,357,3,0.84
+Rajasthan,Nagaur,Ozone,352,0,0.0
+Rajasthan,Nagaur,PM10,350,1,0.286
+Maharashtra,Akola,NH3,365,3,0.822
+Maharashtra,Ahmednagar,NH3,282,6,2.128
+Maharashtra,Amravati,Benzene,361,15,4.155
+Maharashtra,Jalna,PM10,332,0,0.0
+Maharashtra,Bhiwandi,NO,335,9,2.687
+Rajasthan,Dungarpur,PM10,344,2,0.581
+Odisha,Angul,Ozone,364,0,0.0
+Odisha,Cuttack,SO2,355,11,3.099
+TamilNadu,Perundurai,NO,71,6,8.451
+Rajasthan,Udaipur,CO,363,1,0.275
+Andhra Pradesh,Rajamahendravaram,Toluene,340,12,3.529
+Andhra Pradesh,Amaravati,Benzene,349,100,28.653
+Odisha,Brajrajnagar,NH3,340,0,0.0
+Punjab,Rupnagar,PM10,336,2,0.595
+Maharashtra,Chandrapur,CO,591,22,3.723
+Maharashtra,Chandrapur,Xylene,348,22,6.322
+Uttar Pradesh,Kanpur,Xylene,254,95,37.402
+Uttar Pradesh,Hapur,NO2,349,4,1.146
+Uttar Pradesh,Hapur,Ozone,347,0,0.0
+Uttar Pradesh,Hapur,PM10,342,1,0.292
+Haryana,Bahadurgarh,Ozone,330,0,0.0
+Haryana,Bhiwani,Ozone,346,8,2.312
+Haryana,Palwal,CO,335,19,5.672
+Haryana,Jind,Xylene,292,19,6.507
+Gujarat,Gandhinagar,Toluene,355,17,4.789
+Kerala,Eloor,SO2,276,1,0.362
+Karnataka,Mysuru,CO,360,1,0.278
+Meghalaya,Shillong,NO2,317,71,22.397
+Madhya Pradesh,Katni,PM2.5,353,4,1.133
+Karnataka,Vijayapura,Toluene,354,21,5.932
+Kerala,Thiruvananthapuram,Benzene,366,0,0.0
+Bihar,Hajipur,PM2.5,345,20,5.797
+Haryana,Charkhi Dadri,SO2,350,33,9.429
+Karnataka,Mangalore,Ozone,339,25,7.375
+Uttar Pradesh,Gorakhpur,SO2,360,42,11.667
+Bihar,Bihar Sharif,SO2,317,0,0.0
+Bihar,Bihar Sharif,Xylene,333,39,11.712
+Andhra Pradesh,Anantapur,NH3,249,4,1.606
+Andhra Pradesh,Anantapur,SO2,316,14,4.43
+Assam,Sivasagar,CO,363,2,0.551
+Gujarat,Surat,PM10,259,20,7.722
+Odisha,Tensa,NO,304,8,2.632
+Chhattisgarh,Kunjemura,PM2.5,345,0,0.0
+Chhattisgarh,Milupara,NO,147,12,8.163
+Chhattisgarh,Tumidih,NO,161,15,9.317
+Rajasthan,Bikaner,NO,348,40,11.494
+Uttarakhand,Rishikesh,MP-Xylene,202,6,2.97
+Rajasthan,Sirohi,Eth-Benzene,307,33,10.749
+Assam,Nagaon,NO,355,25,7.042
+Rajasthan,Sawai Madhopur,Eth-Benzene,324,73,22.531
+Rajasthan,Sawai Madhopur,NH3,345,0,0.0
+Rajasthan,Jhunjhunu,NO,363,43,11.846
+Rajasthan,Jhunjhunu,SO2,364,3,0.824
+Rajasthan,Sikar,NH3,357,0,0.0
+Rajasthan,Bundi,Ozone,358,0,0.0
+Maharashtra,Ahmednagar,NO,281,9,3.203
+Maharashtra,Ahmednagar,Ozone,290,0,0.0
+Maharashtra,Badlapur,Ozone,349,0,0.0
+Maharashtra,Badlapur,PM10,352,0,0.0
+Maharashtra,Malegaon,Eth-Benzene,357,0,0.0
+Maharashtra,Boisar,Ozone,299,0,0.0
+Maharashtra,Bhiwandi,Benzene,334,34,10.18
+Maharashtra,Bhiwandi,CO,338,1,0.296
+Maharashtra,Bhiwandi,MP-Xylene,330,0,0.0
+Rajasthan,Jalore,Eth-Benzene,358,6,1.676
+Odisha,Balasore,Toluene,360,34,9.444
+Odisha,Angul,NO,362,18,4.972
+Odisha,Bhubaneswar,NH3,654,4,0.612
+Odisha,Bhubaneswar,NO,695,39,5.612
+TamilNadu,Perundurai,NH3,71,0,0.0
+TamilNadu,Perundurai,Ozone,71,0,0.0
+Rajasthan,Pali,Ozone,348,1,0.287
+Rajasthan,Pali,Toluene,133,3,2.256
+Odisha,Brajrajnagar,PM10,321,0,0.0
+Punjab,Patiala,PM2.5,363,1,0.275
+Punjab,Khanna,NO2,347,0,0.0
+Punjab,Amritsar,NH3,356,2,0.562
+Uttar Pradesh,Hapur,Toluene,333,41,12.312
+Madhya Pradesh,Damoh,SO2,181,0,0.0
+Haryana,Sonipat,MP-Xylene,293,2,0.683
+Haryana,Yamuna Nagar,Ozone,304,19,6.25
+Haryana,Bhiwani,MP-Xylene,333,135,40.541
+Haryana,Bhiwani,NH3,348,55,15.805
+Haryana,Panipat,CO,313,60,19.169
+Haryana,Panipat,NH3,313,5,1.597
+Haryana,Panipat,NO,312,0,0.0
+Haryana,Panipat,Ozone,313,33,10.543
+Haryana,Panipat,Toluene,313,33,10.543
+Haryana,Karnal,NO,355,2,0.563
+Haryana,Palwal,PM2.5,333,6,1.802
+Haryana,Jind,SO2,326,3,0.92
+Haryana,Ballabgarh,NO2,342,80,23.392
+Gujarat,Vapi,PM10,204,0,0.0
+Haryana,Kaithal,Xylene,340,63,18.529
+Karnataka,Mysuru,Eth-Benzene,124,0,0.0
+Meghalaya,Shillong,CO,317,11,3.47
+Madhya Pradesh,Katni,Ozone,354,0,0.0
+Karnataka,Ramanagara,SO2,342,11,3.216
+Karnataka,Bagalkot,SO2,231,0,0.0
+Karnataka,Vijayapura,NO2,354,1,0.282
+Arunachal Pradesh,Naharlagun,NO,215,0,0.0
+Bihar,Bettiah,Benzene,309,2,0.647
+Uttar Pradesh,Firozabad,CO,717,19,2.65
+Bihar,Rajgir,Benzene,197,16,8.122
+Bihar,Arrah,Toluene,239,24,10.042
+Bihar,Purnia,CO,336,8,2.381
+Bihar,Siwan,Benzene,203,6,2.956
+Odisha,Rairangpur,PM2.5,351,3,0.855
+Odisha,Nayagarh,SO2,316,0,0.0
+Odisha,Rourkela,Toluene,271,4,1.476
+Chhattisgarh,Tumidih,Benzene,163,33,20.245
+Andhra Pradesh,Kadapa,Eth-Benzene,343,0,0.0
+Rajasthan,Bharatpur,PM10,359,0,0.0
+Rajasthan,Bikaner,Ozone,362,0,0.0
+Rajasthan,Dholpur,SO2,347,36,10.375
+Rajasthan,Sirohi,Ozone,354,0,0.0
+Rajasthan,Sirohi,SO2,354,5,1.412
+Assam,Nagaon,Ozone,289,5,1.73
+Rajasthan,Barmer,NO,363,29,7.989
+Rajasthan,Sri Ganganagar,CO,338,3,0.888
+Rajasthan,Sikar,Toluene,313,31,9.904
+Rajasthan,Jhalawar,Benzene,360,30,8.333
+Rajasthan,Jhalawar,CO,358,1,0.279
+Rajasthan,Bhilwara,PM10,346,0,0.0
+Rajasthan,Nagaur,NO2,354,4,1.13
+Maharashtra,Mahad,Eth-Benzene,349,10,2.865
+Maharashtra,Akola,Ozone,365,0,0.0
+Maharashtra,Ahmednagar,SO2,282,3,1.064
+Maharashtra,Parbhani,Eth-Benzene,280,5,1.786
+Maharashtra,Dhule,NO,344,15,4.36
+Maharashtra,Virar,Toluene,344,23,6.686
+Odisha,Angul,MP-Xylene,343,14,4.082
+Odisha,Angul,PM2.5,354,0,0.0
+Odisha,Cuttack,Benzene,363,45,12.397
+Odisha,Byasanagar,NH3,358,1,0.279
+TamilNadu,Perundurai,CO,74,0,0.0
+Rajasthan,Alwar,SO2,361,15,4.155
+Rajasthan,Bhiwadi,Ozone,635,4,0.63
+Rajasthan,Ajmer,PM10,363,1,0.275
+Andhra Pradesh,Rajamahendravaram,Benzene,340,0,0.0
+Madhya Pradesh,Satna,SO2,357,20,5.602
+Punjab,Jalandhar,NO2,363,0,0.0
+Haryana,Gurugram,Xylene,353,34,9.632
+Uttar Pradesh,Bulandshahr,CO,349,9,2.579
+Karnataka,Chikkaballapur,NO,353,0,0.0
+Haryana,Panchkula,CO,284,12,4.225
+Andhra Pradesh,Visakhapatnam,Xylene,354,15,4.237
+West Bengal,Haldia,NH3,362,32,8.84
+West Bengal,Haldia,Ozone,356,28,7.865
+Haryana,Panipat,MP-Xylene,313,34,10.863
+Haryana,Panipat,SO2,312,1,0.321
+Haryana,Fatehabad,CO,301,22,7.309
+Haryana,Fatehabad,NH3,297,119,40.067
+Gujarat,Vapi,NO,172,68,39.535
+Maharashtra,Kalyan,PM10,350,0,0.0
+Karnataka,Ramanagara,CO,340,10,2.941
+Uttar Pradesh,Meerut,Eth-Benzene,435,3,0.69
+Kerala,Kollam,Xylene,256,0,0.0
+TamilNadu,Thoothukudi,Toluene,264,10,3.788
+Karnataka,Mangalore,CO,342,0,0.0
+Bihar,Bettiah,Eth-Benzene,302,2,0.662
+Bihar,Motihari,Ozone,350,19,5.429
+Bihar,Munger,NO2,339,22,6.49
+Bihar,Munger,SO2,340,0,0.0
+Bihar,Aurangabad,Benzene,321,24,7.477
+Bihar,Katihar,MP-Xylene,64,31,48.438
+Bihar,Katihar,PM2.5,288,2,0.694
+Bihar,Samastipur,Benzene,319,12,3.762
+Uttar Pradesh,Jhansi,MP-Xylene,360,2,0.556
+Sikkim,Gangtok,PM2.5,218,9,4.128
+TamilNadu,Ramanathapuram,Ozone,320,0,0.0
+Madhya Pradesh,Gwalior,Xylene,363,97,26.722
+Assam,Nalbari,CO,337,15,4.451
+Assam,Byrnihat,SO2,295,16,5.424
+Odisha,Keonjhar,Ozone,317,19,5.994
+Karnataka,Tumakuru,Toluene,262,1,0.382
+Rajasthan,Dholpur,NO2,346,0,0.0
+Uttarakhand,Rishikesh,Eth-Benzene,319,45,14.107
+Uttarakhand,Kashipur,Ozone,351,24,6.838
+Rajasthan,Sirohi,MP-Xylene,276,27,9.783
+Rajasthan,Chittorgarh,CO,358,12,3.352
+Rajasthan,Barmer,NH3,358,0,0.0
+Rajasthan,Rajsamand,PM2.5,347,13,3.746
+Rajasthan,Sri Ganganagar,SO2,329,13,3.951
+Rajasthan,Karauli,PM2.5,305,22,7.213
+Maharashtra,Pune,NH3,265,0,0.0
+Rajasthan,Bhilwara,Toluene,345,15,4.348
+Rajasthan,Jaisalmer,Toluene,343,7,2.041
+Maharashtra,Sangli,Eth-Benzene,334,73,21.856
+Maharashtra,Solapur,NH3,674,1,0.148
+Maharashtra,Latur,NH3,326,0,0.0
+Maharashtra,Latur,PM2.5,344,0,0.0
+Maharashtra,Mahad,CO,350,1,0.286
+Maharashtra,Mahad,PM2.5,349,0,0.0
+Maharashtra,Amravati,MP-Xylene,360,1,0.278
+Maharashtra,Dhule,CO,355,3,0.845
+Maharashtra,Virar,Benzene,344,21,6.105
+Maharashtra,Ulhasnagar,Ozone,358,0,0.0
+Odisha,Byasanagar,Ozone,362,0,0.0
+West Bengal,Barrackpore,NH3,324,32,9.877
+Rajasthan,Ajmer,NO,362,9,2.486
+Rajasthan,Pali,NO,348,16,4.598
+Rajasthan,Udaipur,Toluene,365,2,0.548
+Andhra Pradesh,Rajamahendravaram,NO,343,8,2.332
+Madhya Pradesh,Pithampur,Ozone,362,17,4.696
+Madhya Pradesh,Mandideep,Benzene,339,2,0.59
+Andhra Pradesh,Amaravati,MP-Xylene,349,92,26.361
+West Bengal,Siliguri,Toluene,357,30,8.403
+Punjab,Khanna,MP-Xylene,359,9,2.507
+Uttar Pradesh,Greater Noida,NH3,694,11,1.585
+Karnataka,Chikkaballapur,NH3,348,0,0.0
+Madhya Pradesh,Ratlam,NO,351,9,2.564
+Haryana,Dharuhera,SO2,292,46,15.753
+Haryana,Panipat,PM2.5,312,19,6.09
+Haryana,Narnaul,CO,322,3,0.932
+Haryana,Jind,CO,333,10,3.003
+Kerala,Kannur,Benzene,223,0,0.0
+TamilNadu,Gummidipoondi,NO2,355,7,1.972
+Karnataka,Mangalore,NH3,343,64,18.659
+Bihar,Bettiah,Xylene,310,0,0.0
+Uttar Pradesh,Vrindavan,NO,355,3,0.845
+Bihar,Sasaram,NO,314,0,0.0
+Bihar,Munger,Benzene,328,105,32.012
+Bihar,Araria,Eth-Benzene,206,31,15.049
+Bihar,Aurangabad,SO2,315,4,1.27
+Bihar,Kishanganj,PM10,278,0,0.0
+Bihar,Purnia,PM2.5,270,2,0.741
+Bihar,Samastipur,CO,332,0,0.0
+Bihar,Samastipur,Xylene,318,43,13.522
+Uttar Pradesh,Baghpat,Toluene,352,16,4.545
+Tripura,Agartala,Eth-Benzene,224,1,0.446
+Sikkim,Gangtok,SO2,301,17,5.648
+TamilNadu,Thanjavur,PM10,72,1,1.389
+Odisha,Bileipada,CO,311,0,0.0
+Odisha,Nayagarh,PM2.5,308,0,0.0
+Chhattisgarh,Chhal,NO,291,22,7.56
+Rajasthan,Bharatpur,Eth-Benzene,338,13,3.846
+Rajasthan,Bharatpur,NH3,351,12,3.419
+Rajasthan,Bharatpur,PM2.5,351,3,0.855
+Rajasthan,Churu,Eth-Benzene,284,32,11.268
+Rajasthan,Churu,NH3,330,3,0.909
+Rajasthan,Churu,SO2,330,18,5.455
+Rajasthan,Dholpur,PM2.5,333,32,9.61
+Uttarakhand,Kashipur,CO,352,9,2.557
+Uttarakhand,Kashipur,PM2.5,350,2,0.571
+Assam,Nagaon,PM10,339,3,0.885
+Rajasthan,Sawai Madhopur,Ozone,363,0,0.0
+Rajasthan,Jhunjhunu,Toluene,358,19,5.307
+Rajasthan,Sikar,SO2,357,4,1.12
+Rajasthan,Karauli,SO2,321,0,0.0
+Maharashtra,Kolhapur,SO2,670,8,1.194
+Rajasthan,Baran,Eth-Benzene,353,47,13.314
+Maharashtra,Jalgaon,Toluene,360,27,7.5
+Maharashtra,Jalna,NO,309,2,0.647
+Maharashtra,Parbhani,Toluene,298,2,0.671
+Maharashtra,Nanded,Benzene,302,38,12.583
+Maharashtra,Badlapur,NH3,354,6,1.695
+Maharashtra,Badlapur,NO,347,2,0.576
+Maharashtra,Malegaon,NH3,354,10,2.825
+Maharashtra,Mira-Bhayandar,NO2,359,0,0.0
+Rajasthan,Dungarpur,NH3,355,1,0.282
+Rajasthan,Jalore,NH3,360,4,1.111
+Odisha,Cuttack,PM10,360,0,0.0
+Odisha,Byasanagar,Toluene,361,12,3.324
+West Bengal,Barrackpore,Xylene,207,13,6.28
+Rajasthan,Alwar,Toluene,363,89,24.518
+Andhra Pradesh,Rajamahendravaram,SO2,340,73,21.471
+Madhya Pradesh,Pithampur,NH3,350,20,5.714
+Madhya Pradesh,Pithampur,PM2.5,365,4,1.096
+Odisha,Talcher,Eth-Benzene,352,96,27.273
+Odisha,Brajrajnagar,Ozone,317,23,7.256
+Uttar Pradesh,Bulandshahr,PM10,364,3,0.824
+Maharashtra,Aurangabad,NO,949,94,9.905
+Punjab,Mandi Gobindgarh,Ozone,335,0,0.0
+Uttar Pradesh,Varanasi,Toluene,349,2,0.573
+Uttar Pradesh,Agra,Toluene,237,7,2.954
+Madhya Pradesh,Damoh,PM2.5,172,1,0.581
+Haryana,Kurukshetra,MP-Xylene,334,42,12.575
+Haryana,Bahadurgarh,Toluene,330,0,0.0
+Haryana,Narnaul,NH3,318,3,0.943
+Haryana,Narnaul,PM10,314,6,1.911
+Haryana,Ballabgarh,Eth-Benzene,339,1,0.295
+Kerala,Eloor,NO,285,7,2.456
+Maharashtra,Kalyan,NH3,358,2,0.559
+Karnataka,Chamarajanagar,Ozone,359,3,0.836
+Meghalaya,Shillong,PM2.5,176,0,0.0
+Madhya Pradesh,Katni,PM10,351,0,0.0
+TamilNadu,Thoothukudi,Benzene,281,18,6.406
+TamilNadu,Thoothukudi,Ozone,280,2,0.714
+Kerala,Thrissur,NO,296,0,0.0
+Karnataka,Madikeri,CO,358,21,5.866
+Puducherry,Puducherry,PM10,350,3,0.857
+Uttar Pradesh,Gorakhpur,PM10,339,0,0.0
+Bihar,Bettiah,Ozone,292,17,5.822
+Bihar,Bihar Sharif,PM10,276,7,2.536
+Bihar,Bihar Sharif,Toluene,333,13,3.904
+Uttar Pradesh,Vrindavan,Benzene,356,4,1.124
+Uttar Pradesh,Vrindavan,CO,354,4,1.13
+Bihar,Munger,MP-Xylene,212,1,0.472
+Bihar,Munger,Ozone,345,13,3.768
+Chhattisgarh,Bilaspur,SO2,334,5,1.497
+Bihar,Araria,NO,298,99,33.221
+Bihar,Chhapra,Eth-Benzene,215,3,1.395
+Bihar,Katihar,Benzene,340,29,8.529
+Bihar,Katihar,Eth-Benzene,292,27,9.247
+Bihar,Purnia,NH3,328,9,2.744
+Bihar,Saharsa,Xylene,338,20,5.917
+Bihar,Siwan,PM10,229,3,1.31
+Uttar Pradesh,Jhansi,PM2.5,323,1,0.31
+TamilNadu,Thanjavur,NO,71,19,26.761
+TamilNadu,Ramanathapuram,PM2.5,266,2,0.752
+Andhra Pradesh,Anantapur,Benzene,298,1,0.336
+Assam,Sivasagar,PM2.5,360,0,0.0
+Madhya Pradesh,Sagar,Eth-Benzene,116,20,17.241
+Gujarat,Surat,CO,360,1,0.278
+Andhra Pradesh,Chittoor,Ozone,157,2,1.274
+Andhra Pradesh,Tirupati,NO2,324,9,2.778
+Assam,Nalbari,Ozone,345,61,17.681
+Assam,Nalbari,Toluene,343,6,1.749
+Assam,Byrnihat,NH3,323,0,0.0
+Odisha,Nayagarh,Ozone,317,0,0.0
+Karnataka,Kalaburagi,CO,335,0,0.0
+Karnataka,Kalaburagi,NO,333,1,0.3
+Karnataka,Tumakuru,Benzene,262,1,0.382
+Chhattisgarh,Chhal,Benzene,342,0,0.0
+Chhattisgarh,Chhal,NH3,315,15,4.762
+Chhattisgarh,Chhal,NO2,293,5,1.706
+Chhattisgarh,Tumidih,CO,161,0,0.0
+Rajasthan,Bharatpur,NO,350,33,9.429
+Rajasthan,Tonk,Benzene,331,17,5.136
+Uttarakhand,Rishikesh,PM10,349,0,0.0
+Rajasthan,Banswara,MP-Xylene,333,18,5.405
+Rajasthan,Barmer,Eth-Benzene,259,19,7.336
+Rajasthan,Hanumangarh,PM10,325,1,0.308
+Rajasthan,Jhunjhunu,NO2,364,0,0.0
+Rajasthan,Rajsamand,Benzene,353,25,7.082
+Rajasthan,Karauli,Eth-Benzene,308,53,17.208
+Rajasthan,Jhalawar,MP-Xylene,360,8,2.222
+Rajasthan,Bundi,NO,360,39,10.833
+Maharashtra,Sangli,NO2,322,0,0.0
+Maharashtra,Latur,MP-Xylene,349,27,7.736
+Maharashtra,Nanded,Ozone,313,0,0.0
+Maharashtra,Virar,Eth-Benzene,343,10,2.915
+Maharashtra,Boisar,CO,304,4,1.316
+Maharashtra,Ulhasnagar,CO,362,16,4.42
+Rajasthan,Jalore,CO,365,19,5.205
+Rajasthan,Jalore,NO2,365,0,0.0
+Odisha,Balasore,SO2,360,32,8.889
+Odisha,Barbil,MP-Xylene,311,17,5.466
+Odisha,Barbil,Toluene,359,9,2.507
+Odisha,Angul,CO,359,26,7.242
+Odisha,Cuttack,NO2,344,4,1.163
+Rajasthan,Pali,SO2,348,41,11.782
+Madhya Pradesh,Mandideep,Toluene,339,2,0.59
+Madhya Pradesh,Satna,Ozone,282,0,0.0
+Haryana,Rohtak,CO,362,9,2.486
+Karnataka,Chikkaballapur,SO2,352,0,0.0
+Haryana,Panchkula,Eth-Benzene,307,11,3.583
+Punjab,Amritsar,Toluene,359,0,0.0
+Uttar Pradesh,Hapur,NH3,337,12,3.561
+Uttar Pradesh,Hapur,Xylene,333,46,13.814
+Haryana,Sonipat,Benzene,314,43,13.694
+Haryana,Dharuhera,PM2.5,304,4,1.316
+Haryana,Jind,Benzene,292,16,5.479
+Haryana,Hisar,MP-Xylene,332,52,15.663
+Gujarat,Gandhinagar,Benzene,675,32,4.741
+Karnataka,Chamarajanagar,SO2,352,18,5.114
+Karnataka,Mysuru,MP-Xylene,124,1,0.806
+Madhya Pradesh,Katni,SO2,354,7,1.977
+Uttar Pradesh,Meerut,MP-Xylene,425,62,14.588
+Karnataka,Vijayapura,Ozone,354,63,17.797
+Kerala,Kannur,Toluene,223,21,9.417
+Kerala,Kollam,Ozone,256,0,0.0
+Bihar,Hajipur,MP-Xylene,338,5,1.479
+Karnataka,Mangalore,NO2,343,120,34.985
+Karnataka,Mangalore,Toluene,142,0,0.0
+Bihar,Bihar Sharif,MP-Xylene,324,39,12.037
+Bihar,Rajgir,SO2,339,60,17.699
+Bihar,Munger,Eth-Benzene,71,1,1.408
+Chhattisgarh,Bilaspur,NO,322,11,3.416
+Bihar,Chhapra,SO2,310,123,39.677
+Bihar,Kishanganj,NO,347,0,0.0
+Bihar,Siwan,NH3,334,58,17.365
+Uttar Pradesh,Baghpat,CO,359,3,0.836
+Uttar Pradesh,Khurja,CO,355,4,1.127
+Karnataka,Dharwad,NO2,339,0,0.0
+Assam,Sivasagar,MP-Xylene,360,0,0.0
+Andhra Pradesh,Chittoor,NO2,247,4,1.619
+Odisha,Keonjhar,Eth-Benzene,285,32,11.228
+Odisha,Keonjhar,PM2.5,329,6,1.824
+Odisha,Bileipada,NH3,300,0,0.0
+Karnataka,Kalaburagi,Ozone,340,8,2.353
+Rajasthan,Bikaner,NO2,364,5,1.374
+Rajasthan,Sirohi,Toluene,350,10,2.857
+Jharkhand,Dhanbad,PM2.5,97,1,1.031
+Rajasthan,Dausa,NH3,356,3,0.843
+Rajasthan,Rajsamand,SO2,349,20,5.731
+Rajasthan,Sikar,PM10,359,1,0.279
+Rajasthan,Bundi,MP-Xylene,343,107,31.195
+Rajasthan,Jaisalmer,SO2,362,5,1.381
+Maharashtra,Sangli,SO2,318,0,0.0
+Rajasthan,Baran,NO2,358,0,0.0
+Rajasthan,Baran,PM2.5,355,3,0.845
+Maharashtra,Latur,CO,337,6,1.78
+Maharashtra,Mahad,Ozone,349,2,0.573
+Maharashtra,Ahmednagar,Benzene,292,1,0.342
+Maharashtra,Nanded,MP-Xylene,299,13,4.348
+Maharashtra,Badlapur,MP-Xylene,353,29,8.215
+Maharashtra,Malegaon,Benzene,358,0,0.0
+Maharashtra,Belapur,CO,363,0,0.0
+Maharashtra,Mira-Bhayandar,Ozone,360,0,0.0
+Maharashtra,Bhiwandi,NO2,336,6,1.786
+Odisha,Balasore,CO,360,14,3.889
+West Bengal,Barrackpore,CO,327,0,0.0
+West Bengal,Barrackpore,NO2,325,4,1.231
+Rajasthan,Pali,Benzene,348,40,11.494
+Rajasthan,Udaipur,NO,364,4,1.099
+Madhya Pradesh,Pithampur,CO,356,1,0.281
+Madhya Pradesh,Satna,NO2,354,0,0.0
+Punjab,Patiala,CO,365,26,7.123
+Punjab,Rupnagar,CO,353,54,15.297
+Punjab,Bathinda,SO2,337,6,1.78
+Haryana,Panchkula,NO,307,0,0.0
+Haryana,Manesar,NH3,328,42,12.805
+Haryana,Kurukshetra,Ozone,347,8,2.305
+Haryana,Palwal,Ozone,334,6,1.796
+Haryana,Palwal,Xylene,334,42,12.575
+Gujarat,Ankleshwar,Toluene,332,2,0.602
+Kerala,Eloor,NO2,285,7,2.456
+Karnataka,Chamarajanagar,Benzene,361,3,0.831
+Meghalaya,Shillong,NO,317,11,3.47
+Karnataka,Bagalkot,CO,355,0,0.0
+Karnataka,Shivamogga,PM2.5,357,0,0.0
+Haryana,Charkhi Dadri,Benzene,358,152,42.458
+Karnataka,Madikeri,NO2,365,17,4.658
+Bihar,Motihari,Xylene,349,49,14.04
+Chhattisgarh,Bilaspur,PM2.5,336,1,0.298
+Bihar,Arrah,Benzene,240,57,23.75
+Bihar,Arrah,NH3,310,3,0.968
+Bihar,Arrah,PM2.5,245,21,8.571
+Bihar,Aurangabad,Eth-Benzene,123,38,30.894
+Bihar,Aurangabad,NH3,342,1,0.292
+Bihar,Chhapra,Xylene,315,34,10.794
+Bihar,Kishanganj,Ozone,348,19,5.46
+Bihar,Samastipur,PM2.5,298,3,1.007
+Bihar,Siwan,Xylene,203,1,0.493
+Uttar Pradesh,Baghpat,NH3,351,2,0.57
+Tripura,Agartala,Ozone,314,1,0.318
+TamilNadu,Madurai,NO2,76,8,10.526
+Andhra Pradesh,Anantapur,Toluene,298,49,16.443
+Karnataka,Dharwad,Eth-Benzene,347,58,16.715
+Assam,Sivasagar,NO,362,53,14.641
+Andhra Pradesh,Tirupati,MP-Xylene,100,0,0.0
+Odisha,Bileipada,PM10,316,0,0.0
+Chhattisgarh,Tumidih,NO2,160,0,0.0
+Chhattisgarh,Tumidih,PM10,152,0,0.0
+Andhra Pradesh,Kadapa,CO,205,17,8.293
+Rajasthan,Bharatpur,CO,361,32,8.864
+Rajasthan,Bikaner,CO,364,4,1.099
+Rajasthan,Dholpur,Toluene,308,18,5.844
+Jharkhand,Dhanbad,SO2,104,2,1.923
+Rajasthan,Banswara,NH3,359,4,1.114
+Rajasthan,Jhunjhunu,MP-Xylene,343,46,13.411
+Rajasthan,Bhilwara,Benzene,350,18,5.143
+Rajasthan,Bundi,Benzene,360,51,14.167
+Maharashtra,Sangli,Toluene,337,1,0.297
+Rajasthan,Nagaur,Eth-Benzene,255,44,17.255
+Rajasthan,Nagaur,PM2.5,352,18,5.114
+Maharashtra,Ahmednagar,NO2,281,0,0.0
+Maharashtra,Amravati,CO,362,0,0.0
+Maharashtra,Jalna,NH3,342,0,0.0
+Maharashtra,Nanded,NH3,321,0,0.0
+Maharashtra,Belapur,Toluene,357,3,0.84
+Maharashtra,Mira-Bhayandar,Benzene,359,0,0.0
+Maharashtra,Mira-Bhayandar,Eth-Benzene,359,4,1.114
+Maharashtra,Boisar,Toluene,312,4,1.282
+Maharashtra,Ulhasnagar,PM10,354,0,0.0
+Maharashtra,Ulhasnagar,Toluene,360,12,3.333
+Maharashtra,Bhiwandi,PM2.5,338,0,0.0
+Odisha,Barbil,PM2.5,362,0,0.0
+Odisha,Barbil,SO2,364,1,0.275
+Odisha,Angul,SO2,364,1,0.275
+TamilNadu,Pudukottai,NH3,68,0,0.0

@@ -1,0 +1,28 @@
+# Insights (computed from pipeline output)
+
+## Findings
+- Coverage: 42,925,552 cleaned hourly readings from 538 stations in 245 cities / 30 states, 2024-01-01 to 2024-12-31 (IST).
+- Data quality: 4,011,618 of 46,937,170 rows (8.55%) were rejected and 0 duplicate keys removed.
+- Most polluted cities by mean daily PM2.5: Byrnihat (129.3 µg/m³); Delhi (105.3 µg/m³); New Delhi (101.8 µg/m³); Gurugram (95.2 µg/m³); Faridabad (87.4 µg/m³). Cleanest of 246 ranked cities: Gangtok (13.1).
+- Highest-PM2.5 states: Delhi (105.2); Chandigarh (70.6); Haryana (68.5).
+- PM2.5: 27.9% of valid station-days exceeded the NAAQS 24-hour limit of 60 µg/m³.
+- PM10: 43.6% of valid station-days exceeded the NAAQS 24-hour limit of 100 µg/m³.
+- Seasonality of PM2.5 (station-day weighted): Winter 72.3, Summer 46.5, Monsoon 26.6, Post-monsoon 68.5. Peak season is Winter, 2.7x the lowest (Monsoon).
+- Daily cycle of PM2.5 (IST): highest around 22:00 (59.0 µg/m³), lowest around 16:00 (39.8).
+- Hotspots: 53 of 525 eligible stations are in the top 9% for mean PM2.5; the highest are Anand Vihar, Delhi - DPCC, Delhi (142.3); Jahangirpuri, Delhi - DPCC, Delhi (131.6); Central Academy for SFS, Byrnihat - PCBA, Byrnihat (129.3).
+- States hosting most hotspots: Delhi (36), Haryana (6), Bihar (4).
+- Anomalies: 3,521 station-days (2.17%) had PM2.5 spikes with modified z-score > 3.5; most in Delhi (707), Unknown (165), Mumbai (119).
+- Computed CPCB AQI on 165,652 station-days: Good 16.0%, Satisfactory 35.9%, Moderate 35.0%, Poor 7.1%, Very Poor 5.1%, Severe 0.9%.
+- Dominant pollutant behind the AQI: PM10 (49.6% of station-days).
+
+## Recommendations
+- Prioritise PM2.5 control: 28% of station-days breach the 24-hour standard.
+- Time interventions and public advisories for the Winter season, when PM2.5 peaks in this sample.
+- Deploy source-apportionment studies first at hotspot stations in Delhi.
+- Review flagged spike days against local events (biomass burning, festivals, dust) before treating them as sensor faults.
+
+## Limitations
+- Values are as received from CPCB/US Embassy monitors: no calibration or gap-filling by the source.
+- Aggregates describe monitored stations, which are not uniformly distributed; they are not population-weighted.
+- Results cover 2024-01-01 to 2024-12-31 only; seasonal claims need full-year coverage.
+- Hotspot and anomaly rules are statistical definitions (top decile; modified z-score), not regulatory designations.

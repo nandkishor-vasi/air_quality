@@ -1,0 +1,16 @@
+{
+  "trust": "Pimpri Chinchwad Education Trust’s",
+  "college": "PIMPRI CHINCHWAD COLLEGE OF ENGINEERING",
+  "affiliation": "(An Autonomous Institute affiliated to Savitribai Phule Pune University)",
+  "department": "DEPARTMENT OF INFORMATION TECHNOLOGY",
+  "title": "Analysis of Air Pollution Patterns and Pollution Hotspots Across India Using Big Data Technologies",
+  "students": [
+    {"name": "[Student Name 1]", "prn": "[PRN 1]"},
+    {"name": "[Student Name 2]", "prn": "[PRN 2]"},
+    {"name": "[Student Name 3]", "prn": "[PRN 3]"},
+    {"name": "[Student Name 4]", "prn": "[PRN 4]"}
+  ],
+  "division": "[Div]",
+  "academic_year": "2026-27",
+  "logo_path": ""
+}

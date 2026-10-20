@@ -1,0 +1,134 @@
+{
+  "run_utc": "2026-10-20 07:35:04",
+  "spark_version": "4.0.1",
+  "spark_master": "local[2]",
+  "shuffle_partitions": 8,
+  "driver_memory": "2g",
+  "timezone": "Asia/Kolkata (source timestamps are naive IST)",
+  "input_path": "/mnt/c/Users/nandk/Downloads/airquality_bda_project/airquality_bda/data/raw/measurements",
+  "years_filter": [
+    2024
+  ],
+  "physical_schema": {
+    "station_id": "string",
+    "station_name": "string",
+    "state_name": "string",
+    "city_name": "string",
+    "parameter_name": "string",
+    "unit": "string",
+    "collected_at": "timestamp_ntz",
+    "value": "double",
+    "source": "string",
+    "year": "int",
+    "month": "int"
+  },
+  "rows_read": 46937170,
+  "rows_rejected_by_reason": {
+    "unit_not_convertible": 4011594,
+    "invalid_value": 24
+  },
+  "rows_kept_before_dedup": 42925552,
+  "rows_clean_unique": 42925552,
+  "duplicates_removed": 0,
+  "conflicting_duplicate_keys": 0,
+  "stations": 538,
+  "cities": 245,
+  "states": 30,
+  "first_timestamp_ist": "2024-01-01 00:00:00",
+  "last_timestamp_ist": "2024-12-31 23:30:00",
+  "station_days_valid": 1768362,
+  "station_days_with_valid_aqi": 165652,
+  "min_hours_per_day": 16,
+  "min_station_days": 60,
+  "anomaly_z_cut": 3.5,
+  "hotspot_percentile": 0.9,
+  "unit_mix": [
+    {
+      "parameter_name": "Benzene",
+      "unit_code": "ug/m3",
+      "n": 3495052
+    },
+    {
+      "parameter_name": "CO",
+      "unit_code": "mg/m3",
+      "n": 3982313
+    },
+    {
+      "parameter_name": "Eth-Benzene",
+      "unit_code": "ug/m3",
+      "n": 2399595
+    },
+    {
+      "parameter_name": "MP-Xylene",
+      "unit_code": "ug/m3",
+      "n": 2409879
+    },
+    {
+      "parameter_name": "NH3",
+      "unit_code": "ug/m3",
+      "n": 3593165
+    },
+    {
+      "parameter_name": "NO",
+      "unit_code": "ug/m3",
+      "n": 3927785
+    },
+    {
+      "parameter_name": "NO2",
+      "unit_code": "ug/m3",
+      "n": 3983789
+    },
+    {
+      "parameter_name": "NOx",
+      "unit_code": "ppb",
+      "n": 4011594
+    },
+    {
+      "parameter_name": "Ozone",
+      "unit_code": "ug/m3",
+      "n": 3840559
+    },
+    {
+      "parameter_name": "PM10",
+      "unit_code": "ug/m3",
+      "n": 3864549
+    },
+    {
+      "parameter_name": "PM2.5",
+      "unit_code": "ug/m3",
+      "n": 3932416
+    },
+    {
+      "parameter_name": "SO2",
+      "unit_code": "ug/m3",
+      "n": 3865493
+    },
+    {
+      "parameter_name": "Toluene",
+      "unit_code": "ug/m3",
+      "n": 2773396
+    },
+    {
+      "parameter_name": "Xylene",
+      "unit_code": "ug/m3",
+      "n": 857585
+    }
+  ],
+  "table_rows": {
+    "city_summary": 2824,
+    "state_summary": 348,
+    "monthly_city": 32902,
+    "monthly_national": 156,
+    "seasonal_city": 11135,
+    "hourly_pattern": 67801,
+    "hotspots": 5691,
+    "anomaly_days": 2000,
+    "anomaly_summary": 2792,
+    "aqi_station_daily": 165652,
+    "aqi_city_monthly": 2892,
+    "aqi_category_city": 1183,
+    "aqi_dominant_city": 1115,
+    "data_coverage": 13
+  },
+  "runtime_seconds": 697.5
+}

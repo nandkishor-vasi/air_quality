@@ -1,0 +1,1184 @@
+state_name,city_name,aqi_category,n_station_days
+Delhi,Delhi,Moderate,4926
+Uttar Pradesh,Noida,Poor,226
+Rajasthan,Jaipur,Good,78
+Andhra Pradesh,Rajamahendravaram,Good,91
+Unknown,Unknown,Satisfactory,4421
+Madhya Pradesh,Singrauli,Poor,58
+Madhya Pradesh,Mandideep,Poor,39
+Madhya Pradesh,Dewas,Poor,17
+Madhya Pradesh,Dewas,Good,45
+Andhra Pradesh,Amaravati,Moderate,39
+Odisha,Talcher,Satisfactory,120
+Haryana,Gurugram,Poor,257
+Haryana,Rohtak,Very Poor,49
+Haryana,Rohtak,Satisfactory,123
+Uttar Pradesh,Greater Noida,Severe,20
+Uttar Pradesh,Greater Noida,Moderate,277
+Uttar Pradesh,Greater Noida,Satisfactory,65
+Uttar Pradesh,Bulandshahr,Satisfactory,66
+Bihar,Patna,Satisfactory,533
+Bihar,Gaya,Very Poor,53
+Haryana,Panchkula,Moderate,97
+Haryana,Panchkula,Satisfactory,116
+Andhra Pradesh,Visakhapatnam,Good,17
+Haryana,Faridabad,Satisfactory,240
+Maharashtra,Chandrapur,Good,140
+Uttar Pradesh,Lucknow,Satisfactory,660
+Uttar Pradesh,Varanasi,Moderate,193
+TamilNadu,Chennai,Very Poor,8
+West Bengal,Haldia,Satisfactory,114
+West Bengal,Haldia,Good,123
+Maharashtra,Nashik,Good,310
+Uttar Pradesh,Hapur,Moderate,133
+Uttar Pradesh,Hapur,Good,30
+Haryana,Manesar,Poor,30
+Madhya Pradesh,Damoh,Moderate,62
+Haryana,Kurukshetra,Satisfactory,126
+Haryana,Kurukshetra,Severe,1
+Haryana,Dharuhera,Severe,3
+Haryana,Sirsa,Poor,16
+Haryana,Narnaul,Good,34
+Haryana,Ballabgarh,Very Poor,39
+TamilNadu,Coimbatore,Satisfactory,198
+Maharashtra,Mumbai,Good,2135
+Uttar Pradesh,Meerut,Good,78
+Karnataka,Mysuru,Satisfactory,216
+Karnataka,Mysuru,Good,145
+Madhya Pradesh,Jabalpur,Moderate,616
+Madhya Pradesh,Jabalpur,Good,83
+Karnataka,Ramanagara,Moderate,22
+Karnataka,Chikkamagaluru,Good,116
+Madhya Pradesh,Sagar,Satisfactory,343
+Madhya Pradesh,Sagar,Poor,24
+Madhya Pradesh,Gwalior,Very Poor,77
+Kerala,Kollam,Poor,6
+TamilNadu,Thoothukudi,Satisfactory,204
+Kerala,Thrissur,Moderate,24
+Kerala,Thrissur,Good,122
+Gujarat,Ahmedabad,Good,133
+Uttar Pradesh,Prayagraj,Satisfactory,473
+Uttar Pradesh,Vrindavan,Good,22
+Bihar,Sasaram,Moderate,120
+Chhattisgarh,Bhilai,Satisfactory,552
+Bihar,Araria,Satisfactory,49
+Bihar,Bhagalpur,Good,18
+Bihar,Aurangabad,Moderate,121
+Bihar,Katihar,Very Poor,13
+Bihar,Kishanganj,Satisfactory,59
+Bihar,Purnia,Moderate,109
+Bihar,Manguraha,Moderate,79
+Uttar Pradesh,Moradabad,Poor,46
+Uttar Pradesh,Jhansi,Very Poor,1
+Himachal Pradesh,Baddi,Satisfactory,68
+Uttarakhand,Dehradun,Moderate,119
+Uttar Pradesh,Bareilly,Good,239
+TamilNadu,Ramanathapuram,Good,221
+Chhattisgarh,Raipur,Satisfactory,585
+Chhattisgarh,Raipur,Poor,6
+Assam,Sivasagar,Satisfactory,263
+Madhya Pradesh,Sagar,Very Poor,12
+Andhra Pradesh,Tirupati,Moderate,40
+Assam,Nalbari,Poor,38
+Assam,Byrnihat,Very Poor,152
+Odisha,Baripada,Satisfactory,144
+Odisha,Bileipada,Satisfactory,63
+Odisha,Rourkela,Moderate,407
+Odisha,Tensa,Satisfactory,147
+Odisha,Tensa,Very Poor,1
+Karnataka,Hubballi,Satisfactory,205
+Chhattisgarh,Tumidih,Satisfactory,80
+Rajasthan,Dholpur,Poor,26
+Rajasthan,Dholpur,Moderate,164
+Rajasthan,Tonk,Poor,59
+Uttarakhand,Kashipur,Moderate,141
+Uttarakhand,Kashipur,Satisfactory,161
+Jharkhand,Dhanbad,Moderate,84
+Jharkhand,Dhanbad,Poor,20
+Rajasthan,Banswara,Poor,29
+Rajasthan,Chittorgarh,Moderate,247
+Rajasthan,Barmer,Moderate,189
+Rajasthan,Barmer,Good,27
+Rajasthan,Jhunjhunu,Good,12
+Rajasthan,Sri Ganganagar,Poor,91
+Rajasthan,Sri Ganganagar,Satisfactory,22
+Rajasthan,Sikar,Good,30
+Rajasthan,Jhalawar,Poor,26
+Rajasthan,Jhalawar,Very Poor,6
+Maharashtra,Kolhapur,Moderate,301
+Maharashtra,Kolhapur,Good,140
+Rajasthan,Bundi,Poor,35
+Rajasthan,Jaisalmer,Moderate,203
+Rajasthan,Baran,Moderate,188
+Maharashtra,Solapur,Good,195
+Maharashtra,Latur,Moderate,107
+Maharashtra,Amravati,Moderate,141
+Maharashtra,Aurangabad,Poor,33
+Maharashtra,Jalgaon,Moderate,185
+Maharashtra,Nanded,Very Poor,1
+Maharashtra,Thane,Moderate,267
+Maharashtra,Thane,Good,162
+Maharashtra,Dhule,Poor,17
+Maharashtra,Belapur,Moderate,192
+Maharashtra,Mira-Bhayandar,Satisfactory,90
+Maharashtra,Virar,Good,26
+Maharashtra,Boisar,Good,39
+Maharashtra,Boisar,Very Poor,5
+Maharashtra,Bhiwandi,Poor,20
+Odisha,Barbil,Moderate,200
+Odisha,Barbil,Satisfactory,84
+Odisha,Angul,Very Poor,33
+Odisha,Bhubaneswar,Good,107
+Odisha,Byasanagar,Good,61
+West Bengal,Barrackpore,Moderate,91
+Rajasthan,Bhiwadi,Good,16
+Maharashtra,Pune,Very Poor,5
+Uttar Pradesh,Noida,Very Poor,264
+Uttar Pradesh,Noida,Moderate,591
+Rajasthan,Jaipur,Moderate,1097
+Rajasthan,Jodhpur,Very Poor,39
+Rajasthan,Bhiwadi,Poor,120
+Rajasthan,Bhiwadi,Satisfactory,101
+Rajasthan,Udaipur,Satisfactory,144
+Unknown,Unknown,Very Poor,97
+Madhya Pradesh,Singrauli,Moderate,162
+Madhya Pradesh,Pithampur,Good,8
+Madhya Pradesh,Mandideep,Very Poor,22
+West Bengal,Asansol,Moderate,256
+Punjab,Jalandhar,Poor,22
+Punjab,Khanna,Satisfactory,195
+Haryana,Rohtak,Good,29
+Uttar Pradesh,Greater Noida,Very Poor,136
+Uttar Pradesh,Bulandshahr,Very Poor,25
+Punjab,Bathinda,Poor,6
+Punjab,Bathinda,Very Poor,3
+Uttar Pradesh,Muzaffarnagar,Very Poor,60
+Uttar Pradesh,Muzaffarnagar,Moderate,143
+Karnataka,Bengaluru,Moderate,829
+Karnataka,Chikkaballapur,Good,167
+Bihar,Patna,Severe,61
+Punjab,Ludhiana,Very Poor,14
+Punjab,Mandi Gobindgarh,Moderate,143
+Punjab,Amritsar,Very Poor,9
+Andhra Pradesh,Visakhapatnam,Moderate,179
+TamilNadu,Chennai,Satisfactory,1099
+TamilNadu,Chennai,Moderate,449
+Telangana,Hyderabad,Very Poor,8
+Uttar Pradesh,Lucknow,Severe,7
+West Bengal,Haldia,Moderate,92
+Maharashtra,Nashik,Satisfactory,689
+Uttar Pradesh,Hapur,Poor,48
+Uttar Pradesh,Hapur,Satisfactory,103
+Uttar Pradesh,Hapur,Very Poor,35
+Madhya Pradesh,Damoh,Good,45
+Madhya Pradesh,Ratlam,Satisfactory,63
+Madhya Pradesh,Ratlam,Very Poor,1
+Haryana,Yamuna Nagar,Moderate,136
+Haryana,Bhiwani,Satisfactory,130
+Haryana,Bhiwani,Moderate,135
+Haryana,Panipat,Moderate,123
+Haryana,Fatehabad,Moderate,132
+Haryana,Fatehabad,Poor,18
+Haryana,Hisar,Good,35
+Haryana,Ballabgarh,Satisfactory,57
+Gujarat,Vatva,Good,29
+Haryana,Kaithal,Moderate,128
+Assam,Guwahati,Satisfactory,291
+Maharashtra,Mumbai,Moderate,3227
+Maharashtra,Navi Mumbai,Good,327
+Chandigarh,Chandigarh,Poor,151
+Chandigarh,Chandigarh,Moderate,507
+Meghalaya,Shillong,Satisfactory,89
+Madhya Pradesh,Katni,Good,51
+Karnataka,Yadgir,Poor,2
+Madhya Pradesh,Sagar,Moderate,248
+Madhya Pradesh,Sagar,Good,72
+Madhya Pradesh,Gwalior,Poor,125
+Haryana,Charkhi Dadri,Poor,61
+TamilNadu,Gummidipoondi,Moderate,97
+Karnataka,Madikeri,Satisfactory,81
+Uttar Pradesh,Gorakhpur,Satisfactory,133
+Bihar,Bettiah,Moderate,138
+Bihar,Bihar Sharif,Satisfactory,126
+Uttar Pradesh,Prayagraj,Poor,6
+Bihar,Rajgir,Satisfactory,106
+Bihar,Rajgir,Good,48
+Bihar,Munger,Moderate,130
+Chhattisgarh,Bilaspur,Good,143
+Uttar Pradesh,Moradabad,Moderate,1007
+Bihar,Araria,Very Poor,50
+Bihar,Araria,Moderate,124
+Bihar,Bhagalpur,Moderate,270
+Bihar,Kishanganj,Moderate,146
+Bihar,Siwan,Moderate,177
+Uttar Pradesh,Jhansi,Moderate,80
+Uttarakhand,Dehradun,Very Poor,16
+Uttarakhand,Dehradun,Satisfactory,113
+Uttar Pradesh,Bareilly,Moderate,99
+Uttar Pradesh,Khurja,Satisfactory,145
+Andhra Pradesh,Anantapur,Good,55
+Assam,Byrnihat,Poor,43
+Odisha,Rairangpur,Satisfactory,141
+Odisha,Rourkela,Good,78
+Karnataka,Kalaburagi,Good,159
+Karnataka,Hubballi,Good,120
+Chhattisgarh,Kunjemura,Good,65
+Andhra Pradesh,Kadapa,Moderate,20
+Rajasthan,Bharatpur,Very Poor,12
+Rajasthan,Bharatpur,Poor,54
+Rajasthan,Churu,Moderate,171
+Rajasthan,Churu,Very Poor,25
+Rajasthan,Dholpur,Satisfactory,71
+Rajasthan,Sirohi,Moderate,125
+Rajasthan,Sirohi,Good,48
+Rajasthan,Banswara,Good,30
+Rajasthan,Dausa,Moderate,235
+Rajasthan,Barmer,Satisfactory,137
+Rajasthan,Jhunjhunu,Severe,2
+Rajasthan,Pratapgarh,Moderate,167
+Rajasthan,Pratapgarh,Good,48
+Rajasthan,Sikar,Moderate,183
+Rajasthan,Bhilwara,Satisfactory,163
+Rajasthan,Bundi,Good,28
+Rajasthan,Jaisalmer,Good,14
+Rajasthan,Baran,Good,51
+Rajasthan,Nagaur,Very Poor,9
+Maharashtra,Akola,Satisfactory,116
+Maharashtra,Ahmednagar,Poor,3
+Maharashtra,Amravati,Satisfactory,131
+Maharashtra,Parbhani,Moderate,154
+Maharashtra,Parbhani,Very Poor,12
+Maharashtra,Nanded,Good,61
+Maharashtra,Malegaon,Poor,16
+Maharashtra,Malegaon,Satisfactory,125
+Maharashtra,Belapur,Poor,1
+Maharashtra,Virar,Poor,14
+Maharashtra,Ulhasnagar,Satisfactory,142
+Andhra Pradesh,Vijayawada,Very Poor,1
+Rajasthan,Dungarpur,Poor,9
+Rajasthan,Jalore,Poor,8
+Rajasthan,Jalore,Very Poor,10
+Odisha,Balasore,Moderate,181
+Odisha,Cuttack,Satisfactory,131
+West Bengal,Durgapur,Very Poor,69
+Delhi,Delhi,Good,220
+Rajasthan,Jodhpur,Moderate,996
+Rajasthan,Jaipur,Very Poor,135
+Rajasthan,Kota,Moderate,524
+Rajasthan,Kota,Very Poor,83
+Unknown,Unknown,Poor,327
+Madhya Pradesh,Mandideep,Satisfactory,80
+West Bengal,Asansol,Poor,142
+West Bengal,Asansol,Satisfactory,287
+West Bengal,Siliguri,Good,123
+Madhya Pradesh,Satna,Satisfactory,276
+Punjab,Jalandhar,Good,12
+Haryana,Gurugram,Very Poor,264
+Haryana,Gurugram,Satisfactory,137
+Punjab,Rupnagar,Satisfactory,92
+Punjab,Rupnagar,Very Poor,7
+Punjab,Bathinda,Satisfactory,158
+Uttar Pradesh,Muzaffarnagar,Good,13
+Bihar,Patna,Moderate,749
+Bihar,Muzaffarpur,Very Poor,158
+Bihar,Gaya,Poor,70
+Bihar,Gaya,Satisfactory,448
+Maharashtra,Aurangabad,Good,113
+Telangana,Hyderabad,Satisfactory,2601
+Telangana,Hyderabad,Good,531
+Punjab,Ludhiana,Satisfactory,148
+Punjab,Amritsar,Moderate,166
+Punjab,Amritsar,Satisfactory,149
+Punjab,Amritsar,Poor,29
+Andhra Pradesh,Visakhapatnam,Satisfactory,140
+Uttar Pradesh,Kanpur,Moderate,536
+TamilNadu,Chennai,Good,624
+Maharashtra,Nagpur,Moderate,652
+Maharashtra,Nashik,Poor,33
+Uttar Pradesh,Agra,Satisfactory,806
+Haryana,Manesar,Satisfactory,142
+Haryana,Sonipat,Good,32
+Haryana,Yamuna Nagar,Satisfactory,94
+Haryana,Panipat,Poor,16
+Haryana,Fatehabad,Very Poor,7
+Haryana,Jind,Moderate,169
+Haryana,Jind,Poor,29
+Haryana,Jind,Satisfactory,114
+Haryana,Ballabgarh,Severe,2
+Gujarat,Vatva,Satisfactory,196
+Gujarat,Vapi,Poor,48
+Haryana,Kaithal,Very Poor,20
+Uttar Pradesh,Ghaziabad,Satisfactory,170
+Uttar Pradesh,Meerut,Moderate,479
+Maharashtra,Kalyan,Satisfactory,84
+Maharashtra,Kalyan,Good,83
+Madhya Pradesh,Indore,Satisfactory,614
+Karnataka,Yadgir,Good,123
+Karnataka,Bagalkot,Good,281
+Karnataka,Chikkamagaluru,Moderate,18
+Bihar,Hajipur,Satisfactory,81
+Haryana,Charkhi Dadri,Moderate,121
+Haryana,Charkhi Dadri,Good,33
+TamilNadu,Gummidipoondi,Satisfactory,211
+Maharashtra,Pune,Good,188
+Uttar Pradesh,Gorakhpur,Poor,10
+Bihar,Motihari,Good,36
+Uttar Pradesh,Firozabad,Moderate,76
+Uttar Pradesh,Vrindavan,Satisfactory,93
+Bihar,Rajgir,Poor,29
+Chhattisgarh,Bhilai,Good,255
+Bihar,Aurangabad,Very Poor,16
+Bihar,Katihar,Satisfactory,73
+Bihar,Kishanganj,Poor,44
+Bihar,Saharsa,Very Poor,48
+Bihar,Siwan,Very Poor,15
+Uttar Pradesh,Baghpat,Satisfactory,97
+Himachal Pradesh,Baddi,Very Poor,31
+Tripura,Agartala,Very Poor,32
+Tripura,Agartala,Satisfactory,89
+Sikkim,Gangtok,Moderate,18
+Uttar Pradesh,Khurja,Very Poor,9
+Karnataka,Dharwad,Satisfactory,180
+Karnataka,Dharwad,Moderate,117
+Chhattisgarh,Raipur,Moderate,331
+Chhattisgarh,Korba,Satisfactory,341
+Chhattisgarh,Korba,Good,168
+Chhattisgarh,Korba,Moderate,88
+Andhra Pradesh,Chittoor,Poor,2
+Assam,Byrnihat,Moderate,48
+Assam,Byrnihat,Satisfactory,46
+Odisha,Keonjhar,Good,32
+Odisha,Rairangpur,Good,63
+Odisha,Rourkela,Poor,85
+Odisha,Rourkela,Very Poor,13
+Karnataka,Tumakuru,Moderate,135
+Chhattisgarh,Chhal,Satisfactory,190
+Rajasthan,Bikaner,Satisfactory,64
+Rajasthan,Kota,Good,65
+Rajasthan,Sirohi,Very Poor,6
+Jharkhand,Dhanbad,Satisfactory,11
+Rajasthan,Chittorgarh,Satisfactory,79
+Rajasthan,Sawai Madhopur,Moderate,221
+Rajasthan,Jhunjhunu,Satisfactory,93
+Rajasthan,Rajsamand,Poor,15
+Rajasthan,Rajsamand,Satisfactory,239
+Rajasthan,Sri Ganganagar,Severe,9
+Rajasthan,Sri Ganganagar,Very Poor,70
+Rajasthan,Pratapgarh,Satisfactory,141
+Rajasthan,Karauli,Very Poor,24
+Rajasthan,Jhalawar,Satisfactory,122
+Maharashtra,Kolhapur,Satisfactory,197
+Rajasthan,Bundi,Moderate,204
+Rajasthan,Jaisalmer,Satisfactory,109
+Rajasthan,Jaisalmer,Very Poor,16
+Rajasthan,Nagaur,Moderate,207
+Maharashtra,Ahmednagar,Moderate,172
+Maharashtra,Ahmednagar,Satisfactory,91
+Maharashtra,Amravati,Good,87
+Maharashtra,Jalgaon,Good,43
+Maharashtra,Nanded,Moderate,158
+Maharashtra,Badlapur,Satisfactory,105
+Maharashtra,Dhule,Good,55
+Maharashtra,Mira-Bhayandar,Good,91
+Maharashtra,Virar,Satisfactory,166
+Maharashtra,Boisar,Satisfactory,115
+Rajasthan,Dungarpur,Moderate,166
+Rajasthan,Jalore,Moderate,227
+Odisha,Balasore,Poor,28
+Odisha,Barbil,Good,27
+Odisha,Angul,Poor,66
+Odisha,Bhubaneswar,Moderate,254
+Odisha,Bhubaneswar,Poor,56
+Odisha,Bhubaneswar,Satisfactory,242
+West Bengal,Barrackpore,Satisfactory,132
+TamilNadu,Pudukottai,Satisfactory,26
+West Bengal,Durgapur,Good,8
+TamilNadu,Perundurai,Good,18
+Rajasthan,Alwar,Satisfactory,219
+Rajasthan,Pali,Moderate,215
+Rajasthan,Udaipur,Moderate,198
+Rajasthan,Udaipur,Very Poor,6
+Madhya Pradesh,Singrauli,Very Poor,44
+Madhya Pradesh,Dewas,Moderate,115
+Odisha,Talcher,Very Poor,34
+Odisha,Talcher,Poor,51
+West Bengal,Howrah,Very Poor,92
+West Bengal,Siliguri,Moderate,103
+West Bengal,Siliguri,Poor,8
+West Bengal,Siliguri,Satisfactory,126
+Punjab,Patiala,Moderate,150
+Punjab,Patiala,Good,55
+Haryana,Rohtak,Poor,61
+Uttar Pradesh,Muzaffarnagar,Poor,72
+Karnataka,Chikkaballapur,Moderate,53
+Bihar,Patna,Very Poor,308
+Haryana,Panchkula,Very Poor,11
+Kerala,Thiruvananthapuram,Good,280
+Maharashtra,Chandrapur,Moderate,137
+Uttar Pradesh,Lucknow,Moderate,872
+Unknown,Unknown,Severe,13
+Gujarat,Ahmedabad,Moderate,1253
+Madhya Pradesh,Damoh,Satisfactory,68
+Haryana,Sonipat,Poor,42
+Madhya Pradesh,Ratlam,Good,58
+Haryana,Dharuhera,Satisfactory,91
+Haryana,Yamuna Nagar,Good,32
+Haryana,Bhiwani,Very Poor,19
+Haryana,Panipat,Good,3
+Haryana,Karnal,Poor,20
+Haryana,Narnaul,Moderate,103
+Gujarat,Ankleshwar,Moderate,122
+Gujarat,Vapi,Moderate,87
+Haryana,Kaithal,Good,27
+Maharashtra,Navi Mumbai,Satisfactory,580
+Uttar Pradesh,Meerut,Very Poor,86
+Karnataka,Chamarajanagar,Satisfactory,18
+Chandigarh,Chandigarh,Very Poor,126
+Karnataka,Yadgir,Moderate,30
+Karnataka,Chikkamagaluru,Satisfactory,185
+Karnataka,Vijayapura,Good,323
+Madhya Pradesh,Gwalior,Satisfactory,275
+Bihar,Hajipur,Poor,70
+Bihar,Hajipur,Very Poor,48
+Bihar,Gaya,Good,129
+Mizoram,Aizawl,Good,214
+Mizoram,Aizawl,Satisfactory,126
+Maharashtra,Pune,Satisfactory,799
+Arunachal Pradesh,Naharlagun,Satisfactory,96
+Arunachal Pradesh,Naharlagun,Moderate,18
+Uttar Pradesh,Prayagraj,Good,255
+Bihar,Bihar Sharif,Poor,29
+Bihar,Bihar Sharif,Good,24
+Bihar,Munger,Good,30
+Bihar,Bhagalpur,Severe,7
+Bihar,Aurangabad,Poor,18
+Bihar,Aurangabad,Satisfactory,97
+Bihar,Chhapra,Moderate,92
+Bihar,Purnia,Very Poor,17
+Bihar,Saharsa,Good,24
+Uttar Pradesh,Moradabad,Very Poor,9
+Uttar Pradesh,Jhansi,Satisfactory,154
+Uttar Pradesh,Baghpat,Very Poor,12
+Himachal Pradesh,Baddi,Poor,56
+Himachal Pradesh,Baddi,Moderate,199
+Sikkim,Gangtok,Good,143
+Uttar Pradesh,Khurja,Moderate,136
+Uttar Pradesh,Khurja,Poor,27
+Andhra Pradesh,Anantapur,Satisfactory,204
+Assam,Sivasagar,Good,99
+Gujarat,Surat,Satisfactory,192
+Gujarat,Surat,Moderate,29
+Andhra Pradesh,Chittoor,Satisfactory,155
+Andhra Pradesh,Chittoor,Good,42
+Odisha,Baripada,Good,22
+Odisha,Keonjhar,Satisfactory,175
+Odisha,Bileipada,Good,18
+Odisha,Nayagarh,Satisfactory,77
+Karnataka,Kalaburagi,Satisfactory,182
+Assam,Silchar,Satisfactory,213
+Assam,Silchar,Good,142
+Andhra Pradesh,Vijayawada,Satisfactory,985
+Chhattisgarh,Tumidih,Moderate,53
+Rajasthan,Bharatpur,Satisfactory,66
+Rajasthan,Bharatpur,Good,48
+Rajasthan,Bikaner,Moderate,212
+Rajasthan,Churu,Satisfactory,79
+Rajasthan,Dholpur,Good,29
+Rajasthan,Tonk,Moderate,150
+Rajasthan,Tonk,Satisfactory,71
+Rajasthan,Dausa,Satisfactory,80
+Rajasthan,Hanumangarh,Moderate,154
+Rajasthan,Sawai Madhopur,Poor,12
+Rajasthan,Sawai Madhopur,Satisfactory,99
+Rajasthan,Jhunjhunu,Very Poor,24
+Rajasthan,Sri Ganganagar,Moderate,129
+Rajasthan,Jhalawar,Good,33
+Maharashtra,Pimpri-Chinchwad,Good,257
+Maharashtra,Pimpri-Chinchwad,Very Poor,39
+Rajasthan,Jaisalmer,Poor,21
+Maharashtra,Sangli,Moderate,135
+Rajasthan,Baran,Poor,25
+Rajasthan,Nagaur,Poor,30
+Maharashtra,Latur,Satisfactory,148
+Maharashtra,Latur,Good,96
+Maharashtra,Akola,Good,82
+Maharashtra,Parbhani,Poor,19
+Maharashtra,Badlapur,Moderate,179
+Maharashtra,Dhule,Moderate,181
+Maharashtra,Belapur,Satisfactory,111
+Maharashtra,Boisar,Moderate,121
+Maharashtra,Bhiwandi,Good,27
+Rajasthan,Dungarpur,Satisfactory,156
+Odisha,Cuttack,Very Poor,21
+Odisha,Byasanagar,Satisfactory,87
+West Bengal,Barrackpore,Very Poor,22
+TamilNadu,Pudukottai,Good,23
+Rajasthan,Bhiwadi,Severe,8
+Delhi,Delhi,Satisfactory,2155
+Uttar Pradesh,Noida,Good,49
+Rajasthan,Jaipur,Poor,236
+Rajasthan,Alwar,Moderate,113
+Rajasthan,Alwar,Good,28
+Rajasthan,Ajmer,Good,20
+Rajasthan,Kota,Poor,111
+Rajasthan,Udaipur,Good,3
+Madhya Pradesh,Singrauli,Satisfactory,67
+Madhya Pradesh,Mandideep,Good,46
+West Bengal,Howrah,Moderate,233
+West Bengal,Howrah,Satisfactory,362
+Punjab,Patiala,Satisfactory,135
+Haryana,Gurugram,Moderate,472
+Uttar Pradesh,Bulandshahr,Good,39
+Karnataka,Bengaluru,Satisfactory,2158
+Karnataka,Chikkaballapur,Satisfactory,131
+Bihar,Patna,Poor,373
+Bihar,Muzaffarpur,Poor,178
+Bihar,Muzaffarpur,Moderate,280
+Bihar,Muzaffarpur,Good,64
+Bihar,Gaya,Moderate,316
+Haryana,Panchkula,Good,41
+Maharashtra,Aurangabad,Satisfactory,386
+Telangana,Hyderabad,Moderate,784
+Kerala,Thiruvananthapuram,Moderate,6
+Punjab,Ludhiana,Poor,38
+Andhra Pradesh,Visakhapatnam,Poor,14
+Andhra Pradesh,Visakhapatnam,Very Poor,7
+Haryana,Faridabad,Very Poor,225
+Uttar Pradesh,Lucknow,Poor,208
+Uttar Pradesh,Lucknow,Very Poor,150
+Uttar Pradesh,Kanpur,Poor,40
+West Bengal,Kolkata,Poor,235
+Uttar Pradesh,Agra,Poor,34
+Haryana,Dharuhera,Poor,67
+Haryana,Bahadurgarh,Moderate,138
+Haryana,Bahadurgarh,Severe,9
+Haryana,Panipat,Satisfactory,154
+Haryana,Karnal,Moderate,121
+Haryana,Karnal,Very Poor,9
+Haryana,Palwal,Moderate,146
+Haryana,Sirsa,Satisfactory,128
+Haryana,Sirsa,Very Poor,12
+Haryana,Fatehabad,Satisfactory,113
+Haryana,Ballabgarh,Good,14
+Gujarat,Gandhinagar,Satisfactory,387
+Gujarat,Vapi,Very Poor,12
+Assam,Guwahati,Poor,144
+Assam,Guwahati,Good,230
+Uttar Pradesh,Ghaziabad,Very Poor,174
+Uttar Pradesh,Ghaziabad,Poor,185
+Maharashtra,Navi Mumbai,Poor,70
+Kerala,Eloor,Satisfactory,230
+Maharashtra,Kalyan,Moderate,186
+Meghalaya,Shillong,Moderate,46
+Meghalaya,Shillong,Good,58
+Madhya Pradesh,Bhopal,Very Poor,35
+Madhya Pradesh,Indore,Poor,62
+Madhya Pradesh,Jabalpur,Very Poor,24
+Karnataka,Ramanagara,Satisfactory,152
+Karnataka,Shivamogga,Good,118
+Kerala,Kollam,Satisfactory,158
+Haryana,Charkhi Dadri,Very Poor,35
+Haryana,Gurugram,Good,16
+Maharashtra,Mumbai,Very Poor,59
+Maharashtra,Pune,Poor,41
+Gujarat,Gandhinagar,Poor,22
+Uttar Pradesh,Gorakhpur,Moderate,166
+Bihar,Bettiah,Poor,23
+Bihar,Bettiah,Satisfactory,73
+Bihar,Motihari,Satisfactory,123
+Uttar Pradesh,Vrindavan,Poor,2
+Bihar,Munger,Satisfactory,76
+Chhattisgarh,Bilaspur,Satisfactory,165
+Chhattisgarh,Bhilai,Moderate,209
+Uttar Pradesh,Moradabad,Satisfactory,683
+Bihar,Arrah,Satisfactory,88
+Bihar,Arrah,Good,32
+Bihar,Araria,Poor,26
+Bihar,Manguraha,Satisfactory,123
+Bihar,Samastipur,Moderate,220
+Bihar,Samastipur,Satisfactory,38
+Bihar,Siwan,Satisfactory,14
+Bihar,Siwan,Severe,1
+Uttar Pradesh,Baghpat,Poor,59
+Uttar Pradesh,Baghpat,Good,16
+Uttarakhand,Dehradun,Good,82
+TamilNadu,Thanjavur,Satisfactory,13
+TamilNadu,Ramanathapuram,Satisfactory,91
+Assam,Byrnihat,Good,4
+Odisha,Rairangpur,Very Poor,7
+Odisha,Rairangpur,Moderate,132
+Odisha,Rourkela,Satisfactory,342
+Odisha,Tensa,Moderate,128
+Karnataka,Hubballi,Moderate,16
+Andhra Pradesh,Vijayawada,Moderate,36
+Chhattisgarh,Chhal,Moderate,90
+Chhattisgarh,Chhal,Good,64
+Rajasthan,Bikaner,Poor,41
+Rajasthan,Bikaner,Very Poor,35
+Rajasthan,Bikaner,Severe,2
+Rajasthan,Sirohi,Satisfactory,163
+Rajasthan,Chittorgarh,Poor,23
+Rajasthan,Dausa,Very Poor,6
+Rajasthan,Hanumangarh,Satisfactory,38
+Rajasthan,Jhunjhunu,Poor,44
+Rajasthan,Sikar,Very Poor,23
+Rajasthan,Sikar,Poor,48
+Rajasthan,Karauli,Poor,27
+Rajasthan,Karauli,Good,37
+Maharashtra,Pimpri-Chinchwad,Moderate,471
+Maharashtra,Pimpri-Chinchwad,Poor,121
+Maharashtra,Pimpri-Chinchwad,Satisfactory,263
+Rajasthan,Bhilwara,Moderate,106
+Rajasthan,Bhilwara,Good,52
+Rajasthan,Bundi,Satisfactory,81
+Maharashtra,Nashik,Very Poor,10
+Maharashtra,Nanded,Satisfactory,83
+Maharashtra,Badlapur,Poor,28
+Maharashtra,Badlapur,Good,38
+Maharashtra,Malegaon,Moderate,190
+Maharashtra,Belapur,Good,56
+Maharashtra,Virar,Moderate,153
+Maharashtra,Bhiwandi,Moderate,149
+Rajasthan,Jalore,Good,21
+Odisha,Angul,Moderate,145
+Odisha,Cuttack,Moderate,116
+Odisha,Cuttack,Good,69
+Odisha,Byasanagar,Poor,35
+West Bengal,Durgapur,Satisfactory,76
+Delhi,Delhi,Severe,1063
+Rajasthan,Bhiwadi,Moderate,323
+Rajasthan,Ajmer,Poor,1
+Rajasthan,Pali,Poor,30
+Rajasthan,Pali,Very Poor,13
+Rajasthan,Udaipur,Poor,14
+Andhra Pradesh,Rajamahendravaram,Moderate,42
+Unknown,Unknown,Moderate,2687
+Madhya Pradesh,Pithampur,Very Poor,2
+West Bengal,Howrah,Poor,101
+West Bengal,Asansol,Good,99
+Punjab,Patiala,Poor,21
+Punjab,Jalandhar,Moderate,148
+Punjab,Khanna,Moderate,140
+Punjab,Rupnagar,Poor,31
+Uttar Pradesh,Bulandshahr,Poor,46
+Karnataka,Bengaluru,Poor,23
+Karnataka,Bengaluru,Good,1138
+Bihar,Muzaffarpur,Satisfactory,319
+Punjab,Mandi Gobindgarh,Good,1
+Haryana,Faridabad,Poor,201
+Telangana,Hyderabad,Poor,16
+West Bengal,Kolkata,Moderate,718
+West Bengal,Haldia,Poor,28
+Maharashtra,Nagpur,Satisfactory,436
+Maharashtra,Nashik,Moderate,362
+Uttar Pradesh,Agra,Moderate,592
+Gujarat,Ahmedabad,Satisfactory,825
+Haryana,Gurugram,Severe,28
+Haryana,Manesar,Moderate,119
+Haryana,Sonipat,Very Poor,30
+Madhya Pradesh,Ratlam,Moderate,228
+Madhya Pradesh,Ratlam,Poor,5
+Haryana,Kurukshetra,Moderate,127
+Haryana,Dharuhera,Very Poor,21
+Haryana,Bahadurgarh,Poor,55
+Haryana,Karnal,Satisfactory,146
+Haryana,Karnal,Good,52
+Haryana,Palwal,Good,37
+Haryana,Palwal,Poor,6
+Haryana,Jind,Very Poor,21
+Haryana,Hisar,Satisfactory,63
+Haryana,Ballabgarh,Moderate,141
+Gujarat,Ankleshwar,Poor,8
+Gujarat,Vapi,Good,63
+Haryana,Kaithal,Satisfactory,122
+Assam,Guwahati,Moderate,262
+TamilNadu,Coimbatore,Good,156
+Maharashtra,Mumbai,Satisfactory,3036
+Kerala,Eloor,Moderate,36
+Uttar Pradesh,Meerut,Poor,152
+Uttar Pradesh,Meerut,Satisfactory,255
+West Bengal,Kolkata,Very Poor,45
+Karnataka,Chamarajanagar,Good,338
+Madhya Pradesh,Bhopal,Moderate,478
+Madhya Pradesh,Bhopal,Satisfactory,337
+Madhya Pradesh,Bhopal,Poor,89
+Madhya Pradesh,Jabalpur,Poor,62
+Karnataka,Yadgir,Satisfactory,155
+Bihar,Patna,Good,57
+Karnataka,Bagalkot,Satisfactory,74
+Karnataka,Vijayapura,Satisfactory,30
+Madhya Pradesh,Gwalior,Good,33
+Kerala,Kannur,Satisfactory,213
+Kerala,Kollam,Moderate,42
+Kerala,Kollam,Good,49
+Bihar,Hajipur,Moderate,135
+Haryana,Charkhi Dadri,Satisfactory,103
+TamilNadu,Gummidipoondi,Poor,27
+Maharashtra,Mumbai,Poor,295
+Karnataka,Mangalore,Good,133
+Arunachal Pradesh,Naharlagun,Good,101
+Bihar,Motihari,Poor,33
+Bihar,Bihar Sharif,Moderate,107
+Bihar,Rajgir,Very Poor,30
+Bihar,Munger,Very Poor,16
+Bihar,Chhapra,Satisfactory,98
+Bihar,Katihar,Poor,36
+Bihar,Kishanganj,Good,26
+Bihar,Purnia,Satisfactory,103
+Bihar,Saharsa,Satisfactory,123
+Bihar,Siwan,Poor,26
+Uttar Pradesh,Jhansi,Good,85
+Tripura,Agartala,Moderate,82
+Tripura,Agartala,Good,45
+Sikkim,Gangtok,Satisfactory,120
+TamilNadu,Thanjavur,Good,58
+Karnataka,Dharwad,Good,27
+Gujarat,Surat,Good,48
+Gujarat,Surat,Severe,1
+Gujarat,Surat,Poor,13
+Andhra Pradesh,Tirupati,Satisfactory,105
+Assam,Nalbari,Very Poor,41
+Assam,Nalbari,Satisfactory,138
+Assam,Nalbari,Good,31
+Odisha,Bileipada,Poor,48
+Odisha,Nayagarh,Moderate,112
+Odisha,Nayagarh,Poor,21
+Odisha,Nayagarh,Very Poor,3
+Odisha,Nayagarh,Good,95
+Odisha,Tensa,Good,57
+Andhra Pradesh,Vijayawada,Good,215
+Chhattisgarh,Kunjemura,Moderate,178
+Chhattisgarh,Kunjemura,Satisfactory,97
+Chhattisgarh,Milupara,Good,29
+Chhattisgarh,Milupara,Moderate,23
+Chhattisgarh,Tumidih,Good,20
+Andhra Pradesh,Kadapa,Good,70
+Rajasthan,Churu,Good,13
+Rajasthan,Dholpur,Severe,2
+Uttarakhand,Rishikesh,Good,78
+Uttarakhand,Kashipur,Good,33
+Assam,Nagaon,Very Poor,15
+Rajasthan,Banswara,Satisfactory,95
+Rajasthan,Jhunjhunu,Moderate,189
+Rajasthan,Jhalawar,Moderate,171
+Rajasthan,Bhilwara,Very Poor,6
+Rajasthan,Baran,Satisfactory,90
+Maharashtra,Solapur,Poor,10
+Maharashtra,Mahad,Good,83
+Maharashtra,Jalgaon,Satisfactory,99
+Maharashtra,Jalna,Moderate,152
+Maharashtra,Jalna,Poor,21
+Maharashtra,Jalna,Good,33
+Maharashtra,Parbhani,Satisfactory,75
+Maharashtra,Parbhani,Good,31
+Maharashtra,Thane,Satisfactory,245
+Maharashtra,Thane,Very Poor,9
+Maharashtra,Malegaon,Good,21
+Odisha,Barbil,Poor,46
+Odisha,Angul,Satisfactory,95
+West Bengal,Barrackpore,Poor,42
+Andhra Pradesh,Vijayawada,Poor,5
+TamilNadu,Perundurai,Satisfactory,37
+Delhi,Delhi,Very Poor,3038
+Uttar Pradesh,Noida,Severe,38
+Uttar Pradesh,Noida,Satisfactory,243
+Rajasthan,Alwar,Poor,2
+Rajasthan,Bhiwadi,Very Poor,70
+Rajasthan,Pali,Satisfactory,86
+Andhra Pradesh,Rajamahendravaram,Very Poor,7
+Madhya Pradesh,Mandideep,Moderate,152
+Madhya Pradesh,Dewas,Satisfactory,136
+Andhra Pradesh,Amaravati,Good,119
+Andhra Pradesh,Amaravati,Satisfactory,182
+Odisha,Talcher,Moderate,134
+Odisha,Brajrajnagar,Moderate,102
+Odisha,Brajrajnagar,Satisfactory,153
+Odisha,Brajrajnagar,Good,65
+West Bengal,Howrah,Good,170
+Madhya Pradesh,Satna,Moderate,56
+Punjab,Jalandhar,Satisfactory,177
+Haryana,Rohtak,Moderate,96
+Punjab,Rupnagar,Moderate,206
+Uttar Pradesh,Bulandshahr,Moderate,187
+Punjab,Bathinda,Moderate,161
+Punjab,Mandi Gobindgarh,Poor,71
+Punjab,Mandi Gobindgarh,Satisfactory,76
+Haryana,Faridabad,Moderate,453
+Uttar Pradesh,Lucknow,Good,264
+Maharashtra,Nagpur,Poor,88
+Maharashtra,Nagpur,Good,187
+Uttar Pradesh,Agra,Good,633
+Uttar Pradesh,Agra,Very Poor,15
+Gujarat,Ahmedabad,Very Poor,57
+Haryana,Manesar,Good,14
+Haryana,Sonipat,Moderate,80
+Haryana,Kurukshetra,Poor,46
+Haryana,Yamuna Nagar,Very Poor,5
+Haryana,Bhiwani,Poor,48
+Haryana,Sirsa,Moderate,140
+Haryana,Narnaul,Satisfactory,157
+Haryana,Fatehabad,Good,22
+Haryana,Hisar,Moderate,162
+Haryana,Hisar,Very Poor,19
+Gujarat,Ankleshwar,Satisfactory,183
+Gujarat,Gandhinagar,Moderate,261
+Gujarat,Gandhinagar,Good,99
+Assam,Guwahati,Very Poor,91
+Uttar Pradesh,Ghaziabad,Severe,31
+Maharashtra,Navi Mumbai,Moderate,1029
+Kerala,Eloor,Good,19
+Chandigarh,Chandigarh,Satisfactory,238
+Chandigarh,Chandigarh,Good,49
+Madhya Pradesh,Indore,Very Poor,17
+Madhya Pradesh,Indore,Moderate,351
+Madhya Pradesh,Jabalpur,Satisfactory,561
+Madhya Pradesh,Katni,Moderate,210
+Karnataka,Shivamogga,Satisfactory,239
+Madhya Pradesh,Gwalior,Moderate,565
+Mizoram,Aizawl,Moderate,15
+TamilNadu,Chennai,Poor,10
+TamilNadu,Thoothukudi,Moderate,47
+Kerala,Thrissur,Satisfactory,150
+Karnataka,Madikeri,Good,271
+Maharashtra,Pune,Moderate,814
+Puducherry,Puducherry,Satisfactory,228
+Uttar Pradesh,Gorakhpur,Good,29
+Uttar Pradesh,Kanpur,Good,79
+Bihar,Motihari,Very Poor,5
+Uttar Pradesh,Firozabad,Satisfactory,384
+Uttar Pradesh,Firozabad,Poor,6
+Uttar Pradesh,Vrindavan,Moderate,234
+Bihar,Sasaram,Good,57
+Uttar Pradesh,Moradabad,Good,373
+Bihar,Arrah,Moderate,100
+Bihar,Araria,Good,20
+Bihar,Bhagalpur,Very Poor,107
+Bihar,Bhagalpur,Satisfactory,177
+Bihar,Bhagalpur,Poor,90
+Bihar,Chhapra,Very Poor,45
+Bihar,Chhapra,Poor,43
+Bihar,Chhapra,Good,29
+Bihar,Katihar,Moderate,128
+Bihar,Purnia,Poor,43
+Bihar,Manguraha,Good,10
+Bihar,Manguraha,Poor,3
+Bihar,Saharsa,Poor,33
+Bihar,Samastipur,Very Poor,14
+Uttar Pradesh,Baghpat,Moderate,173
+Tripura,Agartala,Poor,62
+Uttarakhand,Dehradun,Poor,21
+Uttar Pradesh,Khurja,Good,16
+TamilNadu,Madurai,Good,44
+TamilNadu,Coimbatore,Moderate,45
+Chhattisgarh,Raipur,Good,350
+Andhra Pradesh,Chittoor,Moderate,66
+Andhra Pradesh,Tirupati,Good,89
+Assam,Nalbari,Moderate,77
+Odisha,Baripada,Very Poor,11
+Odisha,Baripada,Moderate,125
+Odisha,Rairangpur,Poor,8
+Odisha,Bileipada,Moderate,186
+Karnataka,Bengaluru,Very Poor,17
+Karnataka,Tumakuru,Satisfactory,94
+Rajasthan,Bharatpur,Moderate,180
+Rajasthan,Tonk,Very Poor,17
+Uttarakhand,Rishikesh,Moderate,82
+Uttarakhand,Rishikesh,Satisfactory,188
+Uttarakhand,Kashipur,Poor,15
+Rajasthan,Dausa,Poor,28
+Rajasthan,Sawai Madhopur,Very Poor,4
+Rajasthan,Rajsamand,Moderate,70
+Rajasthan,Pratapgarh,Very Poor,3
+Rajasthan,Sikar,Satisfactory,75
+Rajasthan,Karauli,Satisfactory,68
+Maharashtra,Kolhapur,Poor,26
+Maharashtra,Sangli,Good,107
+Maharashtra,Akola,Moderate,164
+Maharashtra,Aurangabad,Very Poor,5
+Maharashtra,Jalna,Satisfactory,125
+Maharashtra,Dhule,Satisfactory,100
+Maharashtra,Ulhasnagar,Poor,26
+Maharashtra,Ulhasnagar,Good,16
+Rajasthan,Jalore,Satisfactory,99
+Madhya Pradesh,Indore,Good,346
+Odisha,Balasore,Satisfactory,120
+Odisha,Angul,Good,16
+Odisha,Cuttack,Poor,24
+West Bengal,Barrackpore,Good,46
+Delhi,Delhi,Poor,2158
+Rajasthan,Jaipur,Satisfactory,588
+Rajasthan,Jodhpur,Poor,108
+Rajasthan,Jodhpur,Satisfactory,512
+Rajasthan,Alwar,Very Poor,1
+Rajasthan,Ajmer,Moderate,152
+Rajasthan,Ajmer,Satisfactory,189
+Rajasthan,Kota,Satisfactory,307
+Andhra Pradesh,Rajamahendravaram,Satisfactory,195
+Madhya Pradesh,Pithampur,Moderate,189
+Madhya Pradesh,Pithampur,Poor,32
+Madhya Pradesh,Pithampur,Satisfactory,132
+West Bengal,Asansol,Very Poor,123
+Unknown,Unknown,Good,3286
+Punjab,Khanna,Poor,11
+Punjab,Khanna,Good,8
+Uttar Pradesh,Greater Noida,Poor,191
+Uttar Pradesh,Muzaffarnagar,Satisfactory,63
+Haryana,Panchkula,Poor,37
+Maharashtra,Aurangabad,Moderate,425
+Kerala,Thiruvananthapuram,Satisfactory,418
+Punjab,Ludhiana,Moderate,156
+Punjab,Mandi Gobindgarh,Very Poor,41
+Maharashtra,Chandrapur,Poor,21
+Maharashtra,Chandrapur,Satisfactory,150
+Uttar Pradesh,Varanasi,Satisfactory,593
+Uttar Pradesh,Varanasi,Good,633
+Uttar Pradesh,Kanpur,Satisfactory,385
+West Bengal,Kolkata,Satisfactory,933
+West Bengal,Kolkata,Good,585
+Maharashtra,Solapur,Moderate,519
+Maharashtra,Solapur,Satisfactory,297
+Gujarat,Ahmedabad,Poor,152
+Haryana,Manesar,Very Poor,27
+Haryana,Sonipat,Satisfactory,117
+Haryana,Kurukshetra,Good,39
+Haryana,Dharuhera,Moderate,121
+Haryana,Bahadurgarh,Very Poor,46
+Haryana,Bahadurgarh,Satisfactory,57
+Haryana,Yamuna Nagar,Poor,36
+Haryana,Bhiwani,Good,9
+Haryana,Palwal,Satisfactory,143
+Haryana,Sirsa,Good,15
+Haryana,Hisar,Poor,41
+Haryana,Ballabgarh,Poor,88
+Gujarat,Ankleshwar,Good,11
+Gujarat,Vatva,Moderate,120
+Gujarat,Vapi,Satisfactory,138
+Haryana,Kaithal,Poor,29
+Uttar Pradesh,Ghaziabad,Moderate,479
+Uttar Pradesh,Ghaziabad,Good,30
+Madhya Pradesh,Bhopal,Good,119
+Madhya Pradesh,Katni,Satisfactory,82
+Karnataka,Ramanagara,Good,171
+Kerala,Kannur,Good,9
+Bihar,Hajipur,Good,10
+Haryana,Faridabad,Good,30
+TamilNadu,Gummidipoondi,Very Poor,7
+TamilNadu,Thoothukudi,Good,110
+Karnataka,Mangalore,Satisfactory,181
+Karnataka,Mangalore,Moderate,24
+Puducherry,Puducherry,Good,108
+Uttar Pradesh,Prayagraj,Moderate,331
+Bihar,Motihari,Moderate,110
+Uttar Pradesh,Firozabad,Good,182
+Bihar,Sasaram,Poor,46
+Bihar,Sasaram,Satisfactory,102
+Bihar,Rajgir,Moderate,73
+Bihar,Munger,Poor,55
+Bihar,Arrah,Very Poor,27
+Bihar,Katihar,Good,52
+Bihar,Kishanganj,Very Poor,5
+Bihar,Saharsa,Moderate,96
+Bihar,Samastipur,Poor,34
+Uttar Pradesh,Jhansi,Poor,3
+Uttar Pradesh,Bareilly,Satisfactory,329
+TamilNadu,Madurai,Satisfactory,31
+Odisha,Baripada,Poor,39
+Odisha,Keonjhar,Moderate,107
+Karnataka,Tumakuru,Good,62
+Chhattisgarh,Milupara,Satisfactory,132
+Andhra Pradesh,Kadapa,Satisfactory,171
+Rajasthan,Jodhpur,Good,151
+Rajasthan,Churu,Poor,41
+Rajasthan,Dholpur,Very Poor,44
+Rajasthan,Tonk,Good,25
+Assam,Nagaon,Poor,31
+Assam,Nagaon,Moderate,74
+Assam,Nagaon,Satisfactory,213
+Rajasthan,Banswara,Moderate,201
+Rajasthan,Chittorgarh,Very Poor,5
+Rajasthan,Hanumangarh,Very Poor,64
+Rajasthan,Hanumangarh,Poor,54
+Rajasthan,Hanumangarh,Good,17
+Rajasthan,Karauli,Moderate,158
+Maharashtra,Sangli,Satisfactory,83
+Rajasthan,Baran,Very Poor,2
+Rajasthan,Nagaur,Satisfactory,91
+Maharashtra,Mahad,Moderate,121
+Maharashtra,Mahad,Satisfactory,133
+Maharashtra,Nanded,Poor,16
+Maharashtra,Mira-Bhayandar,Moderate,155
+Maharashtra,Mira-Bhayandar,Poor,21
+Maharashtra,Boisar,Poor,21
+Maharashtra,Ulhasnagar,Moderate,173
+Maharashtra,Bhiwandi,Satisfactory,142
+Odisha,Balasore,Very Poor,28
+Odisha,Byasanagar,Moderate,168
+West Bengal,Durgapur,Moderate,143
+West Bengal,Durgapur,Poor,42
+TamilNadu,Perundurai,Moderate,14
+Andhra Pradesh,Amaravati,Poor,9
+Madhya Pradesh,Satna,Good,18
+Punjab,Jalandhar,Very Poor,3
+Uttar Pradesh,Kanpur,Very Poor,15
+Madhya Pradesh,Katni,Poor,11
+Bihar,Purnia,Good,9
+Rajasthan,Sawai Madhopur,Good,4
+Rajasthan,Pali,Good,4
+Uttar Pradesh,Hapur,Severe,3
+Haryana,Kurukshetra,Very Poor,9
+TamilNadu,Gummidipoondi,Good,13
+Karnataka,Madikeri,Moderate,9
+Bihar,Bettiah,Good,7
+Bihar,Aurangabad,Good,11
+Gujarat,Surat,Very Poor,8
+Madhya Pradesh,Gwalior,Severe,4
+Odisha,Keonjhar,Poor,9
+Maharashtra,Jalgaon,Poor,24
+Haryana,Faridabad,Severe,25
+Madhya Pradesh,Damoh,Poor,4
+Haryana,Dharuhera,Good,1
+Haryana,Narnaul,Very Poor,7
+Chhattisgarh,Bilaspur,Moderate,26
+Andhra Pradesh,Tirupati,Poor,4
+Assam,Byrnihat,Severe,11
+Odisha,Keonjhar,Very Poor,7
+Maharashtra,Kolhapur,Very Poor,4
+Haryana,Panipat,Very Poor,16
+Bihar,Bettiah,Very Poor,6
+TamilNadu,Ramanathapuram,Moderate,5
+Rajasthan,Hanumangarh,Severe,4
+Rajasthan,Pratapgarh,Poor,3
+Rajasthan,Bundi,Very Poor,11
+Odisha,Brajrajnagar,Poor,1
+Punjab,Ludhiana,Good,8
+Haryana,Bhiwani,Severe,2
+Haryana,Narnaul,Poor,15
+Bihar,Bihar Sharif,Very Poor,11
+Andhra Pradesh,Anantapur,Moderate,21
+Maharashtra,Sangli,Poor,4
+Rajasthan,Nagaur,Good,17
+Rajasthan,Dungarpur,Good,12
+Rajasthan,Dungarpur,Very Poor,4
+TamilNadu,Pudukottai,Moderate,16
+Andhra Pradesh,Rajamahendravaram,Poor,8
+Puducherry,Puducherry,Moderate,12
+Chhattisgarh,Bilaspur,Poor,1
+Bihar,Saharsa,Severe,2
+Chhattisgarh,Korba,Poor,5
+Chhattisgarh,Kunjemura,Poor,5
+Rajasthan,Rajsamand,Good,24
+Maharashtra,Jalgaon,Very Poor,7
+Maharashtra,Ulhasnagar,Very Poor,1
+Maharashtra,Navi Mumbai,Very Poor,12
+Uttar Pradesh,Greater Noida,Good,10
+Maharashtra,Aurangabad,Severe,2
+Haryana,Bahadurgarh,Good,23
+Bihar,Sasaram,Very Poor,6
+Bihar,Arrah,Poor,10
+Uttarakhand,Kashipur,Very Poor,1
+Rajasthan,Chittorgarh,Good,6
+Rajasthan,Baran,Severe,1
+Odisha,Bhubaneswar,Very Poor,35
+Punjab,Bathinda,Good,4
+Telangana,Hyderabad,Severe,8
+Haryana,Hisar,Severe,1
+Uttar Pradesh,Meerut,Severe,4
+Uttar Pradesh,Gorakhpur,Very Poor,5
+Chhattisgarh,Chhal,Poor,1
+Assam,Nagaon,Good,9
+Rajasthan,Dausa,Good,9
+Rajasthan,Bhilwara,Poor,22
+Maharashtra,Mahad,Poor,13
+Maharashtra,Ahmednagar,Good,19
+Madhya Pradesh,Indore,Severe,3
+Madhya Pradesh,Singrauli,Good,2
+Odisha,Talcher,Good,7
+Meghalaya,Shillong,Poor,5
+Maharashtra,Latur,Poor,4
+Maharashtra,Akola,Poor,2
+Odisha,Byasanagar,Very Poor,8
+Punjab,Bathinda,Severe,1
+Haryana,Sonipat,Severe,2
+Odisha,Tensa,Poor,8
+Rajasthan,Bikaner,Good,9
+Rajasthan,Sawai Madhopur,Severe,1
+Maharashtra,Jalna,Very Poor,5
+Maharashtra,Thane,Poor,19
+Gujarat,Gandhinagar,Very Poor,4
+Rajasthan,Rajsamand,Very Poor,3
+Maharashtra,Malegaon,Very Poor,5
+Rajasthan,Banswara,Very Poor,2
+Karnataka,Bengaluru,Severe,4
+Kerala,Kannur,Moderate,1
+Bihar,Muzaffarpur,Severe,7
+Bihar,Munger,Severe,2
+Uttar Pradesh,Bareilly,Poor,2
+Jharkhand,Dhanbad,Very Poor,4
+Punjab,Rupnagar,Good,10
+Maharashtra,Kalyan,Poor,2
+Puducherry,Puducherry,Poor,2
+Rajasthan,Jodhpur,Severe,3
+Rajasthan,Churu,Severe,2
+Punjab,Patiala,Very Poor,3
+Rajasthan,Barmer,Poor,5
+Chhattisgarh,Bhilai,Poor,6
+Karnataka,Tumakuru,Poor,3
+Rajasthan,Barmer,Very Poor,4
+Uttar Pradesh,Vrindavan,Very Poor,2
+Odisha,Balasore,Good,2
+West Bengal,Haldia,Very Poor,2
+Assam,Guwahati,Severe,1
+TamilNadu,Madurai,Moderate,1
+Maharashtra,Akola,Very Poor,1
+Maharashtra,Amravati,Poor,1
+Himachal Pradesh,Baddi,Good,3
+Maharashtra,Virar,Very Poor,1
+Chandigarh,Chandigarh,Severe,5
+Bihar,Kishanganj,Severe,1
+Maharashtra,Nagpur,Very Poor,3
+Haryana,Sirsa,Severe,3
+Kerala,Kollam,Very Poor,1
+TamilNadu,Pudukottai,Poor,1
+Haryana,Rohtak,Severe,2
+Madhya Pradesh,Dewas,Very Poor,6
+Bihar,Araria,Severe,2
+Rajasthan,Jaipur,Severe,4
+Rajasthan,Ajmer,Very Poor,1
+Andhra Pradesh,Kadapa,Poor,3
+Rajasthan,Sikar,Severe,1
+Gujarat,Vatva,Poor,1
+Odisha,Bileipada,Very Poor,3
+Uttar Pradesh,Baghpat,Severe,1
+TamilNadu,Thanjavur,Moderate,1
+Rajasthan,Sirohi,Poor,3
+Odisha,Barbil,Very Poor,5
+Uttar Pradesh,Bulandshahr,Severe,1
+Bihar,Samastipur,Good,1
+Andhra Pradesh,Tirupati,Very Poor,1
+Uttarakhand,Rishikesh,Poor,1
+Maharashtra,Dhule,Very Poor,1
+Punjab,Khanna,Very Poor,3
+Himachal Pradesh,Baddi,Severe,3
+Jharkhand,Dhanbad,Good,1
+Maharashtra,Mira-Bhayandar,Very Poor,1
+Andhra Pradesh,Vijayawada,Severe,1
+Chhattisgarh,Kunjemura,Very Poor,1
+Karnataka,Vijayapura,Moderate,1
+Haryana,Charkhi Dadri,Severe,1
+Karnataka,Kalaburagi,Moderate,1
+West Bengal,Durgapur,Severe,2
+Uttar Pradesh,Muzaffarnagar,Severe,1
+Haryana,Palwal,Very Poor,1
+Uttar Pradesh,Khurja,Severe,1
+Uttar Pradesh,Moradabad,Severe,1
+Chhattisgarh,Chhal,Very Poor,1
+Bihar,Hajipur,Severe,2
+Andhra Pradesh,Kadapa,Very Poor,1
+Punjab,Amritsar,Severe,1
+Assam,Sivasagar,Moderate,1
+Kerala,Thiruvananthapuram,Severe,1
+Uttar Pradesh,Firozabad,Very Poor,1
+TamilNadu,Coimbatore,Poor,1
+Punjab,Amritsar,Good,1
+Uttar Pradesh,Bareilly,Very Poor,1
+Rajasthan,Sri Ganganagar,Good,1

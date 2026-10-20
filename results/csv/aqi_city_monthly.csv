@@ -1,0 +1,2893 @@
+state_name,city_name,ym,mean_aqi,n_station_days
+Delhi,Delhi,2024-09,109.8,1083
+Uttar Pradesh,Noida,2024-03,145.4,123
+Uttar Pradesh,Noida,2024-04,168.5,116
+Uttar Pradesh,Noida,2024-11,309.6,113
+Rajasthan,Jodhpur,2024-02,126.6,144
+Rajasthan,Jodhpur,2024-06,107.8,149
+Rajasthan,Jodhpur,2024-07,72.1,155
+Rajasthan,Jodhpur,2024-10,115.1,155
+Rajasthan,Jodhpur,2024-11,180.2,150
+Rajasthan,Alwar,2024-01,120.4,31
+Rajasthan,Alwar,2024-05,102.1,31
+Rajasthan,Alwar,2024-11,122.3,30
+Rajasthan,Bhiwadi,2024-02,201.7,31
+Rajasthan,Ajmer,2024-06,101.3,28
+Rajasthan,Kota,2024-04,116.6,90
+Rajasthan,Kota,2024-07,75.5,93
+Rajasthan,Kota,2024-11,203.5,90
+Rajasthan,Pali,2024-11,165.2,30
+Rajasthan,Udaipur,2024-08,64.3,30
+Unknown,Unknown,2024-02,98.0,939
+Unknown,Unknown,2024-08,56.4,761
+Madhya Pradesh,Singrauli,2024-02,149.9,29
+Madhya Pradesh,Pithampur,2024-01,157.1,31
+Madhya Pradesh,Pithampur,2024-04,115.0,30
+Madhya Pradesh,Mandideep,2024-05,131.5,24
+Madhya Pradesh,Dewas,2024-03,109.4,28
+Madhya Pradesh,Dewas,2024-11,158.1,30
+Madhya Pradesh,Dewas,2024-12,148.8,28
+Andhra Pradesh,Amaravati,2024-04,55.8,30
+Odisha,Talcher,2024-05,99.6,30
+Odisha,Talcher,2024-09,90.7,22
+Odisha,Talcher,2024-12,211.1,30
+Odisha,Brajrajnagar,2024-02,97.0,21
+Odisha,Brajrajnagar,2024-03,98.8,31
+West Bengal,Howrah,2024-06,67.6,71
+West Bengal,Howrah,2024-07,48.7,90
+West Bengal,Howrah,2024-11,224.7,110
+West Bengal,Asansol,2024-11,243.5,115
+West Bengal,Siliguri,2024-02,137.4,28
+West Bengal,Siliguri,2024-09,44.9,30
+Madhya Pradesh,Satna,2024-09,81.3,30
+Madhya Pradesh,Satna,2024-12,69.2,31
+Punjab,Patiala,2024-02,91.8,29
+Punjab,Patiala,2024-06,113.5,29
+Punjab,Patiala,2024-10,128.6,31
+Punjab,Patiala,2024-12,105.8,31
+Punjab,Jalandhar,2024-02,113.4,29
+Punjab,Jalandhar,2024-04,79.8,30
+Punjab,Jalandhar,2024-05,118.8,31
+Punjab,Khanna,2024-01,119.6,30
+Punjab,Khanna,2024-06,121.5,27
+Punjab,Khanna,2024-09,74.7,30
+Haryana,Gurugram,2024-08,101.0,81
+Punjab,Rupnagar,2024-06,136.6,28
+Punjab,Rupnagar,2024-08,88.2,31
+Uttar Pradesh,Greater Noida,2024-02,244.1,57
+Uttar Pradesh,Greater Noida,2024-10,211.0,59
+Uttar Pradesh,Bulandshahr,2024-03,114.0,31
+Uttar Pradesh,Bulandshahr,2024-09,72.7,29
+Punjab,Bathinda,2024-08,73.3,28
+Punjab,Bathinda,2024-12,93.6,28
+Uttar Pradesh,Muzaffarnagar,2024-08,69.0,31
+Uttar Pradesh,Muzaffarnagar,2024-12,152.7,31
+Karnataka,Bengaluru,2024-04,83.6,310
+Karnataka,Bengaluru,2024-06,51.8,320
+Karnataka,Bengaluru,2024-10,77.7,367
+Karnataka,Bengaluru,2024-11,84.9,366
+Bihar,Patna,2024-05,174.5,181
+Bihar,Muzaffarpur,2024-01,275.4,93
+Bihar,Muzaffarpur,2024-05,139.1,86
+Bihar,Muzaffarpur,2024-08,58.8,84
+Bihar,Gaya,2024-08,63.0,83
+Haryana,Panchkula,2024-10,126.1,27
+Maharashtra,Aurangabad,2024-03,114.3,86
+Maharashtra,Aurangabad,2024-05,113.0,88
+Maharashtra,Aurangabad,2024-07,60.2,62
+Telangana,Hyderabad,2024-09,64.6,353
+Telangana,Hyderabad,2024-11,111.3,370
+Kerala,Thiruvananthapuram,2024-07,43.9,57
+Kerala,Thiruvananthapuram,2024-08,46.6,55
+Kerala,Thiruvananthapuram,2024-09,43.1,60
+Punjab,Ludhiana,2024-07,84.1,31
+Punjab,Ludhiana,2024-09,94.6,29
+Punjab,Amritsar,2024-07,107.4,31
+Andhra Pradesh,Visakhapatnam,2024-02,113.3,28
+Andhra Pradesh,Visakhapatnam,2024-05,88.6,31
+Maharashtra,Chandrapur,2024-02,99.5,29
+Maharashtra,Chandrapur,2024-03,123.6,45
+Maharashtra,Chandrapur,2024-10,84.2,30
+Uttar Pradesh,Lucknow,2024-04,135.1,179
+Uttar Pradesh,Lucknow,2024-11,241.1,179
+Uttar Pradesh,Varanasi,2024-09,63.6,113
+Uttar Pradesh,Kanpur,2024-11,167.6,89
+TamilNadu,Chennai,2024-01,96.4,180
+TamilNadu,Chennai,2024-05,67.6,176
+West Bengal,Kolkata,2024-09,57.8,206
+West Bengal,Haldia,2024-12,213.8,31
+Uttar Pradesh,Agra,2024-08,31.7,176
+Uttar Pradesh,Hapur,2024-01,230.7,30
+Uttar Pradesh,Hapur,2024-02,225.6,29
+Uttar Pradesh,Hapur,2024-04,113.8,24
+Uttar Pradesh,Hapur,2024-10,220.9,31
+Haryana,Manesar,2024-09,81.7,24
+Madhya Pradesh,Damoh,2024-11,122.0,29
+Haryana,Sonipat,2024-01,238.3,31
+Haryana,Sonipat,2024-02,131.9,24
+Haryana,Sonipat,2024-10,190.1,27
+Madhya Pradesh,Ratlam,2024-10,138.5,31
+Haryana,Dharuhera,2024-07,95.7,24
+Haryana,Bhiwani,2024-10,176.9,30
+Haryana,Panipat,2024-05,115.6,30
+Haryana,Panipat,2024-06,136.9,28
+Haryana,Karnal,2024-02,81.6,27
+Haryana,Karnal,2024-03,81.0,27
+Haryana,Karnal,2024-05,131.9,31
+Haryana,Karnal,2024-12,118.3,22
+Haryana,Sirsa,2024-07,91.4,30
+Haryana,Jind,2024-03,79.0,30
+Haryana,Jind,2024-05,125.8,29
+Haryana,Hisar,2024-01,167.6,29
+Haryana,Hisar,2024-03,123.8,28
+Haryana,Hisar,2024-04,146.7,29
+Haryana,Hisar,2024-06,134.2,26
+Haryana,Hisar,2024-07,65.7,28
+Gujarat,Ankleshwar,2024-11,144.1,28
+Gujarat,Gandhinagar,2024-05,72.7,29
+Gujarat,Vatva,2024-05,86.4,31
+Gujarat,Vapi,2024-04,81.6,30
+Haryana,Kaithal,2024-07,74.9,30
+Assam,Guwahati,2024-02,205.4,81
+Assam,Guwahati,2024-09,71.8,85
+Uttar Pradesh,Ghaziabad,2024-02,179.4,84
+Uttar Pradesh,Ghaziabad,2024-06,182.5,88
+Maharashtra,Mumbai,2024-05,83.6,724
+Maharashtra,Mumbai,2024-07,47.9,739
+Maharashtra,Navi Mumbai,2024-03,132.5,171
+Kerala,Eloor,2024-11,73.1,23
+Uttar Pradesh,Meerut,2024-11,268.6,87
+Karnataka,Chamarajanagar,2024-01,44.0,31
+Karnataka,Chamarajanagar,2024-02,45.7,28
+Karnataka,Chamarajanagar,2024-10,43.3,30
+Karnataka,Mysuru,2024-11,60.2,30
+Karnataka,Mysuru,2024-12,56.7,30
+Chandigarh,Chandigarh,2024-08,64.8,90
+Chandigarh,Chandigarh,2024-10,150.2,90
+Chandigarh,Chandigarh,2024-11,275.1,89
+Madhya Pradesh,Bhopal,2024-04,97.2,88
+Madhya Pradesh,Indore,2024-05,78.0,118
+Madhya Pradesh,Jabalpur,2024-07,54.2,96
+Madhya Pradesh,Katni,2024-02,124.6,19
+Madhya Pradesh,Katni,2024-05,124.9,31
+Madhya Pradesh,Katni,2024-08,48.4,31
+Karnataka,Yadgir,2024-06,36.3,24
+Karnataka,Ramanagara,2024-08,32.2,26
+Karnataka,Chikkamagaluru,2024-03,80.4,20
+Karnataka,Chikkamagaluru,2024-08,57.9,28
+Karnataka,Shivamogga,2024-08,47.0,29
+Karnataka,Vijayapura,2024-02,42.6,29
+Karnataka,Vijayapura,2024-03,47.0,31
+Madhya Pradesh,Gwalior,2024-07,80.8,92
+Madhya Pradesh,Gwalior,2024-11,244.5,90
+Kerala,Kannur,2024-02,65.6,29
+Kerala,Kollam,2024-01,123.0,23
+Bihar,Hajipur,2024-01,199.0,27
+Bihar,Hajipur,2024-02,184.6,29
+Bihar,Hajipur,2024-04,237.7,29
+Haryana,Charkhi Dadri,2024-03,117.3,31
+Haryana,Faridabad,2024-12,182.1,80
+Haryana,Gurugram,2024-07,115.7,79
+Mizoram,Aizawl,2024-02,76.3,29
+Mizoram,Aizawl,2024-04,84.6,27
+TamilNadu,Gummidipoondi,2024-07,90.5,31
+TamilNadu,Thoothukudi,2024-04,75.6,29
+TamilNadu,Thoothukudi,2024-12,54.0,31
+Karnataka,Madikeri,2024-06,39.2,30
+Maharashtra,Pune,2024-08,65.0,150
+Puducherry,Puducherry,2024-01,80.5,27
+Puducherry,Puducherry,2024-08,63.3,31
+Puducherry,Puducherry,2024-09,66.0,30
+Arunachal Pradesh,Naharlagun,2024-02,72.6,29
+Arunachal Pradesh,Naharlagun,2024-04,88.8,12
+Uttar Pradesh,Prayagraj,2024-04,89.0,87
+Uttar Pradesh,Prayagraj,2024-05,77.3,88
+Uttar Pradesh,Gorakhpur,2024-05,122.8,28
+Uttar Pradesh,Gorakhpur,2024-07,54.0,23
+Uttar Pradesh,Gorakhpur,2024-12,128.8,30
+Bihar,Bettiah,2024-01,102.0,25
+Bihar,Motihari,2024-03,106.4,25
+Uttar Pradesh,Firozabad,2024-02,62.8,52
+Uttar Pradesh,Firozabad,2024-03,54.9,57
+Uttar Pradesh,Firozabad,2024-07,47.8,45
+Bihar,Bihar Sharif,2024-01,151.1,30
+Bihar,Bihar Sharif,2024-05,86.2,19
+Bihar,Bihar Sharif,2024-09,84.2,26
+Bihar,Bihar Sharif,2024-10,107.5,28
+Bihar,Sasaram,2024-01,225.3,27
+Bihar,Sasaram,2024-05,91.9,26
+Bihar,Rajgir,2024-05,63.0,24
+Bihar,Munger,2024-02,155.4,28
+Bihar,Munger,2024-08,53.3,19
+Chhattisgarh,Bilaspur,2024-10,68.0,29
+Chhattisgarh,Bilaspur,2024-12,71.9,27
+Chhattisgarh,Bhilai,2024-09,51.1,82
+Bihar,Arrah,2024-04,111.6,22
+Bihar,Araria,2024-01,318.1,28
+Bihar,Araria,2024-09,72.9,16
+Bihar,Bhagalpur,2024-03,164.0,53
+Bihar,Bhagalpur,2024-07,94.5,58
+Bihar,Aurangabad,2024-01,171.5,25
+Bihar,Aurangabad,2024-08,83.9,19
+Bihar,Chhapra,2024-02,235.1,28
+Bihar,Katihar,2024-11,169.8,24
+Bihar,Kishanganj,2024-03,133.1,30
+Bihar,Kishanganj,2024-11,173.5,30
+Bihar,Purnia,2024-06,63.9,12
+Bihar,Purnia,2024-11,174.9,29
+Bihar,Manguraha,2024-06,64.2,9
+Bihar,Manguraha,2024-11,126.8,29
+Bihar,Samastipur,2024-06,104.7,22
+Uttar Pradesh,Jhansi,2024-02,87.5,24
+Uttar Pradesh,Jhansi,2024-11,118.5,30
+Uttar Pradesh,Baghpat,2024-02,129.1,29
+Uttar Pradesh,Baghpat,2024-08,61.9,31
+Uttar Pradesh,Baghpat,2024-09,85.2,30
+Uttar Pradesh,Baghpat,2024-11,258.2,30
+Himachal Pradesh,Baddi,2024-09,101.7,30
+Himachal Pradesh,Baddi,2024-10,165.6,31
+Tripura,Agartala,2024-02,249.7,25
+Tripura,Agartala,2024-08,45.3,23
+Tripura,Agartala,2024-12,253.7,31
+Uttarakhand,Dehradun,2024-10,92.3,31
+Uttarakhand,Dehradun,2024-12,107.1,29
+Uttar Pradesh,Bareilly,2024-07,23.0,54
+Uttar Pradesh,Khurja,2024-05,116.9,27
+Uttar Pradesh,Khurja,2024-08,91.6,28
+TamilNadu,Coimbatore,2024-08,39.5,25
+TamilNadu,Ramanathapuram,2024-07,29.7,21
+Andhra Pradesh,Anantapur,2024-01,77.7,28
+Andhra Pradesh,Anantapur,2024-02,71.3,21
+Andhra Pradesh,Anantapur,2024-04,79.8,23
+Chhattisgarh,Raipur,2024-05,72.3,99
+Chhattisgarh,Korba,2024-08,36.9,46
+Chhattisgarh,Korba,2024-10,76.4,59
+Assam,Sivasagar,2024-02,48.2,28
+Assam,Sivasagar,2024-07,51.1,31
+Gujarat,Surat,2024-05,59.8,20
+Andhra Pradesh,Chittoor,2024-04,83.8,25
+Andhra Pradesh,Chittoor,2024-07,59.2,18
+Andhra Pradesh,Tirupati,2024-06,85.5,11
+Andhra Pradesh,Tirupati,2024-07,76.1,14
+Assam,Nalbari,2024-01,306.4,31
+Assam,Byrnihat,2024-02,350.2,29
+Assam,Byrnihat,2024-12,359.6,22
+Odisha,Baripada,2024-06,97.6,29
+Odisha,Baripada,2024-11,119.4,30
+Odisha,Keonjhar,2024-02,120.7,27
+Odisha,Rourkela,2024-02,142.2,80
+Odisha,Rourkela,2024-04,154.2,66
+Odisha,Tensa,2024-05,104.4,31
+Karnataka,Hubballi,2024-02,73.9,27
+Karnataka,Hubballi,2024-06,57.7,30
+Karnataka,Hubballi,2024-07,52.1,31
+Karnataka,Tumakuru,2024-02,64.8,25
+Karnataka,Tumakuru,2024-10,54.6,29
+Assam,Silchar,2024-01,52.6,30
+Andhra Pradesh,Vijayawada,2024-11,70.0,117
+Chhattisgarh,Kunjemura,2024-11,127.1,29
+Chhattisgarh,Milupara,2024-11,91.4,16
+Chhattisgarh,Tumidih,2024-02,72.6,16
+Chhattisgarh,Tumidih,2024-09,85.4,10
+Andhra Pradesh,Kadapa,2024-03,73.5,31
+Andhra Pradesh,Kadapa,2024-07,50.1,20
+Rajasthan,Bharatpur,2024-04,181.0,30
+Rajasthan,Bharatpur,2024-06,127.9,30
+Rajasthan,Bikaner,2024-05,175.3,31
+Assam,Nagaon,2024-02,230.1,26
+Assam,Nagaon,2024-05,87.0,29
+Assam,Nagaon,2024-12,132.6,31
+Rajasthan,Banswara,2024-04,138.4,28
+Rajasthan,Chittorgarh,2024-02,131.7,29
+Rajasthan,Chittorgarh,2024-04,123.6,28
+Rajasthan,Chittorgarh,2024-05,132.4,30
+Rajasthan,Dausa,2024-05,170.1,30
+Rajasthan,Dausa,2024-06,136.7,30
+Rajasthan,Dausa,2024-10,111.5,30
+Rajasthan,Barmer,2024-02,108.6,28
+Rajasthan,Barmer,2024-09,73.2,30
+Rajasthan,Hanumangarh,2024-03,194.8,31
+Rajasthan,Hanumangarh,2024-04,162.1,30
+Rajasthan,Hanumangarh,2024-10,177.1,29
+Rajasthan,Rajsamand,2024-10,87.7,29
+Rajasthan,Pratapgarh,2024-05,113.2,31
+Rajasthan,Sikar,2024-11,232.9,29
+Rajasthan,Jhalawar,2024-02,118.7,29
+Rajasthan,Jhalawar,2024-03,106.6,31
+Rajasthan,Jhalawar,2024-07,70.7,29
+Maharashtra,Pimpri-Chinchwad,2024-09,48.0,114
+Maharashtra,Kolhapur,2024-10,108.3,61
+Rajasthan,Bhilwara,2024-07,54.8,31
+Rajasthan,Bundi,2024-07,72.4,31
+Rajasthan,Jaisalmer,2024-07,94.3,31
+Rajasthan,Jaisalmer,2024-09,84.1,30
+Rajasthan,Baran,2024-08,42.4,31
+Rajasthan,Baran,2024-12,156.0,31
+Rajasthan,Nagaur,2024-04,143.3,30
+Rajasthan,Nagaur,2024-05,143.3,31
+Rajasthan,Nagaur,2024-12,203.3,30
+Maharashtra,Latur,2024-02,105.5,22
+Maharashtra,Latur,2024-12,109.8,31
+Maharashtra,Mahad,2024-04,101.0,28
+Maharashtra,Mahad,2024-10,87.4,31
+Maharashtra,Mahad,2024-12,127.6,30
+Maharashtra,Akola,2024-10,86.0,31
+Maharashtra,Ahmednagar,2024-05,103.4,25
+Maharashtra,Ahmednagar,2024-10,105.4,23
+Maharashtra,Amravati,2024-04,89.2,30
+Maharashtra,Jalgaon,2024-01,121.2,29
+Maharashtra,Jalgaon,2024-08,58.6,29
+Maharashtra,Parbhani,2024-02,109.4,29
+Maharashtra,Parbhani,2024-03,184.3,28
+Maharashtra,Nanded,2024-05,115.5,29
+Maharashtra,Nanded,2024-08,42.3,19
+Maharashtra,Nanded,2024-12,124.7,31
+Maharashtra,Thane,2024-10,104.1,62
+Maharashtra,Thane,2024-12,122.0,62
+Maharashtra,Dhule,2024-09,50.3,30
+Maharashtra,Dhule,2024-10,88.0,31
+Maharashtra,Malegaon,2024-12,124.9,29
+Maharashtra,Mira-Bhayandar,2024-03,143.0,31
+Maharashtra,Mira-Bhayandar,2024-04,123.6,28
+Maharashtra,Boisar,2024-04,110.4,26
+Maharashtra,Boisar,2024-10,105.2,29
+Maharashtra,Ulhasnagar,2024-07,59.9,31
+Maharashtra,Ulhasnagar,2024-11,176.8,30
+Rajasthan,Dungarpur,2024-02,111.8,29
+Rajasthan,Dungarpur,2024-03,97.0,31
+Rajasthan,Jalore,2024-01,173.1,31
+Rajasthan,Jalore,2024-03,118.3,31
+Odisha,Balasore,2024-08,86.2,30
+Odisha,Barbil,2024-04,195.6,30
+Odisha,Angul,2024-04,182.3,30
+Odisha,Bhubaneswar,2024-05,83.2,59
+Odisha,Cuttack,2024-01,280.1,31
+Odisha,Cuttack,2024-04,121.1,30
+Odisha,Cuttack,2024-05,63.2,29
+Odisha,Byasanagar,2024-02,151.3,29
+Odisha,Byasanagar,2024-12,167.7,30
+West Bengal,Barrackpore,2024-01,255.8,20
+West Bengal,Barrackpore,2024-07,46.7,30
+West Bengal,Barrackpore,2024-11,212.6,30
+West Bengal,Durgapur,2024-08,105.4,28
+West Bengal,Durgapur,2024-10,164.7,56
+Delhi,Delhi,2024-12,311.6,1170
+Uttar Pradesh,Noida,2024-07,80.1,121
+Uttar Pradesh,Noida,2024-10,218.8,123
+Rajasthan,Jaipur,2024-09,88.0,177
+Rajasthan,Jodhpur,2024-03,122.6,151
+Rajasthan,Alwar,2024-04,87.9,30
+Rajasthan,Alwar,2024-09,56.1,30
+Rajasthan,Alwar,2024-12,106.3,31
+Rajasthan,Bhiwadi,2024-04,171.8,56
+Rajasthan,Bhiwadi,2024-08,77.8,60
+Rajasthan,Kota,2024-02,163.2,87
+Rajasthan,Kota,2024-03,137.1,92
+Rajasthan,Pali,2024-07,92.0,31
+Rajasthan,Udaipur,2024-09,79.0,30
+Rajasthan,Udaipur,2024-11,141.6,30
+Unknown,Unknown,2024-04,101.1,773
+Unknown,Unknown,2024-05,85.5,880
+Madhya Pradesh,Singrauli,2024-03,142.4,28
+Madhya Pradesh,Pithampur,2024-07,65.1,31
+Madhya Pradesh,Pithampur,2024-08,67.5,29
+Madhya Pradesh,Mandideep,2024-03,148.2,28
+Madhya Pradesh,Mandideep,2024-04,120.3,29
+Andhra Pradesh,Amaravati,2024-02,61.7,29
+Andhra Pradesh,Amaravati,2024-05,58.5,31
+Odisha,Brajrajnagar,2024-11,94.6,25
+West Bengal,Asansol,2024-01,233.1,31
+West Bengal,Asansol,2024-04,209.0,30
+West Bengal,Asansol,2024-07,66.5,105
+West Bengal,Siliguri,2024-10,57.0,31
+Madhya Pradesh,Satna,2024-03,81.4,29
+Punjab,Patiala,2024-04,91.9,29
+Punjab,Jalandhar,2024-03,86.1,30
+Punjab,Jalandhar,2024-07,77.5,31
+Punjab,Jalandhar,2024-09,65.8,30
+Haryana,Rohtak,2024-05,177.1,31
+Punjab,Rupnagar,2024-07,101.6,28
+Punjab,Rupnagar,2024-09,90.8,28
+Punjab,Rupnagar,2024-12,126.4,31
+Uttar Pradesh,Greater Noida,2024-01,329.6,55
+Uttar Pradesh,Greater Noida,2024-07,132.4,61
+Uttar Pradesh,Greater Noida,2024-09,132.2,60
+Uttar Pradesh,Bulandshahr,2024-06,132.6,30
+Punjab,Bathinda,2024-02,98.3,28
+Punjab,Bathinda,2024-05,123.2,31
+Uttar Pradesh,Muzaffarnagar,2024-03,179.6,26
+Karnataka,Bengaluru,2024-12,76.2,362
+Karnataka,Chikkaballapur,2024-02,80.8,28
+Karnataka,Chikkaballapur,2024-09,34.5,29
+Bihar,Patna,2024-01,302.5,172
+Bihar,Patna,2024-02,207.9,170
+Bihar,Patna,2024-11,261.2,179
+Bihar,Gaya,2024-01,220.8,93
+Bihar,Gaya,2024-04,98.2,87
+Bihar,Gaya,2024-06,87.5,85
+Bihar,Gaya,2024-12,137.3,87
+Maharashtra,Aurangabad,2024-02,120.7,86
+Maharashtra,Aurangabad,2024-04,106.4,82
+Maharashtra,Aurangabad,2024-08,61.0,62
+Maharashtra,Aurangabad,2024-10,87.2,89
+Maharashtra,Aurangabad,2024-11,122.0,89
+Telangana,Hyderabad,2024-06,61.4,288
+Kerala,Thiruvananthapuram,2024-04,63.6,60
+Kerala,Thiruvananthapuram,2024-10,51.0,59
+Kerala,Thiruvananthapuram,2024-11,69.1,60
+Punjab,Mandi Gobindgarh,2024-05,201.7,30
+Punjab,Amritsar,2024-02,114.7,27
+Punjab,Amritsar,2024-03,95.4,27
+Andhra Pradesh,Visakhapatnam,2024-07,90.5,31
+Haryana,Faridabad,2024-02,198.8,98
+Maharashtra,Chandrapur,2024-04,106.2,46
+Maharashtra,Chandrapur,2024-06,68.2,44
+Uttar Pradesh,Lucknow,2024-05,148.3,185
+TamilNadu,Chennai,2024-06,68.5,165
+West Bengal,Kolkata,2024-03,92.8,200
+West Bengal,Kolkata,2024-07,43.1,215
+West Bengal,Kolkata,2024-12,160.7,216
+West Bengal,Haldia,2024-05,42.3,30
+West Bengal,Haldia,2024-09,47.7,30
+West Bengal,Haldia,2024-10,71.5,31
+Maharashtra,Solapur,2024-06,67.0,83
+Maharashtra,Nagpur,2024-03,112.9,121
+Maharashtra,Nashik,2024-11,181.1,113
+Uttar Pradesh,Agra,2024-01,122.1,179
+Uttar Pradesh,Agra,2024-05,83.0,174
+Uttar Pradesh,Agra,2024-06,62.8,162
+Uttar Pradesh,Agra,2024-11,143.2,177
+Gujarat,Ahmedabad,2024-03,141.5,214
+Gujarat,Ahmedabad,2024-11,161.2,234
+Uttar Pradesh,Hapur,2024-07,67.8,30
+Uttar Pradesh,Hapur,2024-12,114.2,29
+Haryana,Sonipat,2024-09,64.9,21
+Haryana,Sonipat,2024-11,315.2,25
+Haryana,Sonipat,2024-12,155.6,16
+Madhya Pradesh,Ratlam,2024-01,126.4,31
+Haryana,Kurukshetra,2024-02,113.2,28
+Haryana,Kurukshetra,2024-03,84.7,30
+Haryana,Kurukshetra,2024-06,143.7,30
+Haryana,Dharuhera,2024-06,154.3,23
+Haryana,Bahadurgarh,2024-03,151.0,29
+Haryana,Bahadurgarh,2024-05,200.3,28
+Haryana,Bahadurgarh,2024-11,329.0,29
+Haryana,Yamuna Nagar,2024-01,151.1,30
+Haryana,Yamuna Nagar,2024-12,134.6,17
+Haryana,Bhiwani,2024-05,166.8,31
+Haryana,Bhiwani,2024-06,106.0,28
+Haryana,Panipat,2024-01,143.2,24
+Haryana,Panipat,2024-10,154.2,31
+Haryana,Palwal,2024-07,64.5,31
+Haryana,Sirsa,2024-02,93.7,26
+Haryana,Sirsa,2024-10,142.1,17
+Haryana,Narnaul,2024-05,131.3,29
+Haryana,Narnaul,2024-08,72.3,31
+Haryana,Jind,2024-07,101.9,27
+Haryana,Hisar,2024-12,193.1,20
+Haryana,Ballabgarh,2024-10,167.5,29
+Gujarat,Ankleshwar,2024-08,57.9,29
+Gujarat,Ankleshwar,2024-10,96.9,27
+Gujarat,Gandhinagar,2024-09,60.8,55
+Gujarat,Gandhinagar,2024-11,132.2,74
+Gujarat,Vatva,2024-01,98.3,28
+Gujarat,Vatva,2024-06,73.8,28
+Gujarat,Vatva,2024-12,113.8,31
+Gujarat,Vapi,2024-02,236.8,29
+Gujarat,Vapi,2024-09,48.1,30
+Uttar Pradesh,Ghaziabad,2024-01,311.6,89
+Uttar Pradesh,Ghaziabad,2024-04,164.9,89
+Maharashtra,Mumbai,2024-02,119.3,709
+Maharashtra,Mumbai,2024-03,100.2,735
+Maharashtra,Mumbai,2024-09,48.7,661
+Maharashtra,Mumbai,2024-11,152.1,745
+Maharashtra,Navi Mumbai,2024-08,52.0,168
+Maharashtra,Navi Mumbai,2024-11,139.3,173
+Kerala,Eloor,2024-07,68.7,29
+Uttar Pradesh,Meerut,2024-06,152.2,86
+Maharashtra,Kalyan,2024-02,122.5,27
+Maharashtra,Kalyan,2024-10,75.6,31
+Karnataka,Chamarajanagar,2024-06,45.8,30
+Karnataka,Mysuru,2024-09,48.1,29
+Chandigarh,Chandigarh,2024-04,118.2,87
+Chandigarh,Chandigarh,2024-07,78.0,91
+Meghalaya,Shillong,2024-04,133.4,25
+Meghalaya,Shillong,2024-08,37.1,21
+Madhya Pradesh,Bhopal,2024-01,176.4,87
+Madhya Pradesh,Bhopal,2024-05,109.3,90
+Madhya Pradesh,Bhopal,2024-12,179.9,89
+Madhya Pradesh,Indore,2024-02,89.4,109
+Madhya Pradesh,Indore,2024-09,65.5,123
+Madhya Pradesh,Jabalpur,2024-02,111.1,115
+Madhya Pradesh,Katni,2024-03,116.1,31
+Karnataka,Yadgir,2024-12,79.5,28
+Karnataka,Ramanagara,2024-04,56.1,27
+Karnataka,Ramanagara,2024-05,49.6,29
+Karnataka,Bagalkot,2024-06,45.7,25
+Karnataka,Chikkamagaluru,2024-05,70.6,24
+Karnataka,Shivamogga,2024-07,45.0,30
+Madhya Pradesh,Sagar,2024-01,124.7,57
+Madhya Pradesh,Sagar,2024-04,90.5,53
+Kerala,Kannur,2024-04,72.5,30
+Kerala,Kollam,2024-03,111.9,28
+Haryana,Charkhi Dadri,2024-02,131.1,29
+Haryana,Charkhi Dadri,2024-09,83.0,30
+TamilNadu,Gummidipoondi,2024-02,126.7,29
+Kerala,Thrissur,2024-07,49.2,16
+Kerala,Thrissur,2024-12,55.1,29
+Karnataka,Madikeri,2024-01,47.1,31
+Karnataka,Madikeri,2024-05,53.3,31
+Karnataka,Madikeri,2024-08,32.5,31
+Karnataka,Madikeri,2024-09,37.1,29
+Maharashtra,Pune,2024-02,116.0,140
+Maharashtra,Pune,2024-06,72.1,152
+Maharashtra,Pune,2024-07,67.6,194
+Karnataka,Mangalore,2024-01,77.1,28
+Karnataka,Mangalore,2024-03,76.2,30
+Karnataka,Mangalore,2024-09,40.4,30
+Puducherry,Puducherry,2024-12,64.9,29
+Arunachal Pradesh,Naharlagun,2024-03,77.2,26
+Gujarat,Gandhinagar,2024-02,101.4,74
+Uttar Pradesh,Prayagraj,2024-01,130.0,91
+Uttar Pradesh,Prayagraj,2024-12,105.7,92
+Uttar Pradesh,Gorakhpur,2024-01,129.2,29
+Bihar,Motihari,2024-06,75.9,28
+Bihar,Motihari,2024-12,182.3,31
+Uttar Pradesh,Firozabad,2024-01,111.7,54
+Bihar,Bihar Sharif,2024-02,102.1,27
+Bihar,Bihar Sharif,2024-08,78.8,28
+Uttar Pradesh,Vrindavan,2024-07,84.0,27
+Uttar Pradesh,Vrindavan,2024-12,146.1,30
+Bihar,Sasaram,2024-03,117.2,30
+Bihar,Sasaram,2024-08,44.6,27
+Bihar,Sasaram,2024-09,43.8,27
+Bihar,Sasaram,2024-11,180.0,30
+Bihar,Rajgir,2024-06,108.2,21
+Bihar,Rajgir,2024-09,71.4,25
+Bihar,Rajgir,2024-12,155.6,30
+Bihar,Munger,2024-05,112.1,25
+Bihar,Munger,2024-07,163.6,27
+Bihar,Munger,2024-10,97.9,25
+Chhattisgarh,Bilaspur,2024-03,52.5,29
+Chhattisgarh,Bilaspur,2024-05,58.7,31
+Chhattisgarh,Bilaspur,2024-07,55.8,26
+Chhattisgarh,Bilaspur,2024-09,47.9,28
+Chhattisgarh,Bilaspur,2024-11,90.6,29
+Chhattisgarh,Bhilai,2024-11,116.8,90
+Uttar Pradesh,Moradabad,2024-07,51.8,177
+Uttar Pradesh,Moradabad,2024-08,45.6,183
+Uttar Pradesh,Moradabad,2024-12,105.2,184
+Bihar,Arrah,2024-01,320.7,28
+Bihar,Araria,2024-04,122.4,29
+Bihar,Araria,2024-11,210.3,30
+Bihar,Araria,2024-12,196.7,26
+Bihar,Bhagalpur,2024-10,128.6,54
+Bihar,Aurangabad,2024-02,159.3,21
+Bihar,Aurangabad,2024-09,77.5,25
+Bihar,Katihar,2024-09,99.1,20
+Bihar,Kishanganj,2024-07,70.6,15
+Bihar,Kishanganj,2024-12,153.4,23
+Bihar,Purnia,2024-03,110.4,28
+Bihar,Purnia,2024-04,130.9,22
+Bihar,Purnia,2024-05,90.1,20
+Bihar,Purnia,2024-08,66.1,19
+Bihar,Manguraha,2024-09,71.7,19
+Bihar,Saharsa,2024-05,86.4,30
+Bihar,Saharsa,2024-07,57.2,21
+Bihar,Samastipur,2024-10,104.0,27
+Bihar,Siwan,2024-01,181.0,28
+Bihar,Siwan,2024-02,174.8,25
+Bihar,Siwan,2024-08,158.7,15
+Bihar,Siwan,2024-11,178.7,27
+Himachal Pradesh,Baddi,2024-12,164.5,31
+Uttar Pradesh,Bareilly,2024-02,78.6,51
+Uttar Pradesh,Bareilly,2024-04,73.7,58
+Uttar Pradesh,Khurja,2024-01,100.9,31
+Uttar Pradesh,Khurja,2024-03,79.1,31
+Uttar Pradesh,Khurja,2024-06,160.3,21
+Uttar Pradesh,Khurja,2024-07,106.7,29
+TamilNadu,Thanjavur,2024-11,44.0,27
+TamilNadu,Ramanathapuram,2024-08,26.2,19
+TamilNadu,Ramanathapuram,2024-12,52.5,25
+Andhra Pradesh,Anantapur,2024-03,87.3,21
+Andhra Pradesh,Anantapur,2024-06,69.0,25
+Andhra Pradesh,Anantapur,2024-10,67.4,22
+Chhattisgarh,Raipur,2024-12,92.5,119
+Chhattisgarh,Korba,2024-01,79.9,54
+Chhattisgarh,Korba,2024-05,75.8,55
+Chhattisgarh,Korba,2024-06,71.7,28
+Assam,Sivasagar,2024-01,61.7,31
+Assam,Sivasagar,2024-08,56.2,30
+Gujarat,Surat,2024-06,72.4,10
+Andhra Pradesh,Chittoor,2024-01,97.6,26
+Andhra Pradesh,Chittoor,2024-06,57.2,16
+Assam,Nalbari,2024-12,189.0,23
+Assam,Byrnihat,2024-04,263.9,26
+Odisha,Rairangpur,2024-01,179.7,30
+Odisha,Rairangpur,2024-02,111.0,28
+Odisha,Rairangpur,2024-03,96.9,31
+Odisha,Rairangpur,2024-09,47.6,29
+Odisha,Bileipada,2024-06,123.5,26
+Odisha,Bileipada,2024-09,78.2,28
+Odisha,Nayagarh,2024-04,203.6,20
+Odisha,Nayagarh,2024-06,68.2,21
+Odisha,Rourkela,2024-06,101.3,71
+Odisha,Rourkela,2024-11,156.2,79
+Odisha,Rourkela,2024-12,147.0,85
+Odisha,Tensa,2024-02,94.8,25
+Odisha,Tensa,2024-10,89.4,30
+Karnataka,Kalaburagi,2024-07,38.7,29
+Karnataka,Hubballi,2024-09,39.7,30
+Karnataka,Hubballi,2024-12,55.6,24
+Karnataka,Tumakuru,2024-03,45.6,24
+Andhra Pradesh,Vijayawada,2024-02,79.4,108
+Chhattisgarh,Chhal,2024-08,50.1,31
+Chhattisgarh,Chhal,2024-11,112.3,30
+Chhattisgarh,Kunjemura,2024-04,137.3,28
+Chhattisgarh,Kunjemura,2024-08,45.2,27
+Chhattisgarh,Milupara,2024-01,70.9,29
+Chhattisgarh,Milupara,2024-03,53.8,13
+Chhattisgarh,Milupara,2024-04,78.1,12
+Chhattisgarh,Milupara,2024-06,61.4,8
+Chhattisgarh,Tumidih,2024-03,87.7,19
+Chhattisgarh,Tumidih,2024-05,106.8,18
+Chhattisgarh,Tumidih,2024-10,67.9,8
+Andhra Pradesh,Kadapa,2024-05,72.1,15
+Rajasthan,Bharatpur,2024-11,186.2,30
+Rajasthan,Bikaner,2024-07,97.4,31
+Rajasthan,Dholpur,2024-01,280.4,31
+Rajasthan,Tonk,2024-07,71.0,27
+Rajasthan,Tonk,2024-08,58.3,28
+Rajasthan,Tonk,2024-10,164.0,28
+Uttarakhand,Rishikesh,2024-03,79.3,31
+Uttarakhand,Rishikesh,2024-05,135.0,30
+Assam,Nagaon,2024-06,100.3,25
+Assam,Nagaon,2024-09,77.4,29
+Assam,Nagaon,2024-10,77.3,29
+Jharkhand,Dhanbad,2024-12,174.6,29
+Rajasthan,Banswara,2024-09,78.6,30
+Rajasthan,Banswara,2024-11,142.3,30
+Rajasthan,Chittorgarh,2024-07,99.6,31
+Rajasthan,Barmer,2024-06,111.3,29
+Rajasthan,Barmer,2024-10,97.6,31
+Rajasthan,Hanumangarh,2024-07,94.2,16
+Rajasthan,Jhunjhunu,2024-03,121.5,31
+Rajasthan,Jhunjhunu,2024-08,67.2,31
+Rajasthan,Rajsamand,2024-03,80.9,31
+Rajasthan,Rajsamand,2024-04,79.6,27
+Rajasthan,Rajsamand,2024-05,83.8,29
+Rajasthan,Rajsamand,2024-07,77.3,29
+Rajasthan,Rajsamand,2024-11,117.1,30
+Rajasthan,Sri Ganganagar,2024-01,344.9,31
+Rajasthan,Sri Ganganagar,2024-07,167.8,29
+Rajasthan,Sri Ganganagar,2024-09,159.2,27
+Rajasthan,Pratapgarh,2024-02,115.7,26
+Rajasthan,Sikar,2024-07,68.9,28
+Rajasthan,Sikar,2024-08,51.7,30
+Rajasthan,Karauli,2024-04,114.2,30
+Maharashtra,Pimpri-Chinchwad,2024-02,185.7,85
+Maharashtra,Pimpri-Chinchwad,2024-07,39.7,89
+Maharashtra,Kolhapur,2024-03,138.7,55
+Maharashtra,Kolhapur,2024-05,99.3,45
+Rajasthan,Bhilwara,2024-06,62.9,26
+Rajasthan,Bundi,2024-02,150.8,27
+Rajasthan,Bundi,2024-04,125.8,30
+Rajasthan,Bundi,2024-09,70.6,30
+Rajasthan,Bundi,2024-10,117.5,31
+Maharashtra,Sangli,2024-01,137.3,30
+Maharashtra,Sangli,2024-03,106.8,30
+Maharashtra,Sangli,2024-04,113.2,30
+Maharashtra,Sangli,2024-08,36.7,28
+Rajasthan,Baran,2024-01,138.7,31
+Rajasthan,Baran,2024-02,132.6,29
+Rajasthan,Baran,2024-07,66.5,27
+Rajasthan,Nagaur,2024-02,132.9,29
+Maharashtra,Latur,2024-05,91.1,31
+Maharashtra,Latur,2024-08,38.2,31
+Maharashtra,Latur,2024-09,45.4,30
+Maharashtra,Mahad,2024-05,102.4,26
+Maharashtra,Akola,2024-11,136.1,30
+Maharashtra,Ahmednagar,2024-02,129.8,24
+Maharashtra,Ahmednagar,2024-11,163.0,28
+Maharashtra,Jalgaon,2024-04,125.6,30
+Maharashtra,Jalna,2024-06,65.6,30
+Maharashtra,Jalna,2024-07,72.5,30
+Maharashtra,Parbhani,2024-04,120.1,28
+Maharashtra,Parbhani,2024-08,56.3,26
+Maharashtra,Nanded,2024-06,64.9,28
+Maharashtra,Badlapur,2024-03,133.0,30
+Maharashtra,Badlapur,2024-05,88.6,29
+Maharashtra,Dhule,2024-07,55.5,31
+Maharashtra,Dhule,2024-11,195.3,30
+Maharashtra,Dhule,2024-12,98.2,31
+Maharashtra,Malegaon,2024-03,138.3,31
+Maharashtra,Malegaon,2024-04,123.3,30
+Maharashtra,Malegaon,2024-08,57.0,31
+Maharashtra,Mira-Bhayandar,2024-05,92.7,31
+Maharashtra,Mira-Bhayandar,2024-10,89.5,30
+Maharashtra,Virar,2024-01,126.8,28
+Maharashtra,Ulhasnagar,2024-04,134.3,30
+Maharashtra,Ulhasnagar,2024-05,104.2,31
+Andhra Pradesh,Vijayawada,2024-04,64.6,99
+Rajasthan,Dungarpur,2024-08,81.7,27
+Rajasthan,Dungarpur,2024-09,63.3,26
+Odisha,Balasore,2024-09,81.1,30
+Odisha,Angul,2024-05,122.1,30
+Odisha,Bhubaneswar,2024-09,54.8,58
+Odisha,Cuttack,2024-07,50.3,31
+Odisha,Byasanagar,2024-01,243.2,31
+West Bengal,Barrackpore,2024-05,66.8,30
+West Bengal,Durgapur,2024-07,87.3,30
+TamilNadu,Perundurai,2024-10,54.6,9
+Rajasthan,Churu,2024-03,130.5,31
+Delhi,Delhi,2024-05,230.3,1170
+Delhi,Delhi,2024-06,180.4,1091
+Delhi,Delhi,2024-10,249.2,1137
+Rajasthan,Jaipur,2024-01,245.4,183
+Rajasthan,Jaipur,2024-02,149.9,168
+Rajasthan,Ajmer,2024-07,91.4,31
+Rajasthan,Ajmer,2024-09,59.1,29
+Rajasthan,Pali,2024-01,210.5,30
+Rajasthan,Pali,2024-05,136.5,31
+Unknown,Unknown,2024-01,112.6,1028
+Unknown,Unknown,2024-07,58.6,816
+Madhya Pradesh,Singrauli,2024-07,113.4,26
+Madhya Pradesh,Pithampur,2024-03,121.2,31
+Madhya Pradesh,Pithampur,2024-06,91.1,30
+Madhya Pradesh,Mandideep,2024-06,98.4,28
+Madhya Pradesh,Mandideep,2024-08,44.1,31
+Madhya Pradesh,Dewas,2024-04,93.1,28
+Madhya Pradesh,Dewas,2024-05,58.8,27
+Madhya Pradesh,Dewas,2024-07,51.8,25
+Andhra Pradesh,Amaravati,2024-08,50.1,29
+Odisha,Talcher,2024-04,194.8,29
+Odisha,Brajrajnagar,2024-01,105.0,30
+Odisha,Brajrajnagar,2024-08,47.8,23
+West Bengal,Asansol,2024-05,161.7,31
+West Bengal,Siliguri,2024-01,147.5,26
+West Bengal,Siliguri,2024-03,126.4,31
+Madhya Pradesh,Satna,2024-08,73.0,31
+Madhya Pradesh,Satna,2024-11,74.2,26
+Punjab,Jalandhar,2024-08,58.0,31
+Haryana,Gurugram,2024-02,206.5,88
+Haryana,Gurugram,2024-06,188.0,109
+Haryana,Rohtak,2024-01,229.1,31
+Haryana,Rohtak,2024-04,147.1,30
+Haryana,Rohtak,2024-06,262.2,30
+Punjab,Rupnagar,2024-02,120.7,26
+Punjab,Rupnagar,2024-05,170.7,29
+Punjab,Rupnagar,2024-11,159.8,29
+Uttar Pradesh,Greater Noida,2024-03,181.5,59
+Uttar Pradesh,Greater Noida,2024-05,274.3,61
+Uttar Pradesh,Greater Noida,2024-06,213.7,59
+Uttar Pradesh,Greater Noida,2024-12,228.8,59
+Uttar Pradesh,Bulandshahr,2024-05,146.5,31
+Punjab,Bathinda,2024-11,142.5,27
+Uttar Pradesh,Muzaffarnagar,2024-02,230.3,27
+Karnataka,Bengaluru,2024-07,51.4,366
+Karnataka,Chikkaballapur,2024-04,70.0,30
+Karnataka,Chikkaballapur,2024-06,32.9,30
+Karnataka,Chikkaballapur,2024-10,53.0,31
+Bihar,Muzaffarpur,2024-03,153.4,87
+Bihar,Muzaffarpur,2024-06,128.5,78
+Bihar,Muzaffarpur,2024-09,75.4,78
+Bihar,Gaya,2024-07,65.5,64
+Haryana,Panchkula,2024-03,57.4,23
+Haryana,Panchkula,2024-12,112.8,24
+Telangana,Hyderabad,2024-05,78.2,284
+Punjab,Mandi Gobindgarh,2024-02,155.9,28
+Punjab,Amritsar,2024-01,146.0,31
+Punjab,Amritsar,2024-08,79.0,31
+Punjab,Amritsar,2024-11,252.4,30
+Andhra Pradesh,Visakhapatnam,2024-11,134.6,30
+Haryana,Faridabad,2024-10,155.4,123
+Maharashtra,Chandrapur,2024-01,177.9,30
+Uttar Pradesh,Lucknow,2024-06,116.3,179
+Uttar Pradesh,Lucknow,2024-07,68.2,184
+Uttar Pradesh,Varanasi,2024-04,45.5,116
+TamilNadu,Chennai,2024-02,80.0,162
+TamilNadu,Chennai,2024-03,74.8,176
+West Bengal,Haldia,2024-08,43.5,28
+Maharashtra,Solapur,2024-02,134.4,87
+Maharashtra,Solapur,2024-04,119.7,86
+Maharashtra,Solapur,2024-08,59.0,89
+Maharashtra,Nagpur,2024-02,124.7,115
+Maharashtra,Nagpur,2024-06,67.5,103
+Maharashtra,Nashik,2024-05,88.0,119
+Maharashtra,Nashik,2024-12,125.1,120
+Gujarat,Ahmedabad,2024-12,139.1,239
+Uttar Pradesh,Hapur,2024-05,134.7,30
+Uttar Pradesh,Hapur,2024-08,52.0,31
+Haryana,Manesar,2024-04,103.1,29
+Haryana,Manesar,2024-05,141.3,31
+Haryana,Manesar,2024-08,73.4,27
+Madhya Pradesh,Damoh,2024-12,141.2,27
+Madhya Pradesh,Ratlam,2024-12,148.6,31
+Haryana,Bhiwani,2024-01,170.4,31
+Haryana,Bhiwani,2024-04,137.8,30
+Haryana,Bhiwani,2024-07,68.9,30
+Haryana,Palwal,2024-03,103.5,31
+Haryana,Sirsa,2024-03,96.1,30
+Haryana,Narnaul,2024-02,83.1,28
+Haryana,Narnaul,2024-04,79.1,29
+Haryana,Fatehabad,2024-01,151.7,26
+Haryana,Fatehabad,2024-07,101.2,26
+Haryana,Fatehabad,2024-09,60.6,22
+Haryana,Jind,2024-02,110.8,28
+Haryana,Jind,2024-08,104.7,29
+Gujarat,Ankleshwar,2024-01,127.4,30
+Gujarat,Ankleshwar,2024-09,71.2,28
+Gujarat,Vapi,2024-08,52.9,24
+Assam,Guwahati,2024-12,179.0,88
+Uttar Pradesh,Ghaziabad,2024-09,116.5,86
+Uttar Pradesh,Ghaziabad,2024-12,225.3,92
+TamilNadu,Coimbatore,2024-12,76.8,53
+Maharashtra,Navi Mumbai,2024-01,146.5,176
+Uttar Pradesh,Meerut,2024-10,200.7,92
+Karnataka,Chamarajanagar,2024-04,46.1,30
+Karnataka,Chamarajanagar,2024-09,43.2,30
+Karnataka,Mysuru,2024-06,47.0,30
+Karnataka,Mysuru,2024-07,43.5,31
+Chandigarh,Chandigarh,2024-01,303.4,90
+Chandigarh,Chandigarh,2024-09,85.0,88
+Meghalaya,Shillong,2024-03,121.0,30
+Meghalaya,Shillong,2024-12,68.3,10
+Madhya Pradesh,Indore,2024-01,124.5,115
+Madhya Pradesh,Indore,2024-04,83.8,114
+Madhya Pradesh,Indore,2024-07,55.9,100
+Madhya Pradesh,Jabalpur,2024-08,62.0,107
+Madhya Pradesh,Katni,2024-04,118.8,30
+Madhya Pradesh,Katni,2024-07,46.4,31
+Madhya Pradesh,Katni,2024-11,174.9,30
+Karnataka,Yadgir,2024-01,88.6,30
+Karnataka,Yadgir,2024-11,123.7,29
+Karnataka,Ramanagara,2024-06,47.4,29
+Karnataka,Ramanagara,2024-10,56.9,30
+Karnataka,Bagalkot,2024-02,45.5,29
+Karnataka,Bagalkot,2024-05,46.4,27
+Karnataka,Bagalkot,2024-09,48.0,28
+Karnataka,Bagalkot,2024-10,42.3,31
+Karnataka,Bagalkot,2024-11,44.4,30
+Karnataka,Chikkamagaluru,2024-07,57.0,27
+Karnataka,Chikkamagaluru,2024-11,57.5,26
+Karnataka,Shivamogga,2024-04,74.4,30
+Karnataka,Vijayapura,2024-04,51.4,29
+Madhya Pradesh,Sagar,2024-06,101.9,60
+Madhya Pradesh,Sagar,2024-08,55.4,60
+Madhya Pradesh,Sagar,2024-11,151.0,58
+Kerala,Kannur,2024-12,59.0,31
+Kerala,Kollam,2024-02,111.2,26
+Kerala,Kollam,2024-10,60.5,23
+Bihar,Hajipur,2024-03,150.9,30
+Haryana,Charkhi Dadri,2024-07,90.6,27
+TamilNadu,Gummidipoondi,2024-03,99.2,31
+TamilNadu,Gummidipoondi,2024-06,78.5,30
+TamilNadu,Gummidipoondi,2024-10,114.5,29
+TamilNadu,Thoothukudi,2024-02,57.9,29
+TamilNadu,Thoothukudi,2024-03,73.4,31
+Kerala,Thrissur,2024-10,42.4,26
+Maharashtra,Pune,2024-11,150.8,176
+Karnataka,Mangalore,2024-04,86.9,25
+Karnataka,Mangalore,2024-08,44.0,28
+Karnataka,Mangalore,2024-12,74.1,28
+Puducherry,Puducherry,2024-06,66.2,23
+Uttar Pradesh,Prayagraj,2024-07,38.3,91
+Uttar Pradesh,Prayagraj,2024-09,43.2,87
+Uttar Pradesh,Gorakhpur,2024-02,110.2,26
+Uttar Pradesh,Gorakhpur,2024-03,118.1,29
+Uttar Pradesh,Gorakhpur,2024-11,174.5,30
+Bihar,Bettiah,2024-02,94.9,27
+Bihar,Bettiah,2024-03,144.1,25
+Uttar Pradesh,Vrindavan,2024-01,88.4,29
+Uttar Pradesh,Vrindavan,2024-04,114.6,30
+Bihar,Sasaram,2024-10,60.4,29
+Bihar,Rajgir,2024-11,219.6,27
+Chhattisgarh,Bilaspur,2024-02,59.9,25
+Chhattisgarh,Bilaspur,2024-04,60.7,26
+Chhattisgarh,Bhilai,2024-07,40.2,87
+Uttar Pradesh,Moradabad,2024-04,112.0,176
+Uttar Pradesh,Moradabad,2024-10,127.0,180
+Uttar Pradesh,Moradabad,2024-11,142.4,176
+Bihar,Arrah,2024-02,143.9,27
+Bihar,Arrah,2024-03,95.6,26
+Bihar,Arrah,2024-05,89.8,24
+Bihar,Aurangabad,2024-07,110.0,21
+Bihar,Chhapra,2024-06,75.9,25
+Bihar,Chhapra,2024-08,67.9,21
+Bihar,Katihar,2024-02,148.5,23
+Bihar,Kishanganj,2024-10,94.3,30
+Bihar,Purnia,2024-02,176.6,27
+Bihar,Purnia,2024-10,131.3,28
+Bihar,Manguraha,2024-10,89.8,31
+Bihar,Saharsa,2024-06,76.8,27
+Bihar,Samastipur,2024-01,191.6,28
+Bihar,Samastipur,2024-03,102.3,28
+Bihar,Samastipur,2024-08,145.8,25
+Bihar,Samastipur,2024-09,106.3,26
+Bihar,Siwan,2024-03,166.3,20
+Bihar,Siwan,2024-10,140.1,29
+Uttar Pradesh,Jhansi,2024-01,118.9,31
+Uttar Pradesh,Jhansi,2024-07,51.5,26
+Uttar Pradesh,Baghpat,2024-06,158.2,29
+Himachal Pradesh,Baddi,2024-04,141.7,30
+Himachal Pradesh,Baddi,2024-11,223.3,30
+Tripura,Agartala,2024-04,136.1,29
+Tripura,Agartala,2024-06,63.8,29
+Sikkim,Gangtok,2024-01,52.9,31
+Sikkim,Gangtok,2024-03,85.5,22
+Sikkim,Gangtok,2024-12,51.0,12
+Uttarakhand,Dehradun,2024-01,244.7,29
+Uttar Pradesh,Khurja,2024-12,178.1,30
+TamilNadu,Ramanathapuram,2024-04,37.9,28
+TamilNadu,Ramanathapuram,2024-11,55.5,28
+Uttar Pradesh,Bareilly,2024-06,42.7,52
+Karnataka,Dharwad,2024-03,74.3,30
+Karnataka,Dharwad,2024-04,99.1,28
+Karnataka,Dharwad,2024-09,57.2,21
+Madhya Pradesh,Bhopal,2024-03,107.5,93
+Chhattisgarh,Raipur,2024-01,101.3,112
+Gujarat,Surat,2024-10,147.8,31
+Gujarat,Surat,2024-11,198.5,20
+Andhra Pradesh,Chittoor,2024-12,85.1,25
+Andhra Pradesh,Tirupati,2024-12,119.7,27
+Assam,Nalbari,2024-02,254.7,29
+Assam,Nalbari,2024-09,66.0,25
+Assam,Byrnihat,2024-06,198.5,23
+Assam,Byrnihat,2024-10,189.5,27
+Odisha,Keonjhar,2024-03,101.1,25
+Odisha,Keonjhar,2024-10,68.1,26
+Odisha,Rairangpur,2024-08,61.0,27
+Odisha,Rairangpur,2024-10,93.4,31
+Odisha,Rairangpur,2024-11,124.5,28
+Odisha,Rairangpur,2024-12,137.5,30
+Odisha,Nayagarh,2024-02,153.3,29
+Odisha,Nayagarh,2024-12,112.3,27
+Odisha,Rourkela,2024-01,157.5,82
+Odisha,Rourkela,2024-03,123.1,73
+Odisha,Rourkela,2024-05,118.4,83
+Odisha,Rourkela,2024-07,56.8,74
+Odisha,Tensa,2024-04,118.5,29
+Karnataka,Kalaburagi,2024-12,56.4,31
+Karnataka,Hubballi,2024-05,69.9,31
+Karnataka,Tumakuru,2024-05,128.8,23
+Assam,Silchar,2024-03,54.6,31
+Assam,Silchar,2024-05,54.7,29
+Assam,Silchar,2024-11,53.0,30
+Andhra Pradesh,Vijayawada,2024-08,48.8,121
+Andhra Pradesh,Vijayawada,2024-09,73.7,55
+Chhattisgarh,Chhal,2024-09,52.1,29
+Chhattisgarh,Kunjemura,2024-01,148.9,31
+Chhattisgarh,Kunjemura,2024-06,83.6,30
+Chhattisgarh,Kunjemura,2024-07,42.3,28
+Chhattisgarh,Kunjemura,2024-10,112.6,31
+Rajasthan,Bharatpur,2024-07,73.4,31
+Rajasthan,Bikaner,2024-04,161.4,30
+Rajasthan,Bikaner,2024-06,159.1,29
+Rajasthan,Bikaner,2024-10,142.5,31
+Rajasthan,Bikaner,2024-11,237.6,30
+Rajasthan,Churu,2024-06,142.4,30
+Rajasthan,Churu,2024-11,255.8,30
+Rajasthan,Churu,2024-12,224.1,29
+Rajasthan,Dholpur,2024-02,210.9,28
+Rajasthan,Dholpur,2024-09,58.1,27
+Rajasthan,Tonk,2024-01,214.9,31
+Rajasthan,Tonk,2024-02,160.8,29
+Rajasthan,Tonk,2024-09,80.1,21
+Uttarakhand,Rishikesh,2024-01,114.2,29
+Uttarakhand,Kashipur,2024-01,172.3,29
+Rajasthan,Sirohi,2024-08,38.6,28
+Rajasthan,Sirohi,2024-11,93.9,30
+Assam,Nagaon,2024-11,89.5,29
+Rajasthan,Banswara,2024-01,151.2,31
+Rajasthan,Chittorgarh,2024-06,101.1,29
+Rajasthan,Chittorgarh,2024-08,83.1,30
+Rajasthan,Chittorgarh,2024-12,174.3,31
+Rajasthan,Dausa,2024-01,192.6,31
+Rajasthan,Dausa,2024-11,170.3,29
+Rajasthan,Barmer,2024-08,47.4,31
+Rajasthan,Hanumangarh,2024-01,331.9,31
+Rajasthan,Hanumangarh,2024-06,181.2,18
+Rajasthan,Sawai Madhopur,2024-02,116.9,29
+Rajasthan,Jhunjhunu,2024-04,129.2,30
+Rajasthan,Rajsamand,2024-02,94.9,26
+Rajasthan,Rajsamand,2024-06,84.0,28
+Rajasthan,Sri Ganganagar,2024-10,143.3,28
+Rajasthan,Sri Ganganagar,2024-11,269.4,29
+Rajasthan,Sri Ganganagar,2024-12,212.7,30
+Rajasthan,Pratapgarh,2024-04,115.2,30
+Rajasthan,Pratapgarh,2024-10,94.0,30
+Rajasthan,Karauli,2024-01,273.9,29
+Rajasthan,Karauli,2024-02,205.8,28
+Maharashtra,Pimpri-Chinchwad,2024-01,189.1,88
+Rajasthan,Bhilwara,2024-08,44.6,31
+Rajasthan,Bundi,2024-03,129.2,31
+Rajasthan,Bundi,2024-11,169.3,30
+Rajasthan,Bundi,2024-12,187.5,31
+Rajasthan,Jaisalmer,2024-01,211.0,31
+Rajasthan,Jaisalmer,2024-12,173.2,31
+Rajasthan,Baran,2024-04,110.5,30
+Rajasthan,Baran,2024-05,126.7,31
+Rajasthan,Nagaur,2024-08,63.1,31
+Rajasthan,Nagaur,2024-09,62.4,30
+Maharashtra,Latur,2024-07,36.9,31
+Maharashtra,Latur,2024-11,158.0,30
+Maharashtra,Mahad,2024-02,118.4,27
+Maharashtra,Mahad,2024-06,49.0,27
+Maharashtra,Mahad,2024-07,36.1,31
+Maharashtra,Akola,2024-09,49.7,30
+Maharashtra,Ahmednagar,2024-08,63.9,18
+Maharashtra,Amravati,2024-02,114.7,29
+Maharashtra,Amravati,2024-08,38.2,31
+Maharashtra,Aurangabad,2024-01,177.7,71
+Maharashtra,Jalgaon,2024-02,141.0,29
+Maharashtra,Jalgaon,2024-09,67.7,29
+Maharashtra,Jalna,2024-01,139.7,31
+Maharashtra,Jalna,2024-03,177.4,31
+Maharashtra,Jalna,2024-04,94.0,27
+Maharashtra,Jalna,2024-09,124.8,26
+Maharashtra,Parbhani,2024-12,147.2,26
+Maharashtra,Thane,2024-06,51.0,57
+Maharashtra,Thane,2024-11,160.3,59
+Maharashtra,Badlapur,2024-08,52.2,31
+Maharashtra,Thane,2024-01,163.4,60
+Maharashtra,Dhule,2024-04,119.8,30
+Maharashtra,Belapur,2024-05,112.0,31
+Maharashtra,Belapur,2024-08,48.6,31
+Maharashtra,Belapur,2024-10,105.4,30
+Maharashtra,Mira-Bhayandar,2024-06,53.4,30
+Maharashtra,Mira-Bhayandar,2024-07,40.9,29
+Maharashtra,Virar,2024-03,133.1,31
+Maharashtra,Boisar,2024-11,161.6,30
+Maharashtra,Ulhasnagar,2024-08,69.0,31
+Maharashtra,Bhiwandi,2024-02,126.8,22
+Maharashtra,Bhiwandi,2024-10,106.3,30
+Rajasthan,Dungarpur,2024-01,154.5,31
+Rajasthan,Dungarpur,2024-05,97.8,30
+Rajasthan,Dungarpur,2024-06,102.2,26
+Rajasthan,Jalore,2024-02,130.3,29
+Rajasthan,Jalore,2024-09,80.3,30
+Odisha,Balasore,2024-11,162.1,30
+Odisha,Barbil,2024-02,165.4,28
+Odisha,Barbil,2024-07,71.9,31
+Odisha,Barbil,2024-08,63.7,30
+Odisha,Barbil,2024-12,146.4,29
+Odisha,Angul,2024-09,102.8,29
+Odisha,Bhubaneswar,2024-01,268.6,58
+Odisha,Bhubaneswar,2024-02,135.9,52
+Odisha,Bhubaneswar,2024-12,182.2,62
+Odisha,Byasanagar,2024-07,50.5,31
+West Bengal,Barrackpore,2024-04,125.5,26
+West Bengal,Durgapur,2024-04,248.3,11
+West Bengal,Durgapur,2024-06,132.7,15
+Andhra Pradesh,Tirupati,2024-02,45.7,23
+Maharashtra,Belapur,2024-12,140.0,31
+Delhi,Delhi,2024-02,221.8,1069
+Rajasthan,Jaipur,2024-05,148.3,183
+Rajasthan,Jaipur,2024-06,127.8,173
+Rajasthan,Jodhpur,2024-12,182.0,154
+Rajasthan,Bhiwadi,2024-01,279.6,31
+Rajasthan,Bhiwadi,2024-05,227.4,61
+Rajasthan,Bhiwadi,2024-12,169.1,58
+Rajasthan,Jaipur,2024-04,124.3,174
+Rajasthan,Kota,2024-08,66.7,93
+Rajasthan,Kota,2024-10,122.4,93
+Rajasthan,Pali,2024-10,131.2,31
+Rajasthan,Udaipur,2024-04,113.2,30
+Rajasthan,Udaipur,2024-05,108.0,31
+Rajasthan,Udaipur,2024-12,186.1,31
+Andhra Pradesh,Rajamahendravaram,2024-01,197.1,24
+Andhra Pradesh,Rajamahendravaram,2024-11,105.5,30
+Unknown,Unknown,2024-09,52.9,973
+Unknown,Unknown,2024-10,70.1,1027
+Madhya Pradesh,Singrauli,2024-08,87.1,26
+Madhya Pradesh,Pithampur,2024-02,131.0,29
+Madhya Pradesh,Pithampur,2024-05,114.5,31
+Madhya Pradesh,Mandideep,2024-02,172.9,27
+Madhya Pradesh,Mandideep,2024-11,277.1,28
+Madhya Pradesh,Dewas,2024-08,64.9,26
+Andhra Pradesh,Amaravati,2024-01,139.5,23
+Andhra Pradesh,Amaravati,2024-09,54.6,29
+Odisha,Talcher,2024-01,261.7,31
+Odisha,Brajrajnagar,2024-04,100.7,25
+Odisha,Brajrajnagar,2024-06,122.4,25
+West Bengal,Howrah,2024-01,228.2,62
+West Bengal,Asansol,2024-03,139.1,31
+West Bengal,Asansol,2024-06,113.4,62
+West Bengal,Asansol,2024-09,77.8,118
+Madhya Pradesh,Satna,2024-02,69.9,27
+Punjab,Patiala,2024-05,136.3,31
+Punjab,Jalandhar,2024-10,122.8,31
+Punjab,Jalandhar,2024-12,109.5,31
+Punjab,Khanna,2024-02,95.6,28
+Punjab,Khanna,2024-07,76.9,31
+Haryana,Gurugram,2024-01,273.5,117
+Punjab,Rupnagar,2024-01,189.9,30
+Punjab,Bathinda,2024-06,155.4,25
+Punjab,Bathinda,2024-07,104.7,28
+Punjab,Bathinda,2024-10,120.4,27
+Uttar Pradesh,Muzaffarnagar,2024-10,212.6,31
+Uttar Pradesh,Muzaffarnagar,2024-11,269.8,30
+Karnataka,Chikkaballapur,2024-01,90.1,31
+Karnataka,Chikkaballapur,2024-08,29.7,28
+Bihar,Patna,2024-07,78.2,178
+Bihar,Patna,2024-08,75.4,176
+Bihar,Gaya,2024-03,97.9,91
+Bihar,Gaya,2024-09,63.7,86
+Haryana,Panchkula,2024-07,66.2,22
+Haryana,Panchkula,2024-08,51.9,22
+Haryana,Panchkula,2024-09,66.0,24
+Telangana,Hyderabad,2024-07,55.0,317
+Telangana,Hyderabad,2024-08,62.1,297
+Kerala,Thiruvananthapuram,2024-05,58.1,58
+Kerala,Thiruvananthapuram,2024-12,57.9,62
+Punjab,Ludhiana,2024-01,176.4,31
+Punjab,Ludhiana,2024-11,245.8,30
+Punjab,Mandi Gobindgarh,2024-03,167.6,31
+Punjab,Mandi Gobindgarh,2024-07,124.8,24
+Punjab,Mandi Gobindgarh,2024-12,152.5,31
+Punjab,Amritsar,2024-04,89.6,29
+Punjab,Amritsar,2024-09,78.4,29
+Punjab,Amritsar,2024-10,142.1,31
+Andhra Pradesh,Visakhapatnam,2024-03,104.5,31
+Andhra Pradesh,Visakhapatnam,2024-12,126.2,28
+Haryana,Faridabad,2024-08,77.7,89
+Maharashtra,Chandrapur,2024-09,45.1,30
+Maharashtra,Chandrapur,2024-11,153.9,28
+Uttar Pradesh,Lucknow,2024-03,114.1,184
+Uttar Pradesh,Varanasi,2024-03,47.6,123
+Uttar Pradesh,Kanpur,2024-01,158.8,91
+Uttar Pradesh,Kanpur,2024-04,122.4,84
+Uttar Pradesh,Kanpur,2024-07,60.0,86
+Uttar Pradesh,Kanpur,2024-10,116.3,92
+Uttar Pradesh,Kanpur,2024-12,113.7,92
+TamilNadu,Chennai,2024-07,66.5,167
+TamilNadu,Chennai,2024-11,83.1,202
+West Bengal,Haldia,2024-07,41.3,29
+Maharashtra,Solapur,2024-03,137.1,73
+Maharashtra,Solapur,2024-09,61.7,83
+Maharashtra,Nagpur,2024-08,53.4,113
+Maharashtra,Nagpur,2024-09,64.2,120
+Maharashtra,Nashik,2024-01,118.0,112
+Uttar Pradesh,Agra,2024-02,74.5,160
+Uttar Pradesh,Agra,2024-04,74.1,173
+Uttar Pradesh,Agra,2024-09,45.1,168
+Uttar Pradesh,Agra,2024-10,95.8,181
+Madhya Pradesh,Damoh,2024-09,61.8,28
+Haryana,Sonipat,2024-07,52.9,22
+Madhya Pradesh,Ratlam,2024-06,94.8,30
+Madhya Pradesh,Ratlam,2024-09,58.7,30
+Madhya Pradesh,Ratlam,2024-11,169.7,30
+Haryana,Kurukshetra,2024-07,75.5,30
+Haryana,Kurukshetra,2024-09,62.7,30
+Haryana,Dharuhera,2024-05,207.8,27
+Haryana,Yamuna Nagar,2024-03,99.4,24
+Haryana,Bhiwani,2024-11,289.6,30
+Haryana,Panipat,2024-04,90.0,28
+Haryana,Karnal,2024-04,96.9,30
+Haryana,Karnal,2024-07,50.6,30
+Haryana,Karnal,2024-08,53.4,30
+Haryana,Karnal,2024-10,140.6,31
+Haryana,Palwal,2024-01,115.7,26
+Haryana,Sirsa,2024-08,59.9,30
+Haryana,Sirsa,2024-09,90.5,24
+Haryana,Narnaul,2024-01,110.3,31
+Haryana,Narnaul,2024-06,76.9,29
+Haryana,Fatehabad,2024-06,120.6,29
+Haryana,Jind,2024-06,124.1,26
+Haryana,Jind,2024-10,167.4,31
+Haryana,Hisar,2024-11,271.6,24
+Haryana,Ballabgarh,2024-05,216.0,31
+Haryana,Ballabgarh,2024-11,259.9,28
+Gujarat,Ankleshwar,2024-03,100.3,27
+Gujarat,Ankleshwar,2024-06,77.4,27
+Gujarat,Ankleshwar,2024-12,140.0,24
+Gujarat,Vapi,2024-07,51.6,30
+Gujarat,Vapi,2024-12,188.6,31
+Haryana,Kaithal,2024-02,112.0,27
+Assam,Guwahati,2024-11,86.2,90
+TamilNadu,Coimbatore,2024-10,54.7,59
+Maharashtra,Navi Mumbai,2024-09,57.7,154
+Maharashtra,Navi Mumbai,2024-10,93.9,177
+Uttar Pradesh,Meerut,2024-02,129.9,82
+Uttar Pradesh,Meerut,2024-05,180.7,92
+Maharashtra,Kalyan,2024-09,42.0,28
+Karnataka,Chamarajanagar,2024-12,45.0,29
+Karnataka,Mysuru,2024-05,56.4,30
+Chandigarh,Chandigarh,2024-12,218.3,92
+Meghalaya,Shillong,2024-10,43.3,9
+Madhya Pradesh,Indore,2024-03,83.4,109
+Madhya Pradesh,Indore,2024-11,160.6,114
+Karnataka,Ramanagara,2024-09,46.2,30
+Karnataka,Bagalkot,2024-01,51.4,31
+Karnataka,Bagalkot,2024-04,48.8,30
+Karnataka,Chikkamagaluru,2024-04,73.7,23
+Karnataka,Shivamogga,2024-03,79.4,31
+Karnataka,Vijayapura,2024-05,42.2,30
+Karnataka,Vijayapura,2024-10,41.0,31
+Karnataka,Vijayapura,2024-12,41.6,30
+Madhya Pradesh,Sagar,2024-12,155.3,59
+Madhya Pradesh,Gwalior,2024-04,130.8,88
+Madhya Pradesh,Gwalior,2024-09,79.3,82
+Kerala,Kollam,2024-08,51.1,15
+Kerala,Kollam,2024-09,68.3,25
+Bihar,Hajipur,2024-05,161.8,28
+Bihar,Hajipur,2024-07,69.7,27
+Bihar,Hajipur,2024-09,93.2,29
+Bihar,Hajipur,2024-10,179.2,30
+Bihar,Hajipur,2024-11,311.4,29
+Haryana,Charkhi Dadri,2024-06,199.5,26
+Haryana,Charkhi Dadri,2024-10,180.2,30
+Mizoram,Aizawl,2024-05,44.2,30
+Mizoram,Aizawl,2024-09,39.4,29
+Mizoram,Aizawl,2024-12,36.8,31
+TamilNadu,Gummidipoondi,2024-04,84.2,30
+TamilNadu,Gummidipoondi,2024-05,71.5,31
+TamilNadu,Gummidipoondi,2024-09,91.1,29
+TamilNadu,Thoothukudi,2024-09,60.1,30
+TamilNadu,Thoothukudi,2024-11,58.2,30
+Kerala,Thrissur,2024-06,80.3,27
+Karnataka,Madikeri,2024-02,45.9,29
+Karnataka,Madikeri,2024-04,60.1,30
+Maharashtra,Pune,2024-03,100.4,148
+Maharashtra,Pune,2024-10,99.1,150
+Karnataka,Mangalore,2024-07,45.8,30
+Arunachal Pradesh,Naharlagun,2024-11,57.0,19
+Uttar Pradesh,Gorakhpur,2024-08,55.3,31
+Bihar,Bettiah,2024-06,114.2,16
+Uttar Pradesh,Firozabad,2024-04,65.2,56
+Uttar Pradesh,Firozabad,2024-05,76.2,54
+Uttar Pradesh,Firozabad,2024-06,67.0,48
+Uttar Pradesh,Firozabad,2024-12,78.6,61
+Uttar Pradesh,Vrindavan,2024-06,99.9,30
+Bihar,Rajgir,2024-02,123.3,23
+Bihar,Rajgir,2024-08,58.1,17
+Chhattisgarh,Bilaspur,2024-08,44.8,29
+Uttar Pradesh,Moradabad,2024-05,120.9,180
+Uttar Pradesh,Moradabad,2024-06,103.3,167
+Bihar,Arrah,2024-10,101.1,17
+Bihar,Araria,2024-03,119.0,28
+Bihar,Araria,2024-07,99.5,10
+Bihar,Bhagalpur,2024-04,158.5,54
+Bihar,Bhagalpur,2024-08,110.0,46
+Bihar,Aurangabad,2024-05,107.0,13
+Bihar,Aurangabad,2024-06,85.7,11
+Bihar,Aurangabad,2024-12,219.6,27
+Bihar,Chhapra,2024-04,200.9,28
+Bihar,Chhapra,2024-11,195.0,30
+Bihar,Katihar,2024-05,83.5,25
+Bihar,Kishanganj,2024-01,230.2,29
+Bihar,Kishanganj,2024-02,190.4,27
+Bihar,Kishanganj,2024-04,183.5,28
+Bihar,Kishanganj,2024-05,129.2,21
+Bihar,Manguraha,2024-05,71.4,14
+Bihar,Saharsa,2024-02,209.1,27
+Uttar Pradesh,Jhansi,2024-03,57.4,30
+Uttar Pradesh,Jhansi,2024-12,100.7,31
+Uttar Pradesh,Baghpat,2024-03,101.1,30
+Sikkim,Gangtok,2024-09,31.3,21
+Uttarakhand,Dehradun,2024-07,45.0,31
+Uttar Pradesh,Bareilly,2024-12,87.0,54
+Uttar Pradesh,Khurja,2024-04,77.2,30
+TamilNadu,Madurai,2024-12,56.0,24
+TamilNadu,Coimbatore,2024-03,70.5,21
+TamilNadu,Coimbatore,2024-07,37.0,16
+TamilNadu,Ramanathapuram,2024-10,25.9,30
+Andhra Pradesh,Anantapur,2024-08,61.3,23
+Andhra Pradesh,Anantapur,2024-12,49.5,27
+Karnataka,Dharwad,2024-10,89.3,26
+Chhattisgarh,Raipur,2024-02,85.1,94
+Chhattisgarh,Raipur,2024-11,111.3,110
+Chhattisgarh,Korba,2024-11,83.3,56
+Assam,Sivasagar,2024-03,59.9,31
+Assam,Sivasagar,2024-10,45.0,31
+Andhra Pradesh,Chittoor,2024-02,107.6,24
+Andhra Pradesh,Tirupati,2024-09,66.8,16
+Andhra Pradesh,Tirupati,2024-10,124.3,15
+Assam,Nalbari,2024-04,147.2,28
+Assam,Nalbari,2024-07,66.6,25
+Odisha,Baripada,2024-02,210.7,26
+Odisha,Keonjhar,2024-01,202.3,31
+Odisha,Keonjhar,2024-11,72.4,30
+Odisha,Rairangpur,2024-05,69.0,29
+Odisha,Bileipada,2024-03,161.3,28
+Odisha,Bileipada,2024-05,144.9,20
+Odisha,Nayagarh,2024-03,139.9,29
+Odisha,Nayagarh,2024-05,98.2,28
+Odisha,Nayagarh,2024-08,46.6,18
+Odisha,Rourkela,2024-08,57.4,79
+Odisha,Rourkela,2024-09,73.0,79
+Odisha,Tensa,2024-07,40.3,24
+Odisha,Tensa,2024-12,123.2,31
+Karnataka,Kalaburagi,2024-03,61.3,30
+Karnataka,Kalaburagi,2024-04,65.3,27
+Karnataka,Hubballi,2024-04,66.9,19
+Assam,Silchar,2024-02,51.4,26
+Assam,Silchar,2024-06,48.4,30
+Assam,Silchar,2024-10,54.4,31
+Andhra Pradesh,Vijayawada,2024-01,74.2,75
+Andhra Pradesh,Vijayawada,2024-06,57.6,114
+Andhra Pradesh,Vijayawada,2024-12,64.0,107
+Chhattisgarh,Chhal,2024-02,84.2,28
+Chhattisgarh,Chhal,2024-03,94.4,29
+Chhattisgarh,Chhal,2024-04,108.2,27
+Chhattisgarh,Chhal,2024-07,49.6,30
+Chhattisgarh,Kunjemura,2024-02,110.8,26
+Chhattisgarh,Kunjemura,2024-03,122.1,27
+Andhra Pradesh,Kadapa,2024-10,58.0,22
+Rajasthan,Bharatpur,2024-12,124.0,31
+Rajasthan,Bikaner,2024-09,93.9,30
+Rajasthan,Churu,2024-08,64.2,29
+Rajasthan,Churu,2024-10,155.1,31
+Rajasthan,Tonk,2024-03,140.1,29
+Rajasthan,Tonk,2024-04,128.4,30
+Rajasthan,Tonk,2024-05,139.1,16
+Rajasthan,Tonk,2024-06,102.0,25
+Uttarakhand,Rishikesh,2024-02,69.8,29
+Uttarakhand,Rishikesh,2024-06,93.5,21
+Uttarakhand,Rishikesh,2024-09,43.7,28
+Uttarakhand,Kashipur,2024-07,59.0,29
+Uttarakhand,Kashipur,2024-11,134.1,29
+Rajasthan,Sirohi,2024-01,120.8,31
+Rajasthan,Sirohi,2024-02,116.1,29
+Rajasthan,Sirohi,2024-03,109.2,31
+Rajasthan,Sirohi,2024-05,105.8,31
+Rajasthan,Sirohi,2024-09,59.8,20
+Assam,Nagaon,2024-01,213.0,28
+Assam,Nagaon,2024-07,69.1,28
+Jharkhand,Dhanbad,2024-02,181.3,11
+Rajasthan,Banswara,2024-02,121.7,29
+Rajasthan,Banswara,2024-06,97.1,30
+Rajasthan,Banswara,2024-10,94.1,29
+Rajasthan,Chittorgarh,2024-11,178.4,30
+Rajasthan,Hanumangarh,2024-02,252.7,29
+Rajasthan,Hanumangarh,2024-09,108.0,29
+Rajasthan,Hanumangarh,2024-12,190.7,29
+Rajasthan,Sawai Madhopur,2024-05,152.2,27
+Rajasthan,Sawai Madhopur,2024-09,85.6,28
+Rajasthan,Sawai Madhopur,2024-12,129.8,31
+Rajasthan,Rajsamand,2024-09,70.9,30
+Rajasthan,Sikar,2024-03,127.6,31
+Rajasthan,Sikar,2024-09,67.3,30
+Maharashtra,Pimpri-Chinchwad,2024-06,47.0,43
+Maharashtra,Pimpri-Chinchwad,2024-12,136.9,116
+Maharashtra,Kolhapur,2024-07,39.3,53
+Maharashtra,Kolhapur,2024-11,164.6,58
+Rajasthan,Bhilwara,2024-02,124.8,27
+Rajasthan,Bhilwara,2024-05,89.6,28
+Rajasthan,Jaisalmer,2024-10,120.0,31
+Maharashtra,Sangli,2024-06,41.9,28
+Maharashtra,Sangli,2024-11,111.5,30
+Rajasthan,Baran,2024-06,92.7,30
+Rajasthan,Baran,2024-09,57.0,30
+Rajasthan,Nagaur,2024-07,73.9,30
+Rajasthan,Nagaur,2024-10,133.9,31
+Maharashtra,Latur,2024-03,101.5,31
+Maharashtra,Mahad,2024-01,106.1,31
+Maharashtra,Akola,2024-07,44.4,31
+Maharashtra,Ahmednagar,2024-03,136.8,29
+Maharashtra,Ahmednagar,2024-12,140.5,21
+Maharashtra,Amravati,2024-09,47.7,30
+Maharashtra,Amravati,2024-10,80.2,31
+Maharashtra,Jalgaon,2024-03,135.1,31
+Maharashtra,Jalgaon,2024-05,128.0,31
+Maharashtra,Jalna,2024-05,94.4,30
+Maharashtra,Nagpur,2024-12,146.2,122
+Maharashtra,Parbhani,2024-11,225.8,26
+Maharashtra,Nanded,2024-04,115.2,26
+Maharashtra,Dhule,2024-03,129.9,29
+Maharashtra,Dhule,2024-08,44.9,30
+Maharashtra,Malegaon,2024-05,127.4,30
+Maharashtra,Belapur,2024-09,60.0,29
+Maharashtra,Belapur,2024-11,139.9,30
+Maharashtra,Virar,2024-04,110.1,30
+Maharashtra,Virar,2024-07,62.9,31
+Maharashtra,Virar,2024-11,166.9,30
+Maharashtra,Ulhasnagar,2024-01,186.7,31
+Maharashtra,Ulhasnagar,2024-06,74.4,30
+Maharashtra,Ulhasnagar,2024-09,72.5,29
+Maharashtra,Bhiwandi,2024-04,116.5,30
+Maharashtra,Bhiwandi,2024-05,102.8,31
+Maharashtra,Bhiwandi,2024-07,56.8,29
+Rajasthan,Jalore,2024-05,125.2,31
+Odisha,Balasore,2024-05,102.6,31
+Odisha,Barbil,2024-03,156.6,31
+Odisha,Barbil,2024-10,97.9,31
+Odisha,Angul,2024-03,177.6,31
+Odisha,Bhubaneswar,2024-06,93.9,57
+Odisha,Cuttack,2024-02,146.0,29
+Odisha,Cuttack,2024-11,153.1,30
+Odisha,Byasanagar,2024-03,121.5,31
+West Bengal,Barrackpore,2024-02,181.3,27
+West Bengal,Barrackpore,2024-10,92.3,31
+TamilNadu,Pudukottai,2024-11,83.0,28
+Odisha,Byasanagar,2024-04,157.0,30
+Odisha,Byasanagar,2024-05,109.2,30
+Delhi,Delhi,2024-01,365.8,1150
+Rajasthan,Jaipur,2024-03,110.9,185
+Rajasthan,Jaipur,2024-07,71.5,179
+Rajasthan,Jaipur,2024-08,63.7,171
+Rajasthan,Bhiwadi,2024-09,103.5,56
+Rajasthan,Ajmer,2024-04,106.6,30
+Rajasthan,Kota,2024-05,129.8,93
+Rajasthan,Kota,2024-12,203.5,91
+Rajasthan,Udaipur,2024-01,143.5,31
+Rajasthan,Udaipur,2024-03,113.9,31
+Rajasthan,Udaipur,2024-10,109.9,31
+Andhra Pradesh,Rajamahendravaram,2024-09,56.4,28
+Andhra Pradesh,Rajamahendravaram,2024-12,97.2,31
+Madhya Pradesh,Singrauli,2024-09,87.0,26
+Madhya Pradesh,Singrauli,2024-11,281.2,29
+Madhya Pradesh,Pithampur,2024-10,139.9,30
+Madhya Pradesh,Pithampur,2024-11,152.0,30
+Madhya Pradesh,Mandideep,2024-07,52.9,28
+Madhya Pradesh,Mandideep,2024-12,225.8,28
+Madhya Pradesh,Dewas,2024-02,118.0,24
+Odisha,Talcher,2024-10,123.5,29
+Odisha,Brajrajnagar,2024-09,50.0,26
+West Bengal,Howrah,2024-04,100.5,53
+West Bengal,Howrah,2024-09,61.3,89
+West Bengal,Siliguri,2024-04,99.5,30
+West Bengal,Siliguri,2024-11,72.1,30
+West Bengal,Siliguri,2024-12,115.5,31
+Punjab,Patiala,2024-09,60.7,30
+Punjab,Khanna,2024-03,87.1,31
+Haryana,Gurugram,2024-03,200.3,91
+Haryana,Gurugram,2024-09,94.2,83
+Haryana,Gurugram,2024-10,182.0,102
+Haryana,Gurugram,2024-12,248.5,110
+Haryana,Rohtak,2024-07,97.4,29
+Haryana,Rohtak,2024-11,269.8,30
+Punjab,Rupnagar,2024-03,183.9,27
+Punjab,Rupnagar,2024-04,84.3,30
+Uttar Pradesh,Greater Noida,2024-04,210.3,47
+Uttar Pradesh,Bulandshahr,2024-04,131.9,30
+Uttar Pradesh,Bulandshahr,2024-07,72.0,31
+Uttar Pradesh,Bulandshahr,2024-08,48.0,31
+Uttar Pradesh,Bulandshahr,2024-12,175.9,31
+Punjab,Bathinda,2024-04,115.3,30
+Uttar Pradesh,Muzaffarnagar,2024-04,182.5,30
+Uttar Pradesh,Muzaffarnagar,2024-09,90.9,26
+Karnataka,Bengaluru,2024-03,105.9,336
+Bihar,Patna,2024-04,232.2,175
+Bihar,Patna,2024-09,92.4,171
+Bihar,Patna,2024-12,271.1,161
+Bihar,Muzaffarpur,2024-10,120.4,88
+Bihar,Gaya,2024-02,131.2,81
+Haryana,Panchkula,2024-01,183.5,28
+Haryana,Panchkula,2024-11,200.1,30
+Maharashtra,Aurangabad,2024-12,111.8,92
+Telangana,Hyderabad,2024-03,86.6,333
+Telangana,Hyderabad,2024-12,92.1,375
+Kerala,Thiruvananthapuram,2024-03,73.5,62
+Punjab,Ludhiana,2024-02,114.4,29
+Punjab,Ludhiana,2024-10,124.1,31
+Punjab,Mandi Gobindgarh,2024-01,193.3,28
+Punjab,Mandi Gobindgarh,2024-10,160.0,31
+Andhra Pradesh,Visakhapatnam,2024-09,91.4,29
+Haryana,Faridabad,2024-01,304.2,110
+Haryana,Faridabad,2024-04,205.4,108
+Haryana,Faridabad,2024-11,259.9,103
+Maharashtra,Chandrapur,2024-08,46.3,43
+Uttar Pradesh,Lucknow,2024-01,191.0,183
+Uttar Pradesh,Lucknow,2024-08,57.7,182
+Uttar Pradesh,Varanasi,2024-06,44.5,118
+Uttar Pradesh,Varanasi,2024-10,80.3,123
+Uttar Pradesh,Varanasi,2024-11,96.5,118
+Uttar Pradesh,Kanpur,2024-08,61.5,86
+TamilNadu,Chennai,2024-10,73.0,201
+West Bengal,Kolkata,2024-01,230.1,214
+West Bengal,Kolkata,2024-11,162.8,210
+West Bengal,Haldia,2024-03,89.4,31
+West Bengal,Haldia,2024-06,49.6,30
+Maharashtra,Solapur,2024-11,131.5,78
+Maharashtra,Solapur,2024-12,99.7,88
+Maharashtra,Nashik,2024-03,83.0,117
+Gujarat,Ahmedabad,2024-06,107.6,136
+Gujarat,Ahmedabad,2024-07,74.5,179
+Uttar Pradesh,Hapur,2024-03,111.2,30
+Uttar Pradesh,Hapur,2024-06,112.1,28
+Haryana,Manesar,2024-12,172.6,25
+Haryana,Sonipat,2024-06,125.5,27
+Madhya Pradesh,Ratlam,2024-03,135.9,30
+Madhya Pradesh,Ratlam,2024-07,52.6,31
+Haryana,Kurukshetra,2024-04,95.4,30
+Haryana,Kurukshetra,2024-12,135.4,18
+Haryana,Dharuhera,2024-01,209.2,30
+Haryana,Dharuhera,2024-08,65.4,25
+Haryana,Dharuhera,2024-11,288.0,28
+Haryana,Bahadurgarh,2024-02,156.8,28
+Haryana,Bahadurgarh,2024-04,147.1,26
+Haryana,Bahadurgarh,2024-09,93.5,30
+Haryana,Bahadurgarh,2024-10,201.6,28
+Haryana,Yamuna Nagar,2024-02,150.7,26
+Haryana,Yamuna Nagar,2024-04,102.7,26
+Haryana,Yamuna Nagar,2024-05,126.3,26
+Haryana,Yamuna Nagar,2024-10,164.8,29
+Haryana,Bhiwani,2024-08,71.1,31
+Haryana,Panipat,2024-11,240.9,28
+Haryana,Panipat,2024-12,173.7,20
+Haryana,Palwal,2024-02,117.7,25
+Haryana,Palwal,2024-06,106.3,28
+Haryana,Palwal,2024-08,54.8,28
+Haryana,Sirsa,2024-05,127.2,28
+Haryana,Narnaul,2024-07,78.1,19
+Haryana,Narnaul,2024-10,103.3,24
+Haryana,Fatehabad,2024-02,117.1,24
+Haryana,Fatehabad,2024-08,60.7,27
+Haryana,Fatehabad,2024-10,157.6,16
+Haryana,Jind,2024-09,95.8,29
+Haryana,Hisar,2024-10,168.3,30
+Haryana,Ballabgarh,2024-12,166.4,16
+Gujarat,Ankleshwar,2024-05,88.1,20
+Gujarat,Gandhinagar,2024-04,73.3,48
+Gujarat,Vatva,2024-02,95.5,28
+Gujarat,Vatva,2024-08,53.8,28
+Assam,Guwahati,2024-04,170.0,77
+Assam,Guwahati,2024-07,64.7,86
+Uttar Pradesh,Ghaziabad,2024-03,136.8,91
+Uttar Pradesh,Ghaziabad,2024-05,201.1,92
+Uttar Pradesh,Ghaziabad,2024-10,248.8,88
+Maharashtra,Mumbai,2024-01,116.4,764
+Maharashtra,Mumbai,2024-12,151.6,762
+Maharashtra,Navi Mumbai,2024-04,123.5,164
+Kerala,Eloor,2024-03,97.1,23
+Kerala,Eloor,2024-04,82.5,30
+Kerala,Eloor,2024-06,55.6,16
+Kerala,Eloor,2024-08,77.0,29
+Kerala,Eloor,2024-10,64.8,29
+Uttar Pradesh,Meerut,2024-04,135.8,88
+Maharashtra,Kalyan,2024-08,52.1,31
+Maharashtra,Kalyan,2024-11,129.1,27
+Karnataka,Chamarajanagar,2024-07,43.2,27
+Karnataka,Mysuru,2024-01,67.3,31
+Chandigarh,Chandigarh,2024-05,150.9,93
+Meghalaya,Shillong,2024-02,109.2,27
+Meghalaya,Shillong,2024-07,36.6,14
+Madhya Pradesh,Bhopal,2024-02,125.2,83
+Madhya Pradesh,Indore,2024-06,60.6,114
+Madhya Pradesh,Jabalpur,2024-03,114.3,118
+Madhya Pradesh,Jabalpur,2024-05,133.9,120
+Madhya Pradesh,Jabalpur,2024-06,82.7,102
+Madhya Pradesh,Katni,2024-01,134.4,31
+Karnataka,Yadgir,2024-04,70.9,24
+Karnataka,Yadgir,2024-05,54.2,25
+Karnataka,Yadgir,2024-07,32.7,23
+Karnataka,Chikkamagaluru,2024-01,72.6,29
+Karnataka,Shivamogga,2024-01,65.6,31
+Karnataka,Shivamogga,2024-02,71.0,29
+Karnataka,Shivamogga,2024-10,44.8,31
+Karnataka,Shivamogga,2024-11,60.1,26
+Madhya Pradesh,Sagar,2024-07,58.3,59
+Madhya Pradesh,Gwalior,2024-01,246.2,93
+Madhya Pradesh,Gwalior,2024-05,156.4,92
+Madhya Pradesh,Gwalior,2024-10,133.8,93
+Kerala,Kannur,2024-01,61.4,27
+Kerala,Kannur,2024-05,68.0,22
+Kerala,Kollam,2024-06,58.9,17
+Kerala,Kollam,2024-11,68.3,21
+Mizoram,Aizawl,2024-10,56.9,31
+TamilNadu,Thoothukudi,2024-10,57.0,31
+Kerala,Thrissur,2024-04,64.3,26
+Kerala,Thrissur,2024-05,69.6,31
+Kerala,Thrissur,2024-08,48.4,30
+Karnataka,Madikeri,2024-12,32.8,31
+Karnataka,Mangalore,2024-05,57.1,28
+Karnataka,Mangalore,2024-06,55.2,27
+Karnataka,Mangalore,2024-11,53.8,28
+Puducherry,Puducherry,2024-02,53.8,29
+Puducherry,Puducherry,2024-10,66.4,31
+Arunachal Pradesh,Naharlagun,2024-01,78.4,25
+Uttar Pradesh,Gorakhpur,2024-04,113.6,29
+Uttar Pradesh,Gorakhpur,2024-10,139.0,31
+Bihar,Bettiah,2024-04,160.7,21
+Bihar,Motihari,2024-04,120.1,26
+Bihar,Motihari,2024-09,55.3,18
+Uttar Pradesh,Firozabad,2024-09,57.7,47
+Uttar Pradesh,Firozabad,2024-10,88.9,60
+Bihar,Bihar Sharif,2024-12,235.2,26
+Uttar Pradesh,Vrindavan,2024-09,81.5,25
+Uttar Pradesh,Vrindavan,2024-10,113.5,31
+Bihar,Sasaram,2024-02,102.4,24
+Bihar,Rajgir,2024-04,56.6,24
+Bihar,Rajgir,2024-07,78.0,17
+Bihar,Munger,2024-03,177.2,27
+Bihar,Munger,2024-06,142.6,20
+Chhattisgarh,Bhilai,2024-04,66.1,79
+Chhattisgarh,Bhilai,2024-05,75.1,88
+Chhattisgarh,Bhilai,2024-06,54.6,82
+Bihar,Arrah,2024-07,66.9,19
+Bihar,Arrah,2024-08,73.4,5
+Bihar,Arrah,2024-09,60.5,11
+Bihar,Araria,2024-05,85.0,21
+Bihar,Araria,2024-08,128.4,21
+Bihar,Bhagalpur,2024-12,189.9,60
+Bihar,Chhapra,2024-03,175.1,30
+Bihar,Chhapra,2024-07,56.2,28
+Bihar,Katihar,2024-01,223.4,29
+Bihar,Katihar,2024-06,61.8,29
+Bihar,Kishanganj,2024-08,56.7,13
+Bihar,Purnia,2024-01,242.3,29
+Bihar,Manguraha,2024-01,113.1,22
+Bihar,Manguraha,2024-07,50.9,7
+Bihar,Saharsa,2024-04,134.7,27
+Bihar,Saharsa,2024-12,215.6,27
+Bihar,Samastipur,2024-07,120.7,31
+Bihar,Siwan,2024-04,132.2,17
+Bihar,Siwan,2024-09,169.3,17
+Uttar Pradesh,Jhansi,2024-06,64.5,13
+Uttar Pradesh,Baghpat,2024-10,173.1,31
+Tripura,Agartala,2024-05,94.9,22
+Tripura,Agartala,2024-07,49.7,29
+Tripura,Agartala,2024-09,68.0,16
+Sikkim,Gangtok,2024-02,61.6,29
+Sikkim,Gangtok,2024-05,61.6,31
+Sikkim,Gangtok,2024-06,38.7,21
+Sikkim,Gangtok,2024-08,24.0,21
+Sikkim,Gangtok,2024-10,36.8,21
+Sikkim,Gangtok,2024-11,46.3,19
+Uttarakhand,Dehradun,2024-02,103.9,28
+Uttarakhand,Dehradun,2024-04,124.1,28
+Uttarakhand,Dehradun,2024-06,115.7,30
+Uttarakhand,Dehradun,2024-08,37.1,28
+Uttarakhand,Dehradun,2024-09,38.1,27
+Uttar Pradesh,Khurja,2024-02,62.6,27
+TamilNadu,Ramanathapuram,2024-01,61.9,26
+Andhra Pradesh,Anantapur,2024-05,77.5,24
+Karnataka,Dharwad,2024-02,106.4,28
+Karnataka,Dharwad,2024-05,87.5,26
+Chhattisgarh,Raipur,2024-09,51.1,109
+Chhattisgarh,Raipur,2024-10,76.9,116
+Chhattisgarh,Korba,2024-09,49.3,45
+Chhattisgarh,Korba,2024-12,90.1,59
+Assam,Sivasagar,2024-06,54.2,30
+Assam,Sivasagar,2024-11,57.7,30
+Chhattisgarh,Bhilai,2024-01,118.3,79
+Gujarat,Surat,2024-07,72.9,22
+Assam,Nalbari,2024-03,194.7,31
+Assam,Nalbari,2024-10,60.7,28
+Assam,Byrnihat,2024-03,307.7,31
+Odisha,Keonjhar,2024-09,74.3,27
+Odisha,Nayagarh,2024-10,45.3,31
+Odisha,Tensa,2024-09,57.4,30
+Karnataka,Kalaburagi,2024-05,56.7,24
+Karnataka,Kalaburagi,2024-06,42.9,23
+Assam,Silchar,2024-07,50.2,31
+Andhra Pradesh,Vijayawada,2024-07,49.8,116
+Chhattisgarh,Chhal,2024-06,104.0,22
+Chhattisgarh,Kunjemura,2024-09,60.7,27
+Chhattisgarh,Kunjemura,2024-12,121.0,31
+Chhattisgarh,Milupara,2024-05,65.2,20
+Chhattisgarh,Tumidih,2024-01,90.9,15
+Chhattisgarh,Tumidih,2024-07,36.4,9
+Andhra Pradesh,Kadapa,2024-12,98.2,28
+Rajasthan,Tonk,2024-11,245.7,27
+Rajasthan,Tonk,2024-12,223.5,31
+Uttarakhand,Rishikesh,2024-07,49.5,28
+Uttarakhand,Rishikesh,2024-10,66.3,31
+Uttarakhand,Kashipur,2024-02,94.1,29
+Uttarakhand,Kashipur,2024-03,85.9,31
+Rajasthan,Sirohi,2024-06,74.4,27
+Assam,Nagaon,2024-08,70.5,28
+Jharkhand,Dhanbad,2024-03,159.2,13
+Rajasthan,Banswara,2024-05,212.1,31
+Rajasthan,Chittorgarh,2024-03,128.2,31
+Rajasthan,Chittorgarh,2024-09,101.5,29
+Rajasthan,Chittorgarh,2024-10,117.2,31
+Rajasthan,Dausa,2024-02,166.0,28
+Rajasthan,Dausa,2024-07,99.4,30
+Rajasthan,Dausa,2024-08,72.7,30
+Rajasthan,Barmer,2024-05,125.4,31
+Rajasthan,Barmer,2024-11,122.8,30
+Rajasthan,Hanumangarh,2024-05,177.1,30
+Rajasthan,Sawai Madhopur,2024-10,107.2,31
+Rajasthan,Sawai Madhopur,2024-11,201.4,30
+Rajasthan,Jhunjhunu,2024-01,219.9,31
+Rajasthan,Jhunjhunu,2024-09,76.1,30
+Rajasthan,Jhunjhunu,2024-12,211.6,31
+Rajasthan,Pratapgarh,2024-01,128.5,31
+Rajasthan,Pratapgarh,2024-03,110.9,31
+Rajasthan,Pratapgarh,2024-12,131.8,31
+Rajasthan,Sikar,2024-02,155.1,29
+Rajasthan,Sikar,2024-04,141.0,30
+Rajasthan,Sikar,2024-06,135.0,30
+Rajasthan,Karauli,2024-07,62.0,16
+Rajasthan,Karauli,2024-10,111.5,29
+Rajasthan,Karauli,2024-11,191.8,28
+Maharashtra,Pimpri-Chinchwad,2024-04,147.9,81
+Maharashtra,Pimpri-Chinchwad,2024-08,49.3,115
+Rajasthan,Bhilwara,2024-03,108.3,30
+Rajasthan,Bundi,2024-08,59.2,29
+Rajasthan,Jaisalmer,2024-03,122.0,31
+Rajasthan,Jaisalmer,2024-04,129.3,30
+Rajasthan,Jaisalmer,2024-05,127.5,31
+Maharashtra,Latur,2024-01,118.7,28
+Maharashtra,Latur,2024-10,72.9,31
+Maharashtra,Akola,2024-01,136.8,31
+Maharashtra,Akola,2024-03,105.0,31
+Maharashtra,Akola,2024-04,91.0,30
+Maharashtra,Ahmednagar,2024-01,130.7,27
+Maharashtra,Ahmednagar,2024-04,119.0,27
+Maharashtra,Amravati,2024-01,126.6,30
+Maharashtra,Amravati,2024-03,120.7,30
+Maharashtra,Amravati,2024-07,36.3,27
+Maharashtra,Jalna,2024-08,94.1,30
+Maharashtra,Jalna,2024-11,163.3,27
+Maharashtra,Jalna,2024-12,102.7,23
+Maharashtra,Parbhani,2024-07,42.3,4
+Maharashtra,Nanded,2024-02,110.4,28
+Maharashtra,Nanded,2024-09,50.5,27
+Maharashtra,Thane,2024-02,131.6,54
+Maharashtra,Thane,2024-08,44.6,61
+Maharashtra,Badlapur,2024-01,181.0,29
+Maharashtra,Badlapur,2024-04,130.1,29
+Maharashtra,Dhule,2024-06,84.4,29
+Maharashtra,Malegaon,2024-06,83.8,30
+Maharashtra,Malegaon,2024-11,215.6,30
+Maharashtra,Belapur,2024-06,65.4,30
+Maharashtra,Virar,2024-05,89.1,31
+Maharashtra,Boisar,2024-05,96.8,29
+Maharashtra,Boisar,2024-09,68.3,30
+Maharashtra,Ulhasnagar,2024-03,130.8,30
+Maharashtra,Bhiwandi,2024-01,177.4,22
+Maharashtra,Bhiwandi,2024-09,67.3,30
+Rajasthan,Dungarpur,2024-04,96.3,30
+Rajasthan,Jalore,2024-11,152.4,30
+Odisha,Balasore,2024-03,116.3,31
+Odisha,Balasore,2024-06,101.6,29
+Odisha,Balasore,2024-07,118.8,31
+Odisha,Barbil,2024-01,204.1,31
+Odisha,Barbil,2024-06,136.4,30
+Odisha,Angul,2024-01,309.3,30
+Odisha,Angul,2024-02,230.5,29
+Odisha,Angul,2024-10,107.6,30
+Odisha,Angul,2024-11,188.1,30
+Odisha,Bhubaneswar,2024-04,143.1,57
+Odisha,Bhubaneswar,2024-07,63.0,52
+Odisha,Cuttack,2024-03,96.3,31
+Odisha,Cuttack,2024-06,75.8,29
+Odisha,Cuttack,2024-09,59.1,30
+Odisha,Byasanagar,2024-09,52.2,29
+Odisha,Byasanagar,2024-10,80.9,29
+West Bengal,Barrackpore,2024-09,64.2,29
+West Bengal,Barrackpore,2024-12,265.4,27
+West Bengal,Durgapur,2024-09,95.0,56
+Andhra Pradesh,Tirupati,2024-03,73.4,29
+Rajasthan,Pratapgarh,2024-07,54.2,31
+Delhi,Delhi,2024-04,184.5,1114
+Delhi,Delhi,2024-11,396.8,1151
+Uttar Pradesh,Noida,2024-09,111.9,120
+Rajasthan,Jaipur,2024-10,150.6,185
+Rajasthan,Jodhpur,2024-01,163.2,151
+Rajasthan,Bhiwadi,2024-10,181.0,58
+Rajasthan,Ajmer,2024-03,96.4,31
+Rajasthan,Ajmer,2024-10,83.8,31
+Rajasthan,Kota,2024-01,269.5,89
+Rajasthan,Pali,2024-02,103.8,29
+Rajasthan,Pali,2024-08,68.2,15
+Rajasthan,Pali,2024-12,220.3,31
+Rajasthan,Udaipur,2024-06,98.4,30
+Andhra Pradesh,Rajamahendravaram,2024-04,48.6,27
+Unknown,Unknown,2024-03,104.3,902
+Unknown,Unknown,2024-11,98.1,1016
+Unknown,Unknown,2024-12,84.7,934
+Madhya Pradesh,Singrauli,2024-06,150.0,27
+Madhya Pradesh,Dewas,2024-09,75.2,20
+Andhra Pradesh,Amaravati,2024-10,69.2,31
+Odisha,Talcher,2024-02,179.8,29
+Odisha,Talcher,2024-07,90.5,27
+Odisha,Talcher,2024-11,230.2,30
+Odisha,Brajrajnagar,2024-07,67.8,25
+Odisha,Brajrajnagar,2024-10,67.1,31
+Odisha,Brajrajnagar,2024-12,84.0,30
+West Bengal,Howrah,2024-05,63.3,62
+West Bengal,Asansol,2024-02,180.2,29
+West Bengal,Asansol,2024-12,271.8,118
+West Bengal,Siliguri,2024-05,69.2,31
+West Bengal,Siliguri,2024-07,40.7,31
+Madhya Pradesh,Satna,2024-01,73.2,31
+Madhya Pradesh,Satna,2024-04,86.1,27
+Madhya Pradesh,Satna,2024-05,88.4,28
+Punjab,Jalandhar,2024-11,214.1,30
+Haryana,Gurugram,2024-05,217.9,112
+Haryana,Gurugram,2024-11,314.9,115
+Haryana,Rohtak,2024-02,99.9,29
+Haryana,Rohtak,2024-08,57.4,31
+Haryana,Rohtak,2024-10,136.6,30
+Punjab,Rupnagar,2024-10,115.8,29
+Uttar Pradesh,Bulandshahr,2024-01,247.9,31
+Uttar Pradesh,Bulandshahr,2024-02,162.8,28
+Uttar Pradesh,Bulandshahr,2024-11,258.8,30
+Uttar Pradesh,Muzaffarnagar,2024-06,188.0,29
+Karnataka,Bengaluru,2024-02,93.5,335
+Karnataka,Bengaluru,2024-08,59.9,375
+Karnataka,Bengaluru,2024-09,58.6,367
+Karnataka,Chikkaballapur,2024-07,26.8,28
+Karnataka,Chikkaballapur,2024-12,65.0,27
+Bihar,Muzaffarpur,2024-07,97.7,74
+Bihar,Muzaffarpur,2024-12,221.8,91
+Haryana,Panchkula,2024-04,89.7,27
+Telangana,Hyderabad,2024-01,93.2,333
+Kerala,Thiruvananthapuram,2024-02,66.0,58
+Kerala,Thiruvananthapuram,2024-06,42.6,60
+Punjab,Ludhiana,2024-03,88.6,31
+Punjab,Ludhiana,2024-04,88.9,30
+Punjab,Ludhiana,2024-05,133.9,31
+Punjab,Ludhiana,2024-08,69.8,31
+Punjab,Ludhiana,2024-12,145.0,31
+Punjab,Mandi Gobindgarh,2024-08,105.1,29
+Punjab,Mandi Gobindgarh,2024-11,242.5,30
+Punjab,Amritsar,2024-05,121.8,31
+Punjab,Amritsar,2024-12,123.3,28
+Andhra Pradesh,Visakhapatnam,2024-06,102.3,28
+Andhra Pradesh,Visakhapatnam,2024-10,103.9,31
+Haryana,Faridabad,2024-05,250.5,99
+Uttar Pradesh,Lucknow,2024-02,119.3,168
+Uttar Pradesh,Lucknow,2024-12,184.8,181
+Uttar Pradesh,Varanasi,2024-05,49.1,120
+Uttar Pradesh,Varanasi,2024-07,48.3,116
+TamilNadu,Chennai,2024-08,57.2,182
+TamilNadu,Chennai,2024-12,71.8,207
+West Bengal,Kolkata,2024-02,143.0,199
+West Bengal,Kolkata,2024-05,62.0,214
+West Bengal,Kolkata,2024-08,49.5,215
+West Bengal,Haldia,2024-04,71.6,30
+Maharashtra,Solapur,2024-10,72.3,88
+Maharashtra,Nagpur,2024-04,105.2,92
+Maharashtra,Nagpur,2024-07,51.9,124
+Maharashtra,Nagpur,2024-10,109.8,121
+Maharashtra,Nashik,2024-02,92.5,113
+Maharashtra,Nashik,2024-04,85.9,120
+Maharashtra,Nashik,2024-07,46.8,120
+Maharashtra,Nashik,2024-08,49.4,124
+Uttar Pradesh,Agra,2024-03,73.9,180
+Uttar Pradesh,Agra,2024-07,38.8,167
+Gujarat,Ahmedabad,2024-01,133.8,237
+Gujarat,Ahmedabad,2024-02,128.7,217
+Gujarat,Ahmedabad,2024-09,71.3,198
+Haryana,Manesar,2024-11,234.9,27
+Madhya Pradesh,Damoh,2024-01,74.0,18
+Madhya Pradesh,Damoh,2024-07,40.5,17
+Haryana,Sonipat,2024-05,117.5,27
+Haryana,Kurukshetra,2024-01,190.4,31
+Haryana,Kurukshetra,2024-05,153.3,31
+Haryana,Kurukshetra,2024-11,238.4,28
+Haryana,Dharuhera,2024-03,167.5,25
+Haryana,Dharuhera,2024-10,151.4,28
+Haryana,Bahadurgarh,2024-12,286.7,24
+Haryana,Yamuna Nagar,2024-09,58.2,24
+Haryana,Panipat,2024-07,74.7,29
+Haryana,Palwal,2024-12,65.5,15
+Haryana,Sirsa,2024-01,109.8,29
+Haryana,Sirsa,2024-11,295.0,24
+Haryana,Fatehabad,2024-11,228.4,19
+Haryana,Jind,2024-01,158.9,29
+Haryana,Hisar,2024-05,183.5,29
+Haryana,Ballabgarh,2024-08,70.6,28
+Gujarat,Gandhinagar,2024-01,107.0,87
+Gujarat,Gandhinagar,2024-07,62.6,58
+Gujarat,Gandhinagar,2024-10,100.5,70
+Gujarat,Vatva,2024-04,92.2,29
+Gujarat,Vatva,2024-07,53.7,30
+Gujarat,Vapi,2024-03,139.4,31
+Gujarat,Vapi,2024-05,70.0,25
+Haryana,Kaithal,2024-08,52.5,29
+Haryana,Kaithal,2024-09,70.2,28
+Assam,Guwahati,2024-06,72.3,81
+Assam,Guwahati,2024-08,77.4,87
+Uttar Pradesh,Ghaziabad,2024-07,99.6,91
+Uttar Pradesh,Ghaziabad,2024-11,320.5,89
+Maharashtra,Mumbai,2024-06,56.8,725
+Maharashtra,Mumbai,2024-10,86.2,744
+Maharashtra,Navi Mumbai,2024-06,66.8,170
+Maharashtra,Navi Mumbai,2024-07,50.4,155
+Kerala,Eloor,2024-01,67.6,22
+Kerala,Eloor,2024-05,81.3,21
+Uttar Pradesh,Meerut,2024-01,234.3,89
+Uttar Pradesh,Meerut,2024-09,86.8,73
+Maharashtra,Navi Mumbai,2024-05,105.8,174
+Maharashtra,Kalyan,2024-04,117.4,30
+Maharashtra,Kalyan,2024-05,100.9,31
+Maharashtra,Kalyan,2024-07,36.6,29
+Maharashtra,Kalyan,2024-12,131.6,31
+Karnataka,Chamarajanagar,2024-03,47.2,31
+Karnataka,Mysuru,2024-08,45.7,30
+Chandigarh,Chandigarh,2024-06,137.4,89
+Madhya Pradesh,Bhopal,2024-10,127.9,88
+Madhya Pradesh,Indore,2024-08,54.2,114
+Madhya Pradesh,Jabalpur,2024-12,128.1,120
+Madhya Pradesh,Katni,2024-12,151.2,30
+Karnataka,Ramanagara,2024-03,62.2,31
+Karnataka,Chikkamagaluru,2024-02,63.7,26
+Karnataka,Chikkamagaluru,2024-06,57.8,28
+Karnataka,Chikkamagaluru,2024-09,45.7,29
+Karnataka,Shivamogga,2024-12,54.0,31
+Karnataka,Vijayapura,2024-06,41.8,28
+Karnataka,Vijayapura,2024-07,40.7,28
+Karnataka,Vijayapura,2024-09,39.0,27
+Karnataka,Vijayapura,2024-11,42.4,30
+Madhya Pradesh,Sagar,2024-02,96.9,57
+Madhya Pradesh,Gwalior,2024-02,174.0,87
+Madhya Pradesh,Gwalior,2024-12,192.5,92
+Kerala,Kannur,2024-11,47.4,9
+Kerala,Kollam,2024-07,59.7,18
+Bihar,Hajipur,2024-06,138.1,29
+Haryana,Charkhi Dadri,2024-08,45.8,31
+Haryana,Charkhi Dadri,2024-12,192.2,30
+Haryana,Faridabad,2024-03,194.9,91
+Mizoram,Aizawl,2024-11,32.1,30
+TamilNadu,Gummidipoondi,2024-08,77.8,28
+TamilNadu,Thoothukudi,2024-05,97.7,30
+TamilNadu,Thoothukudi,2024-06,84.2,29
+TamilNadu,Thoothukudi,2024-08,58.1,30
+Kerala,Thrissur,2024-02,70.2,13
+Kerala,Thrissur,2024-09,49.9,21
+Kerala,Thrissur,2024-11,46.8,29
+Karnataka,Madikeri,2024-07,21.3,28
+Maharashtra,Pune,2024-12,132.6,186
+Assam,Guwahati,2024-05,93.8,81
+Puducherry,Puducherry,2024-03,51.2,31
+Puducherry,Puducherry,2024-04,39.3,30
+Arunachal Pradesh,Naharlagun,2024-05,35.4,16
+Uttar Pradesh,Prayagraj,2024-08,42.6,85
+Uttar Pradesh,Prayagraj,2024-10,73.2,92
+Uttar Pradesh,Gorakhpur,2024-09,69.3,30
+Bihar,Bettiah,2024-10,148.2,21
+Bihar,Bettiah,2024-12,158.3,27
+Bihar,Motihari,2024-02,142.8,29
+Bihar,Motihari,2024-05,95.4,26
+Bihar,Bihar Sharif,2024-04,84.7,26
+Uttar Pradesh,Vrindavan,2024-05,127.2,31
+Bihar,Munger,2024-01,195.2,29
+Bihar,Munger,2024-04,140.5,25
+Bihar,Munger,2024-11,190.9,29
+Chhattisgarh,Bilaspur,2024-06,49.3,29
+Chhattisgarh,Bhilai,2024-02,77.3,80
+Uttar Pradesh,Moradabad,2024-03,94.2,179
+Bihar,Arrah,2024-06,71.7,23
+Bihar,Arrah,2024-11,97.5,27
+Bihar,Araria,2024-02,281.6,29
+Bihar,Bhagalpur,2024-02,245.2,57
+Bihar,Bhagalpur,2024-06,116.3,54
+Bihar,Bhagalpur,2024-09,104.4,55
+Bihar,Bhagalpur,2024-11,208.1,59
+Bihar,Aurangabad,2024-03,82.5,27
+Bihar,Aurangabad,2024-11,172.3,29
+Bihar,Chhapra,2024-05,114.4,14
+Bihar,Katihar,2024-03,118.3,29
+Bihar,Katihar,2024-10,127.0,26
+Bihar,Kishanganj,2024-06,61.2,13
+Bihar,Kishanganj,2024-09,69.3,22
+Bihar,Purnia,2024-07,63.1,20
+Bihar,Manguraha,2024-02,94.2,24
+Bihar,Manguraha,2024-04,113.7,9
+Bihar,Saharsa,2024-01,349.6,29
+Bihar,Saharsa,2024-08,64.5,23
+Bihar,Saharsa,2024-10,86.2,29
+Bihar,Saharsa,2024-11,237.0,30
+Bihar,Siwan,2024-12,163.5,23
+Uttar Pradesh,Jhansi,2024-08,59.7,29
+Uttar Pradesh,Baghpat,2024-04,141.4,29
+Himachal Pradesh,Baddi,2024-01,320.4,29
+Tripura,Agartala,2024-01,275.7,31
+Sikkim,Gangtok,2024-04,95.4,27
+Uttarakhand,Dehradun,2024-03,96.4,29
+Uttarakhand,Dehradun,2024-05,142.1,31
+Uttarakhand,Dehradun,2024-11,161.1,30
+Uttar Pradesh,Bareilly,2024-03,74.0,62
+Uttar Pradesh,Khurja,2024-09,87.4,21
+TamilNadu,Madurai,2024-10,31.2,23
+TamilNadu,Coimbatore,2024-01,94.2,26
+TamilNadu,Coimbatore,2024-06,39.7,19
+TamilNadu,Ramanathapuram,2024-05,31.2,31
+TamilNadu,Ramanathapuram,2024-09,32.6,25
+Chhattisgarh,Korba,2024-02,73.1,47
+Gujarat,Surat,2024-01,74.7,31
+Gujarat,Surat,2024-02,74.2,25
+Andhra Pradesh,Chittoor,2024-05,71.5,17
+Assam,Nalbari,2024-05,111.2,25
+Assam,Nalbari,2024-06,64.6,26
+Assam,Byrnihat,2024-05,211.6,27
+Odisha,Baripada,2024-01,243.5,27
+Odisha,Baripada,2024-03,127.9,31
+Odisha,Baripada,2024-04,182.8,24
+Odisha,Baripada,2024-08,64.8,30
+Odisha,Baripada,2024-12,143.2,28
+Odisha,Keonjhar,2024-05,97.9,30
+Odisha,Keonjhar,2024-06,66.4,25
+Odisha,Keonjhar,2024-12,86.4,31
+Odisha,Rairangpur,2024-07,50.6,31
+Odisha,Bileipada,2024-01,222.3,31
+Odisha,Bileipada,2024-08,81.2,30
+Odisha,Bileipada,2024-12,166.5,31
+Odisha,Tensa,2024-01,109.4,29
+Odisha,Tensa,2024-08,44.2,30
+Odisha,Tensa,2024-11,134.1,27
+Karnataka,Kalaburagi,2024-01,69.0,29
+Karnataka,Kalaburagi,2024-11,60.0,30
+Karnataka,Hubballi,2024-01,75.7,30
+Karnataka,Hubballi,2024-11,56.5,30
+Karnataka,Tumakuru,2024-01,125.0,23
+Karnataka,Tumakuru,2024-09,82.1,30
+Chhattisgarh,Chhal,2024-01,100.0,31
+Chhattisgarh,Chhal,2024-10,88.0,31
+Chhattisgarh,Milupara,2024-02,58.4,23
+Chhattisgarh,Tumidih,2024-04,102.1,18
+Andhra Pradesh,Kadapa,2024-06,66.3,18
+Rajasthan,Bharatpur,2024-01,238.0,29
+Rajasthan,Bharatpur,2024-05,192.5,31
+Rajasthan,Bikaner,2024-02,170.6,29
+Rajasthan,Bikaner,2024-03,154.5,31
+Rajasthan,Bikaner,2024-08,73.5,30
+Rajasthan,Bikaner,2024-12,171.3,30
+Rajasthan,Dholpur,2024-04,168.6,25
+Rajasthan,Dholpur,2024-10,95.9,31
+Uttarakhand,Rishikesh,2024-04,99.6,30
+Uttarakhand,Rishikesh,2024-11,101.7,30
+Uttarakhand,Rishikesh,2024-12,60.2,31
+Uttarakhand,Kashipur,2024-08,56.0,30
+Uttarakhand,Kashipur,2024-10,118.7,27
+Rajasthan,Sirohi,2024-04,106.4,30
+Jharkhand,Dhanbad,2024-04,177.3,18
+Rajasthan,Banswara,2024-03,131.2,31
+Rajasthan,Banswara,2024-07,59.3,31
+Rajasthan,Banswara,2024-08,61.4,28
+Rajasthan,Dausa,2024-03,134.0,29
+Rajasthan,Dausa,2024-04,147.4,30
+Rajasthan,Hanumangarh,2024-11,271.4,30
+Rajasthan,Sawai Madhopur,2024-01,149.3,30
+Rajasthan,Jhunjhunu,2024-02,161.8,29
+Rajasthan,Jhunjhunu,2024-07,76.4,29
+Rajasthan,Jhunjhunu,2024-10,146.6,31
+Rajasthan,Jhunjhunu,2024-11,244.8,30
+Rajasthan,Sri Ganganagar,2024-04,223.4,29
+Rajasthan,Sri Ganganagar,2024-08,144.0,27
+Rajasthan,Pratapgarh,2024-06,86.5,30
+Rajasthan,Sikar,2024-10,145.8,31
+Rajasthan,Karauli,2024-06,141.2,26
+Rajasthan,Karauli,2024-12,119.2,29
+Rajasthan,Jhalawar,2024-01,198.7,31
+Rajasthan,Jhalawar,2024-04,110.1,30
+Rajasthan,Jhalawar,2024-11,149.8,30
+Maharashtra,Kolhapur,2024-02,148.1,55
+Maharashtra,Kolhapur,2024-06,58.3,55
+Maharashtra,Kolhapur,2024-09,57.6,57
+Maharashtra,Kolhapur,2024-12,98.0,60
+Rajasthan,Bhilwara,2024-10,95.1,31
+Rajasthan,Bhilwara,2024-11,144.7,29
+Rajasthan,Bhilwara,2024-12,175.4,31
+Rajasthan,Jaisalmer,2024-02,131.8,28
+Maharashtra,Sangli,2024-02,148.2,27
+Maharashtra,Sangli,2024-05,97.9,27
+Maharashtra,Sangli,2024-09,44.8,26
+Maharashtra,Sangli,2024-10,68.0,22
+Maharashtra,Sangli,2024-12,89.9,27
+Rajasthan,Baran,2024-03,116.6,26
+Maharashtra,Latur,2024-04,97.8,29
+Maharashtra,Latur,2024-06,59.8,30
+Maharashtra,Mahad,2024-03,112.8,30
+Maharashtra,Mahad,2024-08,48.4,31
+Maharashtra,Mahad,2024-09,53.0,30
+Maharashtra,Ahmednagar,2024-07,60.1,23
+Maharashtra,Amravati,2024-11,118.4,30
+Maharashtra,Jalgaon,2024-10,118.8,30
+Maharashtra,Jalgaon,2024-12,111.3,31
+Maharashtra,Parbhani,2024-10,105.0,27
+Maharashtra,Nanded,2024-01,133.8,28
+Maharashtra,Thane,2024-04,95.9,55
+Maharashtra,Thane,2024-05,71.1,57
+Maharashtra,Thane,2024-07,39.8,62
+Maharashtra,Badlapur,2024-07,49.5,30
+Maharashtra,Badlapur,2024-11,182.4,30
+Maharashtra,Badlapur,2024-12,130.9,30
+Maharashtra,Dhule,2024-02,136.5,28
+Maharashtra,Dhule,2024-05,118.0,24
+Maharashtra,Malegaon,2024-07,63.9,28
+Maharashtra,Mira-Bhayandar,2024-01,124.2,31
+Maharashtra,Virar,2024-02,140.1,28
+Maharashtra,Boisar,2024-12,162.6,31
+Maharashtra,Ulhasnagar,2024-12,140.1,31
+Maharashtra,Bhiwandi,2024-06,73.6,30
+Maharashtra,Bhiwandi,2024-11,196.3,30
+Rajasthan,Dungarpur,2024-10,90.0,31
+Rajasthan,Jalore,2024-04,121.3,30
+Odisha,Balasore,2024-01,311.9,31
+Odisha,Balasore,2024-04,133.5,30
+Odisha,Balasore,2024-12,189.0,27
+Odisha,Angul,2024-07,65.1,27
+Odisha,Bhubaneswar,2024-10,81.6,61
+Odisha,Bhubaneswar,2024-11,163.2,58
+Odisha,Byasanagar,2024-06,101.3,29
+Odisha,Byasanagar,2024-08,67.3,30
+West Bengal,Barrackpore,2024-08,65.5,31
+TamilNadu,Pudukottai,2024-10,43.4,18
+Andhra Pradesh,Tirupati,2024-01,39.4,26
+Rajasthan,Pratapgarh,2024-08,48.8,31
+Delhi,Delhi,2024-03,180.7,1162
+Delhi,Delhi,2024-07,97.9,1150
+Delhi,Delhi,2024-08,78.3,1113
+Uttar Pradesh,Noida,2024-01,327.3,120
+Uttar Pradesh,Noida,2024-05,232.2,115
+Uttar Pradesh,Noida,2024-12,235.6,120
+Rajasthan,Jodhpur,2024-04,128.8,145
+Rajasthan,Alwar,2024-02,87.2,28
+Rajasthan,Alwar,2024-03,83.8,31
+Rajasthan,Alwar,2024-07,70.7,31
+Rajasthan,Alwar,2024-08,52.8,31
+Rajasthan,Bhiwadi,2024-03,160.8,57
+Rajasthan,Bhiwadi,2024-06,163.9,54
+Rajasthan,Bhiwadi,2024-11,292.9,58
+Rajasthan,Ajmer,2024-01,111.7,31
+Rajasthan,Ajmer,2024-02,85.2,29
+Rajasthan,Ajmer,2024-05,110.3,31
+Rajasthan,Ajmer,2024-08,61.5,31
+Rajasthan,Ajmer,2024-11,113.7,30
+Rajasthan,Kota,2024-06,98.9,89
+Rajasthan,Kota,2024-09,74.1,90
+Rajasthan,Pali,2024-04,134.0,30
+Rajasthan,Pali,2024-09,95.5,30
+Rajasthan,Udaipur,2024-07,77.9,31
+Andhra Pradesh,Rajamahendravaram,2024-03,63.5,27
+Andhra Pradesh,Rajamahendravaram,2024-06,68.0,30
+Andhra Pradesh,Rajamahendravaram,2024-10,68.2,31
+Madhya Pradesh,Singrauli,2024-04,177.9,29
+Madhya Pradesh,Singrauli,2024-12,243.3,30
+Madhya Pradesh,Pithampur,2024-12,188.4,31
+Madhya Pradesh,Mandideep,2024-09,67.3,30
+Andhra Pradesh,Amaravati,2024-11,102.5,29
+Odisha,Talcher,2024-06,93.8,30
+West Bengal,Howrah,2024-02,139.5,58
+West Bengal,Howrah,2024-12,261.9,110
+Madhya Pradesh,Satna,2024-07,64.0,29
+Madhya Pradesh,Satna,2024-10,76.9,31
+Punjab,Patiala,2024-01,138.5,31
+Punjab,Patiala,2024-03,94.2,31
+Punjab,Patiala,2024-08,43.8,31
+Punjab,Patiala,2024-11,206.7,30
+Punjab,Khanna,2024-05,128.4,31
+Punjab,Khanna,2024-11,182.0,28
+Haryana,Gurugram,2024-04,260.7,87
+Uttar Pradesh,Greater Noida,2024-11,296.5,60
+Punjab,Bathinda,2024-01,97.1,28
+Uttar Pradesh,Muzaffarnagar,2024-01,295.4,31
+Bihar,Muzaffarpur,2024-02,201.6,83
+Bihar,Gaya,2024-10,110.4,89
+Haryana,Panchkula,2024-06,184.9,22
+Telangana,Hyderabad,2024-10,83.6,376
+Punjab,Mandi Gobindgarh,2024-09,130.1,24
+Andhra Pradesh,Visakhapatnam,2024-01,198.9,29
+Andhra Pradesh,Visakhapatnam,2024-08,87.7,31
+Haryana,Faridabad,2024-06,190.3,90
+Haryana,Faridabad,2024-07,116.6,110
+Haryana,Faridabad,2024-09,76.9,73
+Maharashtra,Chandrapur,2024-05,75.0,43
+Uttar Pradesh,Lucknow,2024-09,66.2,176
+Uttar Pradesh,Varanasi,2024-01,74.9,122
+Uttar Pradesh,Varanasi,2024-02,58.7,115
+Uttar Pradesh,Varanasi,2024-08,52.9,112
+Uttar Pradesh,Varanasi,2024-12,73.6,123
+Uttar Pradesh,Kanpur,2024-02,119.1,84
+Uttar Pradesh,Kanpur,2024-03,106.2,90
+Uttar Pradesh,Kanpur,2024-05,127.8,92
+Uttar Pradesh,Kanpur,2024-09,62.3,84
+West Bengal,Kolkata,2024-06,56.2,206
+West Bengal,Kolkata,2024-10,78.0,214
+West Bengal,Haldia,2024-01,139.0,30
+West Bengal,Haldia,2024-11,166.7,30
+Maharashtra,Solapur,2024-07,57.0,86
+Maharashtra,Nagpur,2024-05,105.5,92
+Maharashtra,Nashik,2024-09,51.2,117
+Maharashtra,Nashik,2024-10,84.8,114
+TamilNadu,Chennai,2024-09,62.3,198
+Gujarat,Ahmedabad,2024-04,125.3,198
+Gujarat,Ahmedabad,2024-05,143.0,163
+Gujarat,Ahmedabad,2024-08,61.9,183
+Gujarat,Ahmedabad,2024-10,135.3,222
+Uttar Pradesh,Hapur,2024-09,76.0,30
+Haryana,Manesar,2024-01,219.9,29
+Haryana,Manesar,2024-02,153.3,28
+Haryana,Manesar,2024-03,88.7,24
+Haryana,Manesar,2024-07,66.1,31
+Haryana,Manesar,2024-10,153.5,27
+Madhya Pradesh,Damoh,2024-06,49.2,13
+Madhya Pradesh,Damoh,2024-10,103.8,31
+Haryana,Sonipat,2024-03,69.7,24
+Madhya Pradesh,Ratlam,2024-02,129.0,27
+Madhya Pradesh,Ratlam,2024-04,129.3,30
+Madhya Pradesh,Ratlam,2024-08,43.2,31
+Haryana,Kurukshetra,2024-08,41.0,31
+Haryana,Kurukshetra,2024-10,178.5,31
+Haryana,Dharuhera,2024-02,178.7,27
+Haryana,Yamuna Nagar,2024-07,76.3,24
+Haryana,Bhiwani,2024-02,118.6,29
+Haryana,Bhiwani,2024-03,124.9,31
+Haryana,Panipat,2024-08,75.9,29
+Haryana,Karnal,2024-09,64.9,30
+Haryana,Karnal,2024-11,214.2,29
+Haryana,Palwal,2024-04,112.9,30
+Haryana,Palwal,2024-09,54.9,28
+Haryana,Sirsa,2024-04,111.1,30
+Haryana,Sirsa,2024-06,135.1,30
+Haryana,Narnaul,2024-03,63.6,31
+Haryana,Narnaul,2024-09,68.9,28
+Haryana,Narnaul,2024-12,197.9,12
+Haryana,Fatehabad,2024-04,103.1,29
+Haryana,Jind,2024-04,86.9,28
+Haryana,Jind,2024-11,296.6,30
+Haryana,Jind,2024-12,162.0,17
+Haryana,Hisar,2024-02,155.8,24
+Haryana,Hisar,2024-09,73.0,24
+Haryana,Ballabgarh,2024-06,183.4,30
+Haryana,Ballabgarh,2024-07,91.1,29
+Gujarat,Gandhinagar,2024-03,114.7,83
+Gujarat,Gandhinagar,2024-06,70.8,50
+Gujarat,Gandhinagar,2024-08,47.9,59
+Gujarat,Vatva,2024-10,101.3,31
+Gujarat,Vapi,2024-11,134.1,30
+Haryana,Kaithal,2024-01,174.5,28
+Haryana,Kaithal,2024-03,92.0,28
+Haryana,Kaithal,2024-04,106.3,26
+Haryana,Kaithal,2024-06,139.0,26
+Haryana,Kaithal,2024-12,134.5,18
+Assam,Guwahati,2024-03,202.9,80
+TamilNadu,Coimbatore,2024-09,71.7,58
+Maharashtra,Mumbai,2024-04,102.7,741
+Maharashtra,Mumbai,2024-08,43.6,703
+Maharashtra,Navi Mumbai,2024-12,128.1,178
+Uttar Pradesh,Meerut,2024-03,104.8,92
+Uttar Pradesh,Meerut,2024-08,58.2,93
+Maharashtra,Kalyan,2024-01,116.9,29
+Karnataka,Chamarajanagar,2024-08,42.4,29
+Karnataka,Mysuru,2024-03,72.6,31
+Chandigarh,Chandigarh,2024-03,129.2,92
+Madhya Pradesh,Bhopal,2024-06,77.8,88
+Madhya Pradesh,Bhopal,2024-08,56.5,90
+Madhya Pradesh,Bhopal,2024-09,69.9,87
+Madhya Pradesh,Indore,2024-10,105.0,127
+Madhya Pradesh,Indore,2024-12,102.2,136
+Madhya Pradesh,Jabalpur,2024-01,170.8,121
+Madhya Pradesh,Jabalpur,2024-09,76.9,106
+Madhya Pradesh,Katni,2024-10,106.5,31
+Karnataka,Yadgir,2024-02,76.8,16
+Karnataka,Yadgir,2024-08,36.5,25
+Karnataka,Yadgir,2024-10,47.7,26
+Karnataka,Ramanagara,2024-01,70.6,28
+Karnataka,Ramanagara,2024-11,80.1,30
+Karnataka,Bagalkot,2024-03,45.6,31
+Karnataka,Bagalkot,2024-07,50.5,31
+Karnataka,Bagalkot,2024-12,44.5,31
+Karnataka,Chikkamagaluru,2024-12,50.3,30
+Karnataka,Shivamogga,2024-05,60.9,31
+Karnataka,Shivamogga,2024-06,56.7,30
+Karnataka,Vijayapura,2024-01,43.1,30
+Karnataka,Vijayapura,2024-08,39.0,31
+Madhya Pradesh,Sagar,2024-09,57.8,58
+Madhya Pradesh,Sagar,2024-10,106.6,59
+Kerala,Kollam,2024-04,102.7,19
+Bihar,Hajipur,2024-12,294.0,30
+Haryana,Charkhi Dadri,2024-04,159.2,30
+Haryana,Charkhi Dadri,2024-11,287.2,29
+Mizoram,Aizawl,2024-01,45.7,29
+Mizoram,Aizawl,2024-03,70.5,31
+Mizoram,Aizawl,2024-07,21.7,27
+TamilNadu,Gummidipoondi,2024-01,195.7,31
+TamilNadu,Gummidipoondi,2024-12,125.6,27
+TamilNadu,Thoothukudi,2024-07,51.7,30
+Kerala,Thrissur,2024-01,90.2,24
+Karnataka,Madikeri,2024-10,29.3,30
+Karnataka,Madikeri,2024-11,34.1,30
+Maharashtra,Pune,2024-09,66.7,138
+Puducherry,Puducherry,2024-05,59.6,31
+Puducherry,Puducherry,2024-07,58.3,29
+Uttar Pradesh,Prayagraj,2024-03,94.5,92
+Uttar Pradesh,Gorakhpur,2024-06,95.9,27
+Bihar,Bettiah,2024-05,149.3,24
+Bihar,Bettiah,2024-11,169.4,23
+Bihar,Motihari,2024-07,56.4,13
+Bihar,Bihar Sharif,2024-03,75.9,23
+Bihar,Bihar Sharif,2024-06,114.7,18
+Bihar,Bihar Sharif,2024-11,206.4,26
+Uttar Pradesh,Vrindavan,2024-02,130.7,29
+Uttar Pradesh,Vrindavan,2024-03,122.9,31
+Uttar Pradesh,Vrindavan,2024-08,69.4,30
+Uttar Pradesh,Vrindavan,2024-11,149.5,30
+Bihar,Rajgir,2024-01,311.5,29
+Bihar,Munger,2024-09,56.3,26
+Chhattisgarh,Bhilai,2024-03,75.7,79
+Chhattisgarh,Bhilai,2024-08,48.2,93
+Chhattisgarh,Bhilai,2024-12,95.1,90
+Uttar Pradesh,Moradabad,2024-01,137.4,185
+Uttar Pradesh,Moradabad,2024-02,99.1,165
+Uttar Pradesh,Moradabad,2024-09,53.4,167
+Bihar,Arrah,2024-12,133.5,28
+Bihar,Araria,2024-10,113.6,26
+Bihar,Chhapra,2024-10,81.1,25
+Bihar,Chhapra,2024-12,160.2,21
+Bihar,Katihar,2024-07,45.1,22
+Bihar,Katihar,2024-12,205.2,30
+Bihar,Purnia,2024-12,194.7,28
+Bihar,Manguraha,2024-03,79.3,20
+Bihar,Manguraha,2024-12,103.9,27
+Bihar,Saharsa,2024-03,115.1,29
+Bihar,Saharsa,2024-09,57.1,27
+Bihar,Samastipur,2024-02,187.3,23
+Bihar,Samastipur,2024-11,213.0,25
+Bihar,Samastipur,2024-12,131.9,28
+Uttar Pradesh,Jhansi,2024-04,61.1,30
+Uttar Pradesh,Jhansi,2024-09,52.1,27
+Uttar Pradesh,Firozabad,2024-08,39.2,57
+Uttar Pradesh,Baghpat,2024-01,228.9,29
+Himachal Pradesh,Baddi,2024-02,173.0,28
+Himachal Pradesh,Baddi,2024-03,141.2,30
+Tripura,Agartala,2024-03,173.3,25
+Tripura,Agartala,2024-11,145.9,30
+Sikkim,Gangtok,2024-07,25.8,26
+Uttar Pradesh,Bareilly,2024-08,37.2,56
+Uttar Pradesh,Khurja,2024-10,182.1,31
+Uttar Pradesh,Khurja,2024-11,229.4,28
+TamilNadu,Madurai,2024-11,56.3,29
+TamilNadu,Coimbatore,2024-02,79.0,25
+TamilNadu,Ramanathapuram,2024-02,58.0,29
+TamilNadu,Ramanathapuram,2024-03,61.1,27
+Karnataka,Dharwad,2024-07,69.4,28
+Karnataka,Dharwad,2024-08,61.4,25
+Chhattisgarh,Raipur,2024-07,46.2,104
+Chhattisgarh,Raipur,2024-03,81.5,104
+Chhattisgarh,Korba,2024-04,82.4,49
+Chhattisgarh,Korba,2024-07,41.5,47
+Assam,Sivasagar,2024-09,49.8,29
+Gujarat,Surat,2024-03,87.7,30
+Gujarat,Surat,2024-04,55.6,30
+Gujarat,Surat,2024-12,98.3,27
+Andhra Pradesh,Chittoor,2024-11,93.5,28
+Andhra Pradesh,Tirupati,2024-08,63.8,25
+Assam,Nalbari,2024-08,62.4,25
+Assam,Byrnihat,2024-01,343.7,26
+Assam,Byrnihat,2024-07,205.4,17
+Assam,Byrnihat,2024-09,137.8,24
+Odisha,Baripada,2024-05,89.8,26
+Odisha,Baripada,2024-07,66.1,30
+Odisha,Keonjhar,2024-07,69.6,25
+Odisha,Rairangpur,2024-04,114.5,28
+Odisha,Rairangpur,2024-06,71.1,29
+Odisha,Bileipada,2024-04,179.0,22
+Odisha,Nayagarh,2024-01,162.1,29
+Odisha,Nayagarh,2024-07,34.3,23
+Odisha,Nayagarh,2024-11,91.4,27
+Odisha,Rourkela,2024-10,96.3,74
+Odisha,Tensa,2024-06,105.9,28
+Karnataka,Kalaburagi,2024-02,65.9,29
+Karnataka,Kalaburagi,2024-08,41.7,30
+Karnataka,Hubballi,2024-03,90.8,29
+Karnataka,Hubballi,2024-08,41.6,31
+Karnataka,Hubballi,2024-10,44.2,29
+Karnataka,Tumakuru,2024-04,105.2,26
+Karnataka,Tumakuru,2024-06,97.7,29
+Karnataka,Tumakuru,2024-07,86.5,30
+Karnataka,Tumakuru,2024-08,91.1,25
+Assam,Silchar,2024-04,52.2,29
+Assam,Silchar,2024-09,51.6,28
+Assam,Silchar,2024-12,57.5,31
+Andhra Pradesh,Vijayawada,2024-05,67.6,119
+Chhattisgarh,Milupara,2024-09,64.0,12
+Chhattisgarh,Milupara,2024-12,83.4,23
+Chhattisgarh,Tumidih,2024-11,118.1,11
+Andhra Pradesh,Kadapa,2024-02,66.3,29
+Andhra Pradesh,Kadapa,2024-08,48.4,23
+Rajasthan,Bharatpur,2024-09,53.8,30
+Rajasthan,Bharatpur,2024-10,123.5,31
+Rajasthan,Bikaner,2024-01,292.7,31
+Rajasthan,Churu,2024-05,171.0,12
+Rajasthan,Churu,2024-09,87.0,30
+Rajasthan,Dholpur,2024-05,156.1,30
+Rajasthan,Dholpur,2024-08,62.4,26
+Rajasthan,Sirohi,2024-07,63.1,26
+Assam,Nagaon,2024-04,99.3,29
+Jharkhand,Dhanbad,2024-01,207.7,17
+Jharkhand,Dhanbad,2024-06,162.8,4
+Jharkhand,Dhanbad,2024-07,82.8,4
+Jharkhand,Dhanbad,2024-11,235.0,8
+Rajasthan,Banswara,2024-12,150.2,29
+Rajasthan,Chittorgarh,2024-01,198.2,31
+Rajasthan,Barmer,2024-01,110.3,31
+Rajasthan,Barmer,2024-03,110.1,29
+Rajasthan,Hanumangarh,2024-08,56.8,29
+Rajasthan,Sawai Madhopur,2024-04,122.4,27
+Rajasthan,Sawai Madhopur,2024-06,129.8,30
+Rajasthan,Sawai Madhopur,2024-07,69.6,25
+Rajasthan,Sawai Madhopur,2024-08,59.3,22
+Rajasthan,Jhunjhunu,2024-05,151.3,31
+Rajasthan,Rajsamand,2024-01,145.4,31
+Rajasthan,Sri Ganganagar,2024-03,223.5,31
+Rajasthan,Sri Ganganagar,2024-05,277.0,21
+Rajasthan,Pratapgarh,2024-11,131.5,30
+Rajasthan,Sikar,2024-01,258.3,31
+Rajasthan,Sikar,2024-05,151.1,30
+Rajasthan,Sikar,2024-12,210.5,31
+Rajasthan,Karauli,2024-05,147.7,30
+Rajasthan,Karauli,2024-08,37.7,20
+Rajasthan,Jhalawar,2024-05,125.2,31
+Rajasthan,Jhalawar,2024-06,95.4,30
+Rajasthan,Jhalawar,2024-08,48.7,29
+Rajasthan,Jhalawar,2024-10,98.8,31
+Rajasthan,Jhalawar,2024-12,155.9,30
+Maharashtra,Pimpri-Chinchwad,2024-03,152.8,90
+Maharashtra,Pimpri-Chinchwad,2024-05,104.5,90
+Maharashtra,Kolhapur,2024-04,133.5,48
+Maharashtra,Kolhapur,2024-08,45.4,61
+Rajasthan,Bhilwara,2024-04,74.9,25
+Rajasthan,Bhilwara,2024-09,64.7,29
+Rajasthan,Bundi,2024-06,113.1,29
+Rajasthan,Jaisalmer,2024-06,136.2,28
+Maharashtra,Sangli,2024-07,33.2,24
+Rajasthan,Nagaur,2024-06,128.6,25
+Maharashtra,Akola,2024-02,130.9,29
+Maharashtra,Akola,2024-06,58.7,30
+Maharashtra,Amravati,2024-06,58.8,30
+Maharashtra,Jalgaon,2024-06,72.6,28
+Maharashtra,Jalna,2024-10,106.3,25
+Maharashtra,Parbhani,2024-05,107.6,31
+Maharashtra,Nanded,2024-07,42.9,20
+Maharashtra,Nanded,2024-10,88.7,24
+Maharashtra,Thane,2024-09,56.1,55
+Maharashtra,Badlapur,2024-02,137.2,29
+Maharashtra,Badlapur,2024-06,86.3,28
+Maharashtra,Malegaon,2024-01,133.1,30
+Maharashtra,Malegaon,2024-02,138.2,29
+Maharashtra,Belapur,2024-01,129.3,31
+Maharashtra,Belapur,2024-02,121.3,27
+Maharashtra,Belapur,2024-03,114.3,31
+Maharashtra,Mira-Bhayandar,2024-08,39.9,31
+Maharashtra,Mira-Bhayandar,2024-09,49.4,30
+Maharashtra,Mira-Bhayandar,2024-12,156.8,31
+Maharashtra,Virar,2024-06,69.5,28
+Maharashtra,Virar,2024-12,144.6,31
+Maharashtra,Boisar,2024-01,209.8,15
+Maharashtra,Boisar,2024-03,120.1,16
+Maharashtra,Boisar,2024-08,56.5,31
+Maharashtra,Bhiwandi,2024-08,58.6,31
+Maharashtra,Bhiwandi,2024-12,141.3,30
+Rajasthan,Jalore,2024-06,100.1,30
+Rajasthan,Jalore,2024-10,122.8,31
+Odisha,Balasore,2024-02,179.0,28
+Odisha,Balasore,2024-10,97.8,31
+Odisha,Barbil,2024-05,152.2,31
+Odisha,Barbil,2024-09,78.1,30
+Odisha,Angul,2024-08,82.3,29
+Odisha,Bhubaneswar,2024-03,100.3,58
+Odisha,Bhubaneswar,2024-08,51.9,62
+Odisha,Cuttack,2024-08,57.5,29
+Odisha,Cuttack,2024-10,76.5,31
+Odisha,Byasanagar,2024-11,140.3,30
+West Bengal,Barrackpore,2024-06,66.9,28
+TamilNadu,Perundurai,2024-12,65.3,30
+Andhra Pradesh,Tirupati,2024-04,63.9,14
+Uttar Pradesh,Noida,2024-02,203.8,112
+Uttar Pradesh,Noida,2024-06,185.2,107
+Uttar Pradesh,Noida,2024-08,75.2,121
+Rajasthan,Jaipur,2024-11,220.7,178
+Rajasthan,Jaipur,2024-12,185.0,182
+Rajasthan,Jodhpur,2024-05,119.1,155
+Rajasthan,Jodhpur,2024-08,52.6,153
+Rajasthan,Jodhpur,2024-09,73.6,147
+Rajasthan,Alwar,2024-06,96.9,28
+Rajasthan,Alwar,2024-10,87.9,31
+Rajasthan,Bhiwadi,2024-07,116.3,58
+Rajasthan,Ajmer,2024-12,112.1,31
+Rajasthan,Pali,2024-03,127.1,30
+Rajasthan,Pali,2024-06,113.9,30
+Rajasthan,Udaipur,2024-02,134.9,29
+Andhra Pradesh,Rajamahendravaram,2024-02,85.0,29
+Andhra Pradesh,Rajamahendravaram,2024-05,60.4,25
+Andhra Pradesh,Rajamahendravaram,2024-07,55.7,30
+Andhra Pradesh,Rajamahendravaram,2024-08,53.5,31
+Unknown,Unknown,2024-06,68.3,782
+Madhya Pradesh,Singrauli,2024-01,219.4,30
+Madhya Pradesh,Singrauli,2024-05,173.1,28
+Madhya Pradesh,Singrauli,2024-10,193.0,25
+Madhya Pradesh,Pithampur,2024-09,85.1,30
+Madhya Pradesh,Mandideep,2024-01,154.5,27
+Madhya Pradesh,Mandideep,2024-10,149.8,31
+Madhya Pradesh,Dewas,2024-06,50.1,27
+Madhya Pradesh,Dewas,2024-10,120.4,28
+Andhra Pradesh,Amaravati,2024-03,63.7,29
+Andhra Pradesh,Amaravati,2024-06,57.0,28
+Andhra Pradesh,Amaravati,2024-07,48.5,30
+Andhra Pradesh,Amaravati,2024-12,93.4,31
+Odisha,Talcher,2024-08,74.5,30
+Odisha,Brajrajnagar,2024-05,95.3,29
+West Bengal,Howrah,2024-03,95.9,60
+West Bengal,Howrah,2024-08,55.1,89
+West Bengal,Howrah,2024-10,88.5,104
+West Bengal,Asansol,2024-08,74.4,123
+West Bengal,Asansol,2024-10,132.2,114
+West Bengal,Siliguri,2024-06,44.5,30
+West Bengal,Siliguri,2024-08,37.0,31
+Madhya Pradesh,Satna,2024-06,87.7,30
+Punjab,Patiala,2024-07,63.2,31
+Punjab,Jalandhar,2024-01,144.5,29
+Punjab,Jalandhar,2024-06,114.9,29
+Punjab,Khanna,2024-08,70.3,31
+Punjab,Khanna,2024-10,117.0,31
+Punjab,Khanna,2024-12,99.9,31
+Haryana,Rohtak,2024-03,119.2,30
+Haryana,Rohtak,2024-09,72.5,28
+Haryana,Rohtak,2024-12,197.4,31
+Uttar Pradesh,Greater Noida,2024-08,102.4,62
+Uttar Pradesh,Bulandshahr,2024-10,182.3,31
+Punjab,Bathinda,2024-03,95.4,27
+Punjab,Bathinda,2024-09,92.9,26
+Karnataka,Bengaluru,2024-01,103.0,363
+Karnataka,Bengaluru,2024-05,72.5,302
+Karnataka,Chikkaballapur,2024-03,89.4,31
+Karnataka,Chikkaballapur,2024-05,53.3,29
+Bihar,Patna,2024-03,172.1,181
+Bihar,Patna,2024-06,141.0,173
+Bihar,Patna,2024-10,156.1,164
+Bihar,Muzaffarpur,2024-04,211.9,78
+Bihar,Muzaffarpur,2024-11,244.7,86
+Bihar,Gaya,2024-05,88.9,86
+Bihar,Gaya,2024-11,184.6,84
+Haryana,Panchkula,2024-02,100.0,24
+Haryana,Panchkula,2024-05,191.7,29
+Maharashtra,Aurangabad,2024-06,69.1,69
+Maharashtra,Aurangabad,2024-09,71.9,88
+Telangana,Hyderabad,2024-02,82.2,312
+Telangana,Hyderabad,2024-04,91.3,310
+Kerala,Thiruvananthapuram,2024-01,68.8,54
+Punjab,Ludhiana,2024-06,154.2,29
+Punjab,Mandi Gobindgarh,2024-04,186.8,20
+Punjab,Mandi Gobindgarh,2024-06,221.0,26
+Punjab,Amritsar,2024-06,141.7,30
+Andhra Pradesh,Visakhapatnam,2024-04,107.8,30
+Maharashtra,Chandrapur,2024-07,36.1,49
+Maharashtra,Chandrapur,2024-12,130.3,31
+Uttar Pradesh,Lucknow,2024-10,122.5,181
+Uttar Pradesh,Kanpur,2024-06,112.1,85
+TamilNadu,Chennai,2024-04,61.6,174
+West Bengal,Kolkata,2024-04,102.4,207
+West Bengal,Haldia,2024-02,115.0,29
+Maharashtra,Solapur,2024-01,121.5,92
+Maharashtra,Solapur,2024-05,109.2,88
+Maharashtra,Nagpur,2024-01,165.2,123
+Maharashtra,Nagpur,2024-11,178.4,120
+Maharashtra,Nashik,2024-06,57.0,115
+Uttar Pradesh,Agra,2024-12,113.5,183
+Haryana,Manesar,2024-06,109.0,30
+Haryana,Sonipat,2024-04,100.1,30
+Haryana,Sonipat,2024-08,62.4,29
+Haryana,Dharuhera,2024-09,68.7,25
+Haryana,Bahadurgarh,2024-01,267.8,31
+Haryana,Bahadurgarh,2024-07,85.5,29
+Haryana,Yamuna Nagar,2024-08,54.9,28
+Haryana,Yamuna Nagar,2024-11,217.5,28
+Haryana,Bhiwani,2024-09,90.7,26
+Haryana,Bhiwani,2024-12,148.6,16
+Haryana,Panipat,2024-02,102.8,14
+Haryana,Panipat,2024-03,121.8,29
+Haryana,Karnal,2024-01,128.5,31
+Haryana,Karnal,2024-06,103.3,30
+Haryana,Palwal,2024-05,116.4,31
+Haryana,Palwal,2024-11,132.7,30
+Haryana,Sirsa,2024-12,169.4,16
+Haryana,Fatehabad,2024-03,95.2,31
+Haryana,Fatehabad,2024-05,145.9,30
+Haryana,Hisar,2024-08,45.0,30
+Haryana,Ballabgarh,2024-01,281.2,31
+Haryana,Ballabgarh,2024-02,216.7,29
+Haryana,Ballabgarh,2024-03,186.9,31
+Haryana,Ballabgarh,2024-04,199.4,30
+Haryana,Ballabgarh,2024-09,74.9,29
+Gujarat,Ankleshwar,2024-02,108.6,29
+Gujarat,Gandhinagar,2024-12,126.2,86
+Gujarat,Vatva,2024-03,116.4,25
+Gujarat,Vatva,2024-09,72.7,27
+Gujarat,Vatva,2024-11,124.5,30
+Gujarat,Vapi,2024-01,242.1,29
+Haryana,Kaithal,2024-05,158.7,27
+Haryana,Kaithal,2024-10,178.4,30
+Haryana,Kaithal,2024-11,254.1,29
+Assam,Guwahati,2024-01,290.4,91
+Assam,Guwahati,2024-10,66.5,92
+Uttar Pradesh,Ghaziabad,2024-08,69.4,90
+TamilNadu,Coimbatore,2024-11,81.7,60
+Maharashtra,Navi Mumbai,2024-02,152.9,158
+Kerala,Eloor,2024-12,71.6,23
+Uttar Pradesh,Meerut,2024-07,70.6,91
+Uttar Pradesh,Meerut,2024-12,171.8,89
+Maharashtra,Kalyan,2024-03,127.7,31
+Maharashtra,Kalyan,2024-06,58.9,30
+Karnataka,Chamarajanagar,2024-05,44.3,31
+Karnataka,Chamarajanagar,2024-11,46.2,30
+Karnataka,Mysuru,2024-02,73.6,29
+Karnataka,Mysuru,2024-04,74.3,29
+Karnataka,Mysuru,2024-10,51.5,31
+Chandigarh,Chandigarh,2024-02,183.0,85
+Meghalaya,Shillong,2024-01,87.9,31
+Meghalaya,Shillong,2024-11,55.1,12
+Madhya Pradesh,Bhopal,2024-07,59.1,87
+Madhya Pradesh,Bhopal,2024-11,237.7,88
+Madhya Pradesh,Jabalpur,2024-04,112.5,105
+Madhya Pradesh,Jabalpur,2024-10,110.9,119
+Madhya Pradesh,Jabalpur,2024-11,161.7,117
+Madhya Pradesh,Katni,2024-06,84.3,30
+Madhya Pradesh,Katni,2024-09,59.1,29
+Karnataka,Yadgir,2024-03,80.9,31
+Karnataka,Yadgir,2024-09,46.2,29
+Karnataka,Ramanagara,2024-07,39.9,31
+Karnataka,Ramanagara,2024-12,64.6,25
+Karnataka,Chikkamagaluru,2024-10,53.4,29
+Karnataka,Shivamogga,2024-09,51.0,28
+Madhya Pradesh,Sagar,2024-03,86.3,61
+Madhya Pradesh,Sagar,2024-05,124.0,58
+Madhya Pradesh,Gwalior,2024-03,140.1,89
+Madhya Pradesh,Gwalior,2024-06,117.4,89
+Madhya Pradesh,Gwalior,2024-08,69.7,92
+Kerala,Kannur,2024-03,69.3,31
+Kerala,Kannur,2024-06,68.9,21
+Kerala,Kannur,2024-07,68.8,23
+Kerala,Kollam,2024-05,83.8,21
+Bihar,Hajipur,2024-08,78.0,29
+Haryana,Charkhi Dadri,2024-01,171.9,31
+Haryana,Charkhi Dadri,2024-05,179.2,30
+Mizoram,Aizawl,2024-06,37.9,30
+Mizoram,Aizawl,2024-08,26.0,31
+TamilNadu,Gummidipoondi,2024-11,170.8,29
+TamilNadu,Thoothukudi,2024-01,55.6,31
+Kerala,Thrissur,2024-03,64.4,24
+Karnataka,Madikeri,2024-03,58.8,31
+Maharashtra,Pune,2024-01,128.3,146
+Maharashtra,Pune,2024-04,92.5,135
+Maharashtra,Pune,2024-05,99.0,132
+Karnataka,Mangalore,2024-02,79.3,28
+Karnataka,Mangalore,2024-10,46.8,28
+Puducherry,Puducherry,2024-11,72.9,29
+Arunachal Pradesh,Naharlagun,2024-07,25.4,19
+Arunachal Pradesh,Naharlagun,2024-10,37.4,20
+Arunachal Pradesh,Naharlagun,2024-12,86.2,13
+Uttar Pradesh,Prayagraj,2024-02,90.7,82
+Uttar Pradesh,Prayagraj,2024-06,77.4,89
+Uttar Pradesh,Prayagraj,2024-11,110.6,89
+Bihar,Motihari,2024-01,184.6,30
+Bihar,Motihari,2024-08,58.4,27
+Uttar Pradesh,Firozabad,2024-11,105.8,58
+Bihar,Sasaram,2024-04,108.7,29
+Bihar,Sasaram,2024-07,62.2,25
+Bihar,Rajgir,2024-10,124.0,20
+Bihar,Munger,2024-12,178.0,29
+Chhattisgarh,Bhilai,2024-10,76.3,93
+Bihar,Bhagalpur,2024-01,365.9,62
+Bihar,Bhagalpur,2024-05,120.5,57
+Bihar,Aurangabad,2024-04,85.8,16
+Bihar,Aurangabad,2024-10,119.6,29
+Bihar,Chhapra,2024-01,321.8,29
+Bihar,Chhapra,2024-09,75.2,28
+Bihar,Katihar,2024-08,40.8,17
+Bihar,Purnia,2024-09,74.5,19
+Uttar Pradesh,Jhansi,2024-05,82.4,21
+Uttar Pradesh,Jhansi,2024-10,78.8,31
+Uttar Pradesh,Baghpat,2024-05,191.2,29
+Uttar Pradesh,Baghpat,2024-07,81.9,31
+Uttar Pradesh,Baghpat,2024-12,136.3,30
+Himachal Pradesh,Baddi,2024-05,188.1,31
+Himachal Pradesh,Baddi,2024-06,191.7,29
+Himachal Pradesh,Baddi,2024-07,90.3,30
+Himachal Pradesh,Baddi,2024-08,79.4,31
+Tripura,Agartala,2024-10,102.1,20
+Uttar Pradesh,Bareilly,2024-01,85.4,54
+Uttar Pradesh,Bareilly,2024-05,56.7,59
+Uttar Pradesh,Bareilly,2024-09,53.6,54
+Uttar Pradesh,Bareilly,2024-10,68.3,56
+Uttar Pradesh,Bareilly,2024-11,114.0,60
+TamilNadu,Thanjavur,2024-10,40.5,22
+TamilNadu,Ramanathapuram,2024-06,24.6,28
+Andhra Pradesh,Anantapur,2024-09,57.9,17
+Karnataka,Dharwad,2024-01,108.5,30
+Karnataka,Dharwad,2024-06,56.9,26
+Karnataka,Dharwad,2024-11,106.8,26
+Karnataka,Dharwad,2024-12,99.4,30
+Chhattisgarh,Raipur,2024-04,74.8,97
+Chhattisgarh,Raipur,2024-06,60.3,99
+Chhattisgarh,Raipur,2024-08,53.0,109
+Chhattisgarh,Korba,2024-03,70.8,57
+Assam,Sivasagar,2024-04,57.5,30
+Assam,Sivasagar,2024-05,59.2,31
+Assam,Sivasagar,2024-12,63.8,31
+Gujarat,Surat,2024-09,73.8,16
+Andhra Pradesh,Chittoor,2024-03,113.1,19
+Andhra Pradesh,Chittoor,2024-08,53.5,13
+Andhra Pradesh,Chittoor,2024-09,64.7,27
+Andhra Pradesh,Chittoor,2024-10,78.6,27
+Andhra Pradesh,Tirupati,2024-11,100.3,16
+Assam,Nalbari,2024-11,73.2,29
+Assam,Byrnihat,2024-08,185.2,25
+Assam,Byrnihat,2024-11,293.9,27
+Odisha,Baripada,2024-09,68.4,30
+Odisha,Baripada,2024-10,77.3,30
+Odisha,Keonjhar,2024-04,118.2,28
+Odisha,Keonjhar,2024-08,99.4,25
+Odisha,Bileipada,2024-02,178.5,26
+Odisha,Bileipada,2024-07,68.8,23
+Odisha,Bileipada,2024-10,129.7,26
+Odisha,Bileipada,2024-11,185.4,27
+Odisha,Tensa,2024-03,92.7,27
+Karnataka,Kalaburagi,2024-09,39.0,30
+Karnataka,Kalaburagi,2024-10,44.5,30
+Karnataka,Tumakuru,2024-11,107.1,20
+Assam,Silchar,2024-08,53.8,29
+Andhra Pradesh,Vijayawada,2024-03,67.8,121
+Andhra Pradesh,Vijayawada,2024-10,70.3,91
+Chhattisgarh,Chhal,2024-05,109.0,29
+Chhattisgarh,Chhal,2024-12,68.3,29
+Chhattisgarh,Kunjemura,2024-05,101.6,31
+Chhattisgarh,Milupara,2024-07,82.7,7
+Chhattisgarh,Milupara,2024-10,79.8,20
+Chhattisgarh,Tumidih,2024-06,73.8,16
+Andhra Pradesh,Kadapa,2024-01,55.2,30
+Andhra Pradesh,Kadapa,2024-04,75.9,16
+Andhra Pradesh,Kadapa,2024-09,53.5,13
+Rajasthan,Bharatpur,2024-03,139.9,30
+Rajasthan,Bharatpur,2024-08,44.4,29
+Rajasthan,Churu,2024-01,216.5,30
+Rajasthan,Churu,2024-02,144.7,28
+Rajasthan,Churu,2024-07,88.4,31
+Rajasthan,Dholpur,2024-07,162.8,24
+Rajasthan,Dholpur,2024-11,153.1,30
+Rajasthan,Dholpur,2024-12,141.6,29
+Uttarakhand,Rishikesh,2024-08,47.9,31
+Uttarakhand,Kashipur,2024-04,93.0,30
+Uttarakhand,Kashipur,2024-05,119.2,31
+Uttarakhand,Kashipur,2024-06,115.7,28
+Uttarakhand,Kashipur,2024-09,59.5,27
+Uttarakhand,Kashipur,2024-12,105.7,31
+Rajasthan,Sirohi,2024-10,80.9,31
+Rajasthan,Sirohi,2024-12,158.2,31
+Assam,Nagaon,2024-03,137.8,31
+Rajasthan,Dausa,2024-09,88.9,30
+Rajasthan,Dausa,2024-12,154.4,31
+Rajasthan,Barmer,2024-04,106.4,30
+Rajasthan,Barmer,2024-07,82.9,31
+Rajasthan,Barmer,2024-12,143.5,31
+Rajasthan,Sawai Madhopur,2024-03,115.9,31
+Rajasthan,Jhunjhunu,2024-06,144.7,30
+Rajasthan,Sri Ganganagar,2024-02,285.0,23
+Rajasthan,Sri Ganganagar,2024-06,239.9,17
+Rajasthan,Karauli,2024-03,86.3,21
+Rajasthan,Karauli,2024-09,64.5,28
+Rajasthan,Jhalawar,2024-09,65.7,27
+Maharashtra,Pimpri-Chinchwad,2024-10,90.0,122
+Maharashtra,Pimpri-Chinchwad,2024-11,221.7,118
+Maharashtra,Kolhapur,2024-01,131.5,60
+Rajasthan,Jaisalmer,2024-08,58.7,31
+Rajasthan,Jaisalmer,2024-11,146.5,30
+Rajasthan,Baran,2024-11,175.4,30
+Rajasthan,Nagaur,2024-03,133.3,26
+Rajasthan,Nagaur,2024-11,197.3,30
+Maharashtra,Akola,2024-08,50.4,30
+Maharashtra,Akola,2024-12,106.7,31
+Maharashtra,Ahmednagar,2024-06,72.2,25
+Maharashtra,Amravati,2024-05,102.4,31
+Maharashtra,Amravati,2024-12,91.3,31
+Maharashtra,Jalgaon,2024-07,54.9,31
+Maharashtra,Jalgaon,2024-11,224.7,30
+Maharashtra,Jalna,2024-02,145.2,26
+Maharashtra,Parbhani,2024-01,122.5,31
+Maharashtra,Parbhani,2024-09,59.6,26
+Maharashtra,Nanded,2024-03,141.2,29
+Maharashtra,Nanded,2024-11,177.0,30
+Maharashtra,Thane,2024-03,109.0,58
+Maharashtra,Badlapur,2024-09,72.0,25
+Maharashtra,Dhule,2024-01,138.6,31
+Maharashtra,Malegaon,2024-09,61.8,30
+Maharashtra,Malegaon,2024-10,111.2,29
+Maharashtra,Belapur,2024-04,111.7,30
+Maharashtra,Belapur,2024-07,46.6,29
+Maharashtra,Mira-Bhayandar,2024-02,152.0,27
+Maharashtra,Mira-Bhayandar,2024-11,175.9,29
+Maharashtra,Virar,2024-08,71.2,31
+Maharashtra,Virar,2024-09,58.6,30
+Maharashtra,Boisar,2024-07,55.9,31
+Maharashtra,Ulhasnagar,2024-02,141.2,27
+Rajasthan,Dungarpur,2024-07,109.9,25
+Rajasthan,Dungarpur,2024-11,133.2,30
+Rajasthan,Dungarpur,2024-12,173.3,31
+Rajasthan,Jalore,2024-07,81.9,30
+Rajasthan,Jalore,2024-08,53.1,31
+Rajasthan,Jalore,2024-12,193.2,31
+Odisha,Barbil,2024-11,141.2,30
+Odisha,Angul,2024-06,95.7,29
+Odisha,Cuttack,2024-12,178.9,31
+West Bengal,Barrackpore,2024-03,116.8,24
+West Bengal,Durgapur,2024-05,133.6,31
+West Bengal,Durgapur,2024-11,271.7,56
+TamilNadu,Perundurai,2024-11,83.0,30
+West Bengal,Durgapur,2024-12,284.2,57
+Andhra Pradesh,Tirupati,2024-05,67.8,23
+Rajasthan,Churu,2024-04,146.2,20
+Rajasthan,Pratapgarh,2024-09,58.4,30
+Madhya Pradesh,Ratlam,2024-05,140.8,23
+Haryana,Panipat,2024-09,77.0,22
+Karnataka,Ramanagara,2024-02,57.8,29
+Bihar,Siwan,2024-06,117.9,9
+TamilNadu,Coimbatore,2024-05,44.4,17
+Rajasthan,Bharatpur,2024-02,153.3,28
+Rajasthan,Bhilwara,2024-01,182.9,31
+Rajasthan,Bundi,2024-01,230.8,29
+Rajasthan,Baran,2024-10,115.4,31
+Maharashtra,Virar,2024-10,91.3,31
+Maharashtra,Bhiwandi,2024-03,129.2,23
+Haryana,Bahadurgarh,2024-08,48.5,20
+Chhattisgarh,Bilaspur,2024-01,92.6,27
+Gujarat,Surat,2024-08,70.9,29
+Karnataka,Tumakuru,2024-12,145.3,10
+Rajasthan,Rajsamand,2024-12,155.8,31
+Rajasthan,Nagaur,2024-01,182.7,31
+Maharashtra,Parbhani,2024-06,94.9,9
+Karnataka,Chikkaballapur,2024-11,94.4,29
+Madhya Pradesh,Damoh,2024-08,50.6,16
+Haryana,Dharuhera,2024-04,185.8,26
+Haryana,Yamuna Nagar,2024-06,117.2,21
+Haryana,Narnaul,2024-11,204.1,25
+Gujarat,Ankleshwar,2024-04,83.7,28
+Gujarat,Ankleshwar,2024-07,72.5,27
+Meghalaya,Shillong,2024-05,65.9,7
+Kerala,Kollam,2024-12,78.6,20
+Bihar,Motihari,2024-10,79.7,26
+Bihar,Motihari,2024-11,166.3,28
+Bihar,Bihar Sharif,2024-07,97.6,20
+Bihar,Sasaram,2024-06,109.7,27
+Bihar,Sasaram,2024-12,215.4,30
+Bihar,Manguraha,2024-08,75.5,4
+Bihar,Samastipur,2024-05,113.7,21
+Rajasthan,Bundi,2024-05,142.8,31
+Maharashtra,Mahad,2024-11,181.3,28
+Maharashtra,Badlapur,2024-10,103.8,30
+Maharashtra,Boisar,2024-06,86.6,23
+Odisha,Talcher,2024-03,129.1,29
+Uttar Pradesh,Muzaffarnagar,2024-07,102.2,30
+Arunachal Pradesh,Naharlagun,2024-08,31.6,13
+Bihar,Bettiah,2024-08,99.8,13
+Bihar,Samastipur,2024-04,143.1,23
+Chhattisgarh,Milupara,2024-08,49.0,1
+Andhra Pradesh,Kadapa,2024-11,93.4,20
+Rajasthan,Dholpur,2024-06,168.1,27
+Maharashtra,Akola,2024-05,94.0,31
+Maharashtra,Ahmednagar,2024-09,61.2,15
+Punjab,Khanna,2024-04,85.7,28
+Uttar Pradesh,Muzaffarnagar,2024-05,232.4,30
+Arunachal Pradesh,Naharlagun,2024-09,32.9,17
+Bihar,Bettiah,2024-09,97.6,18
+Bihar,Siwan,2024-05,188.3,12
+Bihar,Siwan,2024-07,101.3,11
+Maharashtra,Ulhasnagar,2024-10,97.7,27
+Odisha,Angul,2024-12,218.9,31
+TamilNadu,Pudukottai,2024-12,90.2,20
+Karnataka,Bagalkot,2024-08,50.4,31
+Arunachal Pradesh,Naharlagun,2024-06,28.3,6
+Bihar,Araria,2024-06,65.4,7
+Andhra Pradesh,Anantapur,2024-07,71.8,22
+Andhra Pradesh,Anantapur,2024-11,73.0,27
+Odisha,Nayagarh,2024-09,38.6,26
+Rajasthan,Dholpur,2024-03,194.9,28
+Madhya Pradesh,Dewas,2024-01,135.5,28
+Haryana,Bahadurgarh,2024-06,156.0,26
+Meghalaya,Shillong,2024-09,22.9,11
+Bihar,Rajgir,2024-03,93.3,29
+Bihar,Katihar,2024-04,132.2,28
+Jharkhand,Dhanbad,2024-08,157.0,2
+Rajasthan,Rajsamand,2024-08,48.3,30
+Uttar Pradesh,Hapur,2024-11,299.0,30
+Haryana,Dharuhera,2024-12,132.2,16
+Haryana,Palwal,2024-10,90.1,30
+Gujarat,Vapi,2024-06,59.5,28
+Gujarat,Vapi,2024-10,68.7,31
+Kerala,Eloor,2024-02,73.4,29
+TamilNadu,Thanjavur,2024-12,39.6,23
+TamilNadu,Coimbatore,2024-04,51.4,21
+Chhattisgarh,Tumidih,2024-08,59.8,8
+Jharkhand,Dhanbad,2024-05,118.6,14
+Maharashtra,Boisar,2024-02,142.7,10
+Kerala,Eloor,2024-09,77.2,11
+Haryana,Fatehabad,2024-12,101.4,13
+Bihar,Bettiah,2024-07,46.1,7
+Chhattisgarh,Tumidih,2024-12,109.2,5
+Meghalaya,Shillong,2024-06,36.0,1
